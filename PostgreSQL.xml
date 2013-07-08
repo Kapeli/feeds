@@ -1,5 +1,5 @@
 <entry>
     <version>9.2.4/2</version>
-    
-    <url>http://kapeli.com/feeds/PostgreSQL.tgz</url>    
+    <url>http://kapeli.com/feeds/PostgreSQL.tgz</url>
+    <url>http:/192.241.209.127/feeds/PostgreSQL.tgz</url>
 </entry>

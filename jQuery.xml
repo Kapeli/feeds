@@ -1,5 +1,5 @@
 <entry>
     <version>1.10.2 or 2.0.3</version>
-    
-    <url>http://kapeli.com/feeds/jQuery.tgz</url>    
+    <url>http://kapeli.com/feeds/jQuery.tgz</url>
+    <url>http:/192.241.209.127/feeds/jQuery.tgz</url>
 </entry>
