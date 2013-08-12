@@ -1,7 +1,7 @@
 <entry>
     <version>0.10.15</version>
-    <url>http://newyork2.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://newyork.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://amsterdam.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://sanfrancisco.kapeli.com/feeds/NodeJS.tgz</url>
+    <url>http://newyork2.kapeli.com/feeds/NodeJS.tgz</url>
 </entry>

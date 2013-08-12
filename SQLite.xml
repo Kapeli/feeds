@@ -1,7 +1,7 @@
 <entry>
     <version>3.7.17</version>
-    <url>http://newyork2.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://newyork.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://amsterdam.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://sanfrancisco.kapeli.com/feeds/SQLite.tgz</url>
+    <url>http://newyork2.kapeli.com/feeds/SQLite.tgz</url>
 </entry>
