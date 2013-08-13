@@ -1,3 +1,3 @@
 Just a latency test. Move along.
 
-Extra mirrors: newyork3.kapeli.com, newyork4.kapeli.com
+Extra mirrors: http://newyork3.kapeli.com/feeds, http://newyork4.kapeli.com/feeds
