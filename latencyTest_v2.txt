@@ -1,1 +1,3 @@
 Just a latency test. Move along.
+
+Extra mirrors: http://cloudflare.kapeli.pw/feeds/
