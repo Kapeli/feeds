@@ -1,3 +1,3 @@
 Just a latency test. Move along.
 
-Extra mirrors: http://sydney.kapeli.com/feeds/
+Extra mirrors: http://singapore.kapeli.com/feeds/, http://sydney.kapeli.com/feeds/
