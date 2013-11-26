@@ -2,6 +2,7 @@
     <version>1.5.4</version>
     <url>http://newyork.kapeli.com/feeds/Arduino.tgz</url>
     <url>http://london.kapeli.com/feeds/Arduino.tgz</url>
+    <url>http://sanfrancisco.kapeli.com/feeds/Arduino.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Arduino.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Arduino.tgz</url>
 </entry>

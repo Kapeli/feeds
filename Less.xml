@@ -2,6 +2,7 @@
     <version>1.5.0</version>
     <url>http://newyork.kapeli.com/feeds/Less.tgz</url>
     <url>http://london.kapeli.com/feeds/Less.tgz</url>
+    <url>http://sanfrancisco.kapeli.com/feeds/Less.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Less.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Less.tgz</url>
 </entry>
