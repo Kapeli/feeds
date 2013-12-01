@@ -1,2 +1,1 @@
-PRICE: $9.99
-SALE: 50% OFF
+PRICE: $19.99
