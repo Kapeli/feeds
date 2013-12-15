@@ -1,10 +1,10 @@
 <entry>
     <version>11.8</version>
     <url>http://newyork.kapeli.com/feeds/Chef.tgz</url>
-    <url>http://london.kapeli.com/feeds/Chef.tgz</url>
     <url>http://sanfrancisco.kapeli.com/feeds/Chef.tgz</url>
+    <url>http://london.kapeli.com/feeds/Chef.tgz</url>
+    <url>http://london2.kapeli.com/feeds/Chef.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Chef.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Chef.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Chef.tgz</url>
-    <url>http://london2.kapeli.com/feeds/Chef.tgz</url>
 </entry>
