@@ -1,8 +1,8 @@
 <entry>
     <version>4.0.9/3</version>
-    <url>http://dallas.kapeli.com/feeds/Laravel.tgz</url>
-    <url>http://sanfrancisco.kapeli.com/feeds/Laravel.tgz</url>
     <url>http://london.kapeli.com/feeds/Laravel.tgz</url>
+    <url>http://sanfrancisco.kapeli.com/feeds/Laravel.tgz</url>
+    <url>http://dallas.kapeli.com/feeds/Laravel.tgz</url>
     <url>http://newyork.kapeli.com/feeds/Laravel.tgz</url>
     <url>http://london2.kapeli.com/feeds/Laravel.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Laravel.tgz</url>

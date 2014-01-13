@@ -1,8 +1,8 @@
 <entry>
     <version>2.1.4</version>
-    <url>http://dallas.kapeli.com/feeds/CodeIgniter.tgz</url>
-    <url>http://sanfrancisco.kapeli.com/feeds/CodeIgniter.tgz</url>
     <url>http://london.kapeli.com/feeds/CodeIgniter.tgz</url>
+    <url>http://sanfrancisco.kapeli.com/feeds/CodeIgniter.tgz</url>
+    <url>http://dallas.kapeli.com/feeds/CodeIgniter.tgz</url>
     <url>http://newyork.kapeli.com/feeds/CodeIgniter.tgz</url>
     <url>http://london2.kapeli.com/feeds/CodeIgniter.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/CodeIgniter.tgz</url>
