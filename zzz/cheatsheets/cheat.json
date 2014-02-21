@@ -5,6 +5,7 @@
         "Objective-C_Blocks": {
             "version": "1.0.0",
             "name": "Objective-C Blocks",
+            "aliases": ["xcode", "apple", "cocoa touch", "iphone", "ipad", "ios", "mac os x", "macosx"],
         },
 
         "Regular_Expressions": {
