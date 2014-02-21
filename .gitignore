@@ -1,5 +1,4 @@
 *.tgz
-latencyTest.txt
-latencyTest_v2.txt
+*.txt
 .DS_Store
 zzz
