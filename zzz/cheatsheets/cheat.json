@@ -1,0 +1,17 @@
+{
+    "global_version": "1.0.0",
+    "cheatsheets": {
+
+        "Objective-C_Blocks": {
+            "version": "1.0.0",
+            "name": "Objective-C Blocks",
+        },
+
+        "Regular_Expressions": {
+            "version": "1.0.0",
+            "name": "Regular Expressions",
+            "aliases": ["RegEx"],
+        },
+
+    },
+}
