@@ -12,4 +12,7 @@
     <url>http://tokyo2.kapeli.com/feeds/AWS_JavaScript.tgz</url>
     <url>http://london3.kapeli.com/feeds/AWS_JavaScript.tgz</url>
     <url>http://sydney.kapeli.com/feeds/AWS_JavaScript.tgz</url>
+    <other-versions>
+        <version><name>2.0.0-rc13</name><sha1>402b46333438e803f219ba14f69e7c9c5218c42c</sha1></version>
+    </other-versions>
 </entry>
