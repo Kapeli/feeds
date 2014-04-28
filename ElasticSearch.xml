@@ -12,4 +12,7 @@
     <url>http://tokyo2.kapeli.com/feeds/ElasticSearch.tgz</url>
     <url>http://london3.kapeli.com/feeds/ElasticSearch.tgz</url>
     <url>http://sydney.kapeli.com/feeds/ElasticSearch.tgz</url>
+    <other-versions>
+        <version><name>1.1</name><sha1>884528c115826ec8a9678f332a314fa5cdc2d2c5</sha1></version>
+    </other-versions>
 </entry>

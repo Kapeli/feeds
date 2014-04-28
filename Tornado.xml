@@ -12,4 +12,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Tornado.tgz</url>
     <url>http://london3.kapeli.com/feeds/Tornado.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Tornado.tgz</url>
+    <other-versions>
+        <version><name>3.2.0</name><sha1>5f824a7b7b4041372c54be124d98da78c04bbd4f</sha1></version>
+    </other-versions>
 </entry>

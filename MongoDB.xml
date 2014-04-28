@@ -12,4 +12,17 @@
     <url>http://tokyo2.kapeli.com/feeds/MongoDB.tgz</url>
     <url>http://london3.kapeli.com/feeds/MongoDB.tgz</url>
     <url>http://sydney.kapeli.com/feeds/MongoDB.tgz</url>
+    <other-versions>
+        <version><name>2.6.0</name><sha1>20a354328b62193b8358b6b34d51db9befcb119c</sha1></version>
+        <version><name>2.4.10</name><sha1>dfb020ce85c32dca6cce95b40b4a4389cbaa4c8a</sha1></version>
+        <version><name>2.4.9</name><sha1>b07ca41b7478a287f4b290ad795b5b62a5255626</sha1></version>
+        <version><name>2.4.8</name><sha1>62b59281a8cd02982ecfdf01ea6920ecbacaebe2</sha1></version>
+        <version><name>2.4.6</name><sha1>c0856a19f36da48103dea7085571140f645e022b</sha1></version>
+        <version><name>2.4.5</name><sha1>08768d1fac9d493e3c176f66e16e0a8757d5effe</sha1></version>
+        <version><name>2.4.4</name><sha1>58dd5f340371d5b94594b9b4de1a273319dc7c1c</sha1></version>
+        <version><name>2.4.3</name><sha1>cdad894f20da0d6dcda46a158d1399c152d919a0</sha1></version>
+        <version><name>2.4.2</name><sha1>c9b45e6a74b4f47c8f6eb5510465288c8ec76643</sha1></version>
+        <version><name>2.4.1</name><sha1>9af1e3d1635fdad064be942b00ae108c721c2ab8</sha1></version>
+        <version><name>2.2.3</name><sha1>7228a3c1b370e71e0d93c08eeb40946057e34073</sha1></version>
+    </other-versions>
 </entry>

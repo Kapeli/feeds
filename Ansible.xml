@@ -12,4 +12,17 @@
     <url>http://tokyo2.kapeli.com/feeds/Ansible.tgz</url>
     <url>http://london3.kapeli.com/feeds/Ansible.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Ansible.tgz</url>
+    <other-versions>
+        <version><name>1.5.5</name><sha1>59b17ad823f9604de2fd86e71f8fc7c10eb8ca74</sha1></version>
+        <version><name>1.5.4</name><sha1>20582abb76d9438a3ecc5ab2224e6ad5b138b9e6</sha1></version>
+        <version><name>1.5.3</name><sha1>97747801b776b1ffdb563ebf21c5dd6c32ac3411</sha1></version>
+        <version><name>1.5.2</name><sha1>bf29bb540b608837e5a9e4d0eba5202e07b97f33</sha1></version>
+        <version><name>1.5.1</name><sha1>21a10a50353b91db5e9a41bcadcf24cfccebb7b5</sha1></version>
+        <version><name>1.5.0</name><sha1>44419267b87eae54536d15fb0a1dabd47651dd8b</sha1></version>
+        <version><name>1.4.5</name><sha1>a7271bd922cb2a3c96d09d524118b57aa170bf34</sha1></version>
+        <version><name>1.4.4</name><sha1>0a7e5f82e97b569da543f1f1c6d4832bf3562b1b</sha1></version>
+        <version><name>1.4.3</name><sha1>40cac8669f82a998ca9a6bcbfa3dcf211d52f85c</sha1></version>
+        <version><name>1.4.1</name><sha1>7952ab16ad58fc534efc0e42bfbd221d3fa0b2b7</sha1></version>
+        <version><name>1.4.0</name><sha1>9cb791e2a7ab40354dd59ba118937145daecc166</sha1></version>
+    </other-versions>
 </entry>

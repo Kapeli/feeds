@@ -12,4 +12,8 @@
     <url>http://tokyo2.kapeli.com/feeds/Sparrow.tgz</url>
     <url>http://london3.kapeli.com/feeds/Sparrow.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Sparrow.tgz</url>
+    <other-versions>
+        <version><name>2.0.0</name><sha1>54f48b11a00830d3a999419d4c9cd4e8df400953</sha1></version>
+        <version><name>1.4.0</name><sha1>dff2045d94833ba8e5622c0ae3ecd213a0a2b203</sha1></version>
+    </other-versions>
 </entry>

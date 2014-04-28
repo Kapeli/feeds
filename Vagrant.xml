@@ -12,4 +12,15 @@
     <url>http://tokyo2.kapeli.com/feeds/Vagrant.tgz</url>
     <url>http://london3.kapeli.com/feeds/Vagrant.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Vagrant.tgz</url>
+    <other-versions>
+        <version><name>1.5.4</name><sha1>7f0b8ec46cf3eb55f25cc22fab1558840adce78c</sha1></version>
+        <version><name>1.5.3</name><sha1>905ec1985c867512f7fdeac92489cf7a48f61e36</sha1></version>
+        <version><name>1.5.2</name><sha1>6b3255f44b4e599c13c755fdbda80569b953daab</sha1></version>
+        <version><name>1.5.1</name><sha1>e1ec74b9dcc9618b3e304df3089fd96f454deaf9</sha1></version>
+        <version><name>1.5.0</name><sha1>a28c7d542275cd8b7f43a3486b9207356a8d8dc7</sha1></version>
+        <version><name>1.4.2</name><sha1>c458a69be25f35c90c901868bc35c8432a082745</sha1></version>
+        <version><name>1.4.1</name><sha1>0fc17bfe4856d1c5aadc0bb1ca1dbe9ddef25978</sha1></version>
+        <version><name>1.4.0</name><sha1>c3012cb9212a5801b6f81302e617e071671f4ee1</sha1></version>
+        <version><name>1.3.5</name><sha1>79a628025f85ca555a352911d1a647a92ea5e465</sha1></version>
+    </other-versions>
 </entry>

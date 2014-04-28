@@ -12,4 +12,9 @@
     <url>http://tokyo2.kapeli.com/feeds/Clojure.tgz</url>
     <url>http://london3.kapeli.com/feeds/Clojure.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Clojure.tgz</url>
+    <other-versions>
+        <version><name>1.6</name><sha1>4697a3d94ff7c102cdf2e7d2798423ecc67e7139</sha1></version>
+        <version><name>1.5</name><sha1>fd19743134b94afeae65c11a0fd9524c63fed043</sha1></version>
+        <version><name>1.4</name><sha1>e8d2985a613933b5bb5b7c15be3e84d5ff375687</sha1></version>
+    </other-versions>
 </entry>

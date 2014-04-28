@@ -12,4 +12,9 @@
     <url>http://tokyo2.kapeli.com/feeds/ExpressionEngine.tgz</url>
     <url>http://london3.kapeli.com/feeds/ExpressionEngine.tgz</url>
     <url>http://sydney.kapeli.com/feeds/ExpressionEngine.tgz</url>
+    <other-versions>
+        <version><name>2.8.1</name><sha1>bbe84851339f631d17dc004fdcee4011066a9ac5</sha1></version>
+        <version><name>2.7.3</name><sha1>27179477cb6355ec400e94f192dc1a6061bc0f26</sha1></version>
+        <version><name>2.7.2</name><sha1>ea75b3936664d58bab8a113e920ba47f8b489c1b</sha1></version>
+    </other-versions>
 </entry>

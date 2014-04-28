@@ -12,4 +12,7 @@
     <url>http://tokyo2.kapeli.com/feeds/PrototypeJS.tgz</url>
     <url>http://london3.kapeli.com/feeds/PrototypeJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/PrototypeJS.tgz</url>
+    <other-versions>
+        <version><name>1.7.1</name><sha1>9eee0bc36de552695b37613a123ce3c60570a884</sha1></version>
+    </other-versions>
 </entry>

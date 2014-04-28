@@ -12,4 +12,8 @@
     <url>http://tokyo2.kapeli.com/feeds/MomentJS.tgz</url>
     <url>http://london3.kapeli.com/feeds/MomentJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/MomentJS.tgz</url>
+    <other-versions>
+        <version><name>2.6.0</name><sha1>fea93ad1525b40b66551b4e6321c64e35c8f2165</sha1></version>
+        <version><name>2.5.1</name><sha1>67ab7d73004edc654ffba14329cf4c9f15b9a748</sha1></version>
+    </other-versions>
 </entry>

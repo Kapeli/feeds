@@ -12,4 +12,10 @@
     <url>http://tokyo2.kapeli.com/feeds/Express.tgz</url>
     <url>http://london3.kapeli.com/feeds/Express.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Express.tgz</url>
+    <other-versions>
+        <version><name>4.1</name><sha1>cacfbd5ddd4307ebc489236781f0e444d11bd0f1</sha1></version>
+        <version><name>4.0</name><sha1>91f6611cb223ee9d27e9cca1f77d44bc851eadfd</sha1></version>
+        <version><name>3.5</name><sha1>b407f13679d2a3be36144bed23c9020bcd2d8fc5</sha1></version>
+        <version><name>3.4</name><sha1>ac681fa87613e10bac755709e2b9e28994426c47</sha1></version>
+    </other-versions>
 </entry>

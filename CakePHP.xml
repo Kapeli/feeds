@@ -12,4 +12,13 @@
     <url>http://tokyo2.kapeli.com/feeds/CakePHP.tgz</url>
     <url>http://london3.kapeli.com/feeds/CakePHP.tgz</url>
     <url>http://sydney.kapeli.com/feeds/CakePHP.tgz</url>
+    <other-versions>
+        <version><name>2.4.7</name><sha1>e867deb8999eeaa40b155c0b590f5e4feb183c67</sha1></version>
+        <version><name>2.4.6</name><sha1>68ef848be06a6c1171e663db47ef1132c54194d0</sha1></version>
+        <version><name>2.4.5</name><sha1>fff5c4d91e1c7e98805d008f176bba42a330c970</sha1></version>
+        <version><name>2.4.4</name><sha1>fbbed70b0f728dbcac07999fc1eae54aeb87ab9c</sha1></version>
+        <version><name>2.4.3</name><sha1>38ff799f3585775f32466eb2573edcf676106de4</sha1></version>
+        <version><name>2.4.0</name><sha1>a289cabb7224d10657655a686bbde0d4b9517e73</sha1></version>
+        <version><name>2.3.0</name><sha1>18333640340d907b731e2e45ed64a3dda17f9009</sha1></version>
+    </other-versions>
 </entry>

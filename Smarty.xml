@@ -12,4 +12,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Smarty.tgz</url>
     <url>http://london3.kapeli.com/feeds/Smarty.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Smarty.tgz</url>
+    <other-versions>
+        <version><name>3.1</name><sha1>80d70dc11155768f1940ca2ba09aaef149a3250b</sha1></version>
+    </other-versions>
 </entry>

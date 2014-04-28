@@ -12,4 +12,9 @@
     <url>http://tokyo2.kapeli.com/feeds/Meteor.tgz</url>
     <url>http://london3.kapeli.com/feeds/Meteor.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Meteor.tgz</url>
+    <other-versions>
+        <version><name>0.8.0.1</name><sha1>e9835620ae48b93d4f294db4902a876146ca1b05</sha1></version>
+        <version><name>0.7.2</name><sha1>bfec6947b36cb2d91eb784764cea2db95147d14f</sha1></version>
+        <version><name>0.6.6.3</name><sha1>3baaa8465f714f4882f3bf423c19913c075e901b</sha1></version>
+    </other-versions>
 </entry>

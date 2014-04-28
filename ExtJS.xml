@@ -12,4 +12,10 @@
     <url>http://tokyo2.kapeli.com/feeds/ExtJS.tgz</url>
     <url>http://london3.kapeli.com/feeds/ExtJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/ExtJS.tgz</url>
+    <other-versions>
+        <version><name>5.0.0</name><sha1>c70ab46ec7ea024f8a3bdf0093cdc25ca0cec319</sha1></version>
+        <version><name>4.2.2</name><sha1>cee3b3560a326b9297a95715f7a326935b900584</sha1></version>
+        <version><name>4.2.1</name><sha1>0ccdb7fc0594a79d9e02a269383975a9c48aef35</sha1></version>
+        <version><name>4.2.0</name><sha1>e63dcf39df2873b27f82f09043ca5c36e9760490</sha1></version>
+    </other-versions>
 </entry>

@@ -12,4 +12,7 @@
     <url>http://tokyo2.kapeli.com/feeds/SaltStack.tgz</url>
     <url>http://london3.kapeli.com/feeds/SaltStack.tgz</url>
     <url>http://sydney.kapeli.com/feeds/SaltStack.tgz</url>
+    <other-versions>
+        <version><name>2014.1.1</name><sha1>b7493ab70a898c368db0fe32f70e936bfd90b445</sha1></version>
+    </other-versions>
 </entry>

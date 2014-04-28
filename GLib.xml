@@ -12,4 +12,10 @@
     <url>http://tokyo2.kapeli.com/feeds/GLib.tgz</url>
     <url>http://london3.kapeli.com/feeds/GLib.tgz</url>
     <url>http://sydney.kapeli.com/feeds/GLib.tgz</url>
+    <other-versions>
+        <version><name>2.40</name><sha1>8cdcd9d957dc6800cf9bdfa26823b812ec5509de</sha1></version>
+        <version><name>2.38</name><sha1>92eb3d5096657badd991e67ba23b0f2b1398c1d1</sha1></version>
+        <version><name>2.36</name><sha1>4cc25cef7bff6570a2dfb1fa9aea1c68384c361c</sha1></version>
+        <version><name>2.34</name><sha1>acfc50e17b336a6aadd91b5d8dcb5ea3c597c95b</sha1></version>
+    </other-versions>
 </entry>

@@ -12,4 +12,9 @@
     <url>http://tokyo2.kapeli.com/feeds/Zend_Framework_2.tgz</url>
     <url>http://london3.kapeli.com/feeds/Zend_Framework_2.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Zend_Framework_2.tgz</url>
+    <other-versions>
+        <version><name>2.3</name><sha1>96383012e542e31cce0b6a359788063400928bfa</sha1></version>
+        <version><name>2.2</name><sha1>e1725abcfdbda28bd369c532349766c995e5c646</sha1></version>
+        <version><name>2.1</name><sha1>1ccede316f6237a9c6b0b42d8f8d9d34dfaac088</sha1></version>
+    </other-versions>
 </entry>

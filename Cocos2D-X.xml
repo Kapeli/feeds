@@ -12,4 +12,15 @@
     <url>http://tokyo2.kapeli.com/feeds/Cocos2D-X.tgz</url>
     <url>http://london3.kapeli.com/feeds/Cocos2D-X.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Cocos2D-X.tgz</url>
+    <other-versions>
+        <version><name>3.0.0</name><sha1>4c948497292ba29a37263db1684bc2c7ac0d51c9</sha1></version>
+        <version><name>2.2.3</name><sha1>7f0f2fb40713a0e8b124a87544f66e533b9e8a9f</sha1></version>
+        <version><name>2.2.2</name><sha1>63bda07b539b4ab93aed02a5c5f8aa6785f990c6</sha1></version>
+        <version><name>2.2.1</name><sha1>1628794c2a81db16e135a2f3cf3f696a2182af8c</sha1></version>
+        <version><name>2.2.0</name><sha1>eb2e2fa9c20b0d3db71ae9f875ee046a190be98d</sha1></version>
+        <version><name>2.1.5</name><sha1>b561fde482674c008b57f29be85c6bacb3ef2097</sha1></version>
+        <version><name>2.1.4</name><sha1>13da416ae92cc235325dd34713afc1b659deda87</sha1></version>
+        <version><name>2.1.1</name><sha1>8325186a64be9bc4e20dd52f6daffdbd4c8fed3f</sha1></version>
+        <version><name>2.0.4</name><sha1>0c5a107d4ff19cea31fcf6a4fd5de00db79e960d</sha1></version>
+    </other-versions>
 </entry>

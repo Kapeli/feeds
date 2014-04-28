@@ -12,4 +12,11 @@
     <url>http://tokyo2.kapeli.com/feeds/Qt_5.tgz</url>
     <url>http://london3.kapeli.com/feeds/Qt_5.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Qt_5.tgz</url>
+    <other-versions>
+        <version><name>5.2.1</name><sha1>f76f9b127440160cb7b787819bd69c2778e8f77e</sha1></version>
+        <version><name>5.1.1</name><sha1>e7822cf0d975a9daee7acb145a7944c985257a81</sha1></version>
+        <version><name>5.1.0</name><sha1>53f5ce7cde43c9f7e7d9838f9a84e13e5b81f811</sha1></version>
+        <version><name>5.0.2</name><sha1>df02a916828730ff947c125190240fd82542f573</sha1></version>
+        <version><name>5.0.1</name><sha1>f07ae208e09b43642adeef3f7a5a1b95d25400b8</sha1></version>
+    </other-versions>
 </entry>

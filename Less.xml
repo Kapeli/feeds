@@ -12,4 +12,14 @@
     <url>http://tokyo2.kapeli.com/feeds/Less.tgz</url>
     <url>http://london3.kapeli.com/feeds/Less.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Less.tgz</url>
+    <other-versions>
+        <version><name>1.7.0</name><sha1>505409855f5263a969d52ec6af99f01109dbc3c6</sha1></version>
+        <version><name>1.6.3</name><sha1>172f2198197917d852b62acdcf37e71fdd021c99</sha1></version>
+        <version><name>1.6.2</name><sha1>49c2876dcd7d95a93592ba780296bbf56c3ccc5e</sha1></version>
+        <version><name>1.6.1</name><sha1>f4b3e6aeb97d5aa7e645e2c4e68bd427f6b882fb</sha1></version>
+        <version><name>1.6.0</name><sha1>beeaa06871ea7fb36983f3f445573a7a3f7c26b7</sha1></version>
+        <version><name>1.5.0</name><sha1>4100e41be9570e9a9d14c82ef25e62625e3f020d</sha1></version>
+        <version><name>1.4.1</name><sha1>20018d7bd1bff72690af87411f45f0dce5056bc8</sha1></version>
+        <version><name>1.3.3</name><sha1>c2d51713d2ecb33f9ed3ed2f9fa292de025ecea5</sha1></version>
+    </other-versions>
 </entry>

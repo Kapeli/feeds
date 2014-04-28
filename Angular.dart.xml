@@ -12,4 +12,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Angular.dart.tgz</url>
     <url>http://london3.kapeli.com/feeds/Angular.dart.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Angular.dart.tgz</url>
+    <other-versions>
+        <version><name>0.9.10</name><sha1>17b57627d4c43cfd721baf6c9f9a7c53bc414204</sha1></version>
+    </other-versions>
 </entry>

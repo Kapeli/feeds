@@ -12,4 +12,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Ruby.tgz</url>
     <url>http://london3.kapeli.com/feeds/Ruby.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Ruby.tgz</url>
+    <other-versions>
+        <version><name>1.9.3</name><sha1>3da97872e901e6b0f4e6e0b29b1d0209e10d8eeb</sha1></version>
+    </other-versions>
 </entry>

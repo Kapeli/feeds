@@ -12,4 +12,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Jasmine.tgz</url>
     <url>http://london3.kapeli.com/feeds/Jasmine.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Jasmine.tgz</url>
+    <other-versions>
+        <version><name>2.0</name><sha1>6d0daebfb16b4acb5457a926216aa1a991116400</sha1></version>
+    </other-versions>
 </entry>

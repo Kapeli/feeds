@@ -12,4 +12,10 @@
     <url>http://tokyo2.kapeli.com/feeds/jQuery_UI.tgz</url>
     <url>http://london3.kapeli.com/feeds/jQuery_UI.tgz</url>
     <url>http://sydney.kapeli.com/feeds/jQuery_UI.tgz</url>
+    <other-versions>
+        <version><name>1.10.4</name><sha1>905adf9bdde3218b705556bd2dc06f6213e7930a</sha1></version>
+        <version><name>1.10.3</name><sha1>ace28ba60d1e77fd271d25b721e83a3ae9a875cc</sha1></version>
+        <version><name>1.10.2</name><sha1>9b1ca0d08f49282071fb727235077d456d49aa38</sha1></version>
+        <version><name>1.10.1</name><sha1>148739c1fad5ba3ec868bdc9ae4c9036d8f21d5a</sha1></version>
+    </other-versions>
 </entry>

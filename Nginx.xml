@@ -12,4 +12,14 @@
     <url>http://tokyo2.kapeli.com/feeds/Nginx.tgz</url>
     <url>http://london3.kapeli.com/feeds/Nginx.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Nginx.tgz</url>
+    <other-versions>
+        <version><name>1.7.0</name><sha1>fafd698bff45264cebeb767b49f38f651e86019f</sha1></version>
+        <version><name>1.5.13</name><sha1>aa6fb07dae5f38424c77ea82df076c3ee6750ffc</sha1></version>
+        <version><name>1.5.12</name><sha1>c2e28817979f42047e6095a4f2654cd5f721a575</sha1></version>
+        <version><name>1.5.11</name><sha1>3af6a034a990df63a92ae981f32a5b8ce4d1a6a1</sha1></version>
+        <version><name>1.5.10</name><sha1>b3786cf7eb1919c88fee2c23c837b75ad6b137e6</sha1></version>
+        <version><name>1.5.9</name><sha1>545abc5c2aad3c863378a5b6b6ef91cd36670de9</sha1></version>
+        <version><name>1.5.8</name><sha1>dc12c7b36545eec516791a3e339425f2718ef607</sha1></version>
+        <version><name>1.5.7</name><sha1>2502e83ed44e869b88e2d3061952ef166a94f11c</sha1></version>
+    </other-versions>
 </entry>

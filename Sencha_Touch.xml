@@ -12,4 +12,11 @@
     <url>http://tokyo2.kapeli.com/feeds/Sencha_Touch.tgz</url>
     <url>http://london3.kapeli.com/feeds/Sencha_Touch.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Sencha_Touch.tgz</url>
+    <other-versions>
+        <version><name>2.3.1</name><sha1>673dbfbb1f4dfda3d7c2683bb67a4124d6f52f03</sha1></version>
+        <version><name>2.3.0</name><sha1>94089c690e89eabeda65f26afbf650442bb12bcf</sha1></version>
+        <version><name>2.2.1</name><sha1>c1f05aa67c65a67988aebbae8d2c9175705baf25</sha1></version>
+        <version><name>2.2.0</name><sha1>5b7e2be4dd0c03ade47fad46d397f7d3103d1db6</sha1></version>
+        <version><name>2.1.1</name><sha1>154ec6c53b1cfb076942fb5e72679b8df654cb44</sha1></version>
+    </other-versions>
 </entry>

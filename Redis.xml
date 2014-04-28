@@ -12,4 +12,22 @@
     <url>http://tokyo2.kapeli.com/feeds/Redis.tgz</url>
     <url>http://london3.kapeli.com/feeds/Redis.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Redis.tgz</url>
+    <other-versions>
+        <version><name>2.8.9</name><sha1>06fbde85d330069de0a12f5b6d9d0b4c21f8bf16</sha1></version>
+        <version><name>2.8.8</name><sha1>9122ed799561cb526f755316c6162f45e50c9b66</sha1></version>
+        <version><name>2.8.7</name><sha1>cb038401c1d82f1d60b48eb89f2d9dbabf8a8b44</sha1></version>
+        <version><name>2.8.6</name><sha1>8ab755752d8317e259a93150cb2c6e55041c793f</sha1></version>
+        <version><name>2.8.5</name><sha1>4857867c11580c7db16db7fd84ff9261cccc5613</sha1></version>
+        <version><name>2.8.4</name><sha1>5a041c4e4b68214b692e6072a59c307eba9a15ef</sha1></version>
+        <version><name>2.8.3</name><sha1>f9fdaa03bd0cb4ee247437da9c9cda082bde16d2</sha1></version>
+        <version><name>2.8.2</name><sha1>4d43b7aacd8a1a766f7c27982bacfef7a19e853c</sha1></version>
+        <version><name>2.8.1</name><sha1>eeb5ea9063661f31c0c2a61e624aac680880918e</sha1></version>
+        <version><name>2.8.0</name><sha1>32ad45b6dc4991e9903bb424c977c31005f0d4ed</sha1></version>
+        <version><name>2.6.16</name><sha1>cf0feb77390d7b3f6a62c5121fdef1160967a794</sha1></version>
+        <version><name>2.6.15</name><sha1>92698b763bf2b46047ccd807163f9c21a9541bea</sha1></version>
+        <version><name>2.6.14</name><sha1>d4f6e8767da15b0abac086e909d8eaf938f6e3ff</sha1></version>
+        <version><name>2.6.13</name><sha1>1935571100f03a4f5ea1edbb9a13a88ae2153f89</sha1></version>
+        <version><name>2.6.12</name><sha1>85e54dbefb08e564e7747bf8a2778da0b200f264</sha1></version>
+        <version><name>2.6.10</name><sha1>3721463e9932d10c81d7e770399a3361b7fb9ebe</sha1></version>
+    </other-versions>
 </entry>

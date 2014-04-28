@@ -12,4 +12,9 @@
     <url>http://tokyo2.kapeli.com/feeds/Erlang.tgz</url>
     <url>http://london3.kapeli.com/feeds/Erlang.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Erlang.tgz</url>
+    <other-versions>
+        <version><name>R17</name><sha1>88c6c45a6ea19c052a88fbf9060a72108cf57af0</sha1></version>
+        <version><name>R16B</name><sha1>ddc38f8b970d42baac1425040f67d1fce29b222c</sha1></version>
+        <version><name>R15B03-1</name><sha1>5adeba5134fa5b83e43652fb9bdfdc99c507f7fe</sha1></version>
+    </other-versions>
 </entry>

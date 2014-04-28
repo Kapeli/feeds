@@ -12,4 +12,8 @@
     <url>http://tokyo2.kapeli.com/feeds/Rust.tgz</url>
     <url>http://london3.kapeli.com/feeds/Rust.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Rust.tgz</url>
+    <other-versions>
+        <version><name>0.10</name><sha1>c2176bb95d50c045db0d44e0f9f642e9a11ce7ed</sha1></version>
+        <version><name>0.9</name><sha1>83262223639de11883259aa05d6d2ce7952687cd</sha1></version>
+    </other-versions>
 </entry>

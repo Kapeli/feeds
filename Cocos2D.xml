@@ -12,4 +12,8 @@
     <url>http://tokyo2.kapeli.com/feeds/Cocos2D.tgz</url>
     <url>http://london3.kapeli.com/feeds/Cocos2D.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Cocos2D.tgz</url>
+    <other-versions>
+        <version><name>2.1.0</name><sha1>4945229c3d366b97a3d043f4fee3d0a1dc1ec802</sha1></version>
+        <version><name>2.0.0</name><sha1>d3c1c7cf091d2ddb0674106e696c4e1b27fac0f6</sha1></version>
+    </other-versions>
 </entry>

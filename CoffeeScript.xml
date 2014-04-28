@@ -12,4 +12,10 @@
     <url>http://tokyo2.kapeli.com/feeds/CoffeeScript.tgz</url>
     <url>http://london3.kapeli.com/feeds/CoffeeScript.tgz</url>
     <url>http://sydney.kapeli.com/feeds/CoffeeScript.tgz</url>
+    <other-versions>
+        <version><name>1.7.1</name><sha1>4e0067f6ab3e90974f726ee9fd7932037142f21e</sha1></version>
+        <version><name>1.6.3</name><sha1>687c9feb9d0a67813d22c47ba2e3a0061b9342cb</sha1></version>
+        <version><name>1.6.2</name><sha1>8e2cf1488697ae98285db89e8c822bddfbfe9175</sha1></version>
+        <version><name>1.4.0</name><sha1>1b2c3aae4f94e19cbb20e878a8cd6c1c095d1e92</sha1></version>
+    </other-versions>
 </entry>

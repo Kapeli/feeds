@@ -12,4 +12,14 @@
     <url>http://tokyo2.kapeli.com/feeds/Corona.tgz</url>
     <url>http://london3.kapeli.com/feeds/Corona.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Corona.tgz</url>
+    <other-versions>
+        <version><name>2014.2189</name><sha1>b96f642abcb2dc059e8240ce6e61dc9a1daa5591</sha1></version>
+        <version><name>2013.2100</name><sha1>ca1bff52b1003ce5f96413e613f1826a61d6b310</sha1></version>
+        <version><name>2013.2076</name><sha1>0fcf07154b59fe92d709ca7d981dabafd514fe50</sha1></version>
+        <version><name>2013.1202</name><sha1>eeaaffbac09b2c46b904824b3a0e1d837f85b2ba</sha1></version>
+        <version><name>2013.1137</name><sha1>8f870fe36fe721c643003cf253be76199bdf08cf</sha1></version>
+        <version><name>2013.1135</name><sha1>99ed5f90ab5ca119b4bcdc236c38baf8fe5b869a</sha1></version>
+        <version><name>2013.1076</name><sha1>ed7e476d960c2db74385e4b6c766931b3889b02c</sha1></version>
+        <version><name>2012.971</name><sha1>b3ee083264d4e4b9977d6141bbd84b8bcf7d4ca2</sha1></version>
+    </other-versions>
 </entry>

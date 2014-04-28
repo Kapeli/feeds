@@ -12,4 +12,7 @@
     <url>http://tokyo2.kapeli.com/feeds/CMake.tgz</url>
     <url>http://london3.kapeli.com/feeds/CMake.tgz</url>
     <url>http://sydney.kapeli.com/feeds/CMake.tgz</url>
+    <other-versions>
+        <version><name>2.8.12</name><sha1>9a60c4ea879a0254cc90ed643872b99545fc2907</sha1></version>
+    </other-versions>
 </entry>

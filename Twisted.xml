@@ -12,4 +12,10 @@
     <url>http://tokyo2.kapeli.com/feeds/Twisted.tgz</url>
     <url>http://london3.kapeli.com/feeds/Twisted.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Twisted.tgz</url>
+    <other-versions>
+        <version><name>13.2.0</name><sha1>4cc426aa345f9918763f5fb6e743481b8e6efef5</sha1></version>
+        <version><name>13.1.0</name><sha1>7d36833ecf5ce39bd8306a7136559e6d6ca5537b</sha1></version>
+        <version><name>13.0.0</name><sha1>509e896b40e9bdb67c46bc5f994c9388930d0810</sha1></version>
+        <version><name>12.3.0</name><sha1>620955d86b86813fde6402434c96f2cd58176e8b</sha1></version>
+    </other-versions>
 </entry>

@@ -12,4 +12,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Polymer.dart.tgz</url>
     <url>http://london3.kapeli.com/feeds/Polymer.dart.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Polymer.dart.tgz</url>
+    <other-versions>
+        <version><name>0.9.5</name><sha1>92b0901b068ef057e9eff9e5863c851b4bdbea5b</sha1></version>
+    </other-versions>
 </entry>

@@ -12,4 +12,11 @@
     <url>http://tokyo2.kapeli.com/feeds/Android.tgz</url>
     <url>http://london3.kapeli.com/feeds/Android.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Android.tgz</url>
+    <other-versions>
+        <version><name>4.4.2</name><sha1>f57ccd5d0bdf00ce2cde32b5afbc76120892f61a</sha1></version>
+        <version><name>4.4.1</name><sha1>31241f85150b3c4cd182a5bc15bfa78b52934061</sha1></version>
+        <version><name>4.3.1</name><sha1>d83e938c804f3543274711f28ae1c7c31fda91cd</sha1></version>
+        <version><name>4.2.2</name><sha1>28410cf2fcbcafb670eadc60b36732e5fa66baea</sha1></version>
+        <version><name>4.2.1</name><sha1>72ceec681c23b0f185df824d58145085a32aa150</sha1></version>
+    </other-versions>
 </entry>

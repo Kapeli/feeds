@@ -12,4 +12,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Tcl.tgz</url>
     <url>http://london3.kapeli.com/feeds/Tcl.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Tcl.tgz</url>
+    <other-versions>
+        <version><name>8.6.0</name><sha1>70a42731de8bf2cb2db9cc95092f46ba6b3d612e</sha1></version>
+    </other-versions>
 </entry>

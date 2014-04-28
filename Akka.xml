@@ -12,4 +12,15 @@
     <url>http://tokyo2.kapeli.com/feeds/Akka.tgz</url>
     <url>http://london3.kapeli.com/feeds/Akka.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Akka.tgz</url>
+    <other-versions>
+        <version><name>2.3.2</name><sha1>0fb6b66b1398d202ff07dafe2da20b3c667bcf43</sha1></version>
+        <version><name>2.3.1</name><sha1>b7ca0a08bb8904e7ce571b99ae2068a507fc7ccc</sha1></version>
+        <version><name>2.3.0</name><sha1>741f1ca4a88d87668226b2ec484e7a3ce75a0de5</sha1></version>
+        <version><name>2.2.4</name><sha1>3dfc48db46755117e3b8135992c8d4fc2e991a96</sha1></version>
+        <version><name>2.2.1</name><sha1>671e42a3495cc78f17e863aaa68f464553185c35</sha1></version>
+        <version><name>2.2.0</name><sha1>8e798e3784c9bb8d5bd1260c7285071cb5edbebe</sha1></version>
+        <version><name>2.1.4</name><sha1>9c1fcb081b665e7680e9f0e2eeeffb885cd5e39b</sha1></version>
+        <version><name>2.1.2</name><sha1>53c8950bb264f1613afd3cd5990aceb76aedbf32</sha1></version>
+        <version><name>2.1.0</name><sha1>e019aef07289e039df32575cfe6a76fdcef2713a</sha1></version>
+    </other-versions>
 </entry>
