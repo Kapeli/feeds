@@ -15,8 +15,7 @@
     <other-versions>
         <version><name>2.4</name><sha1>d52e4dd0d856e3d2cae2c2ca3fe8d6f21f06bae3</sha1></version>
         <version><name>2.3</name><sha1>fa11362b0ac03257d427fc7385b352cdf1633d8f</sha1></version>
-        <version><name>2.2.1</name><sha1>8005cae7082a2dca8aa619401f507ddc868d3a88</sha1></version>
-        <version><name>2.2.0</name><sha1>fadd651283994225267222cd2b7603b5a02b09d3</sha1></version>
-        <version><name>2.1.7</name><sha1>b198ae3e4fb09e9b2bf64feb4a4332d0f2a970f7</sha1></version>
+        <version><name>2.2</name><sha1>8005cae7082a2dca8aa619401f507ddc868d3a88</sha1></version>
+        <version><name>2.1</name><sha1>b198ae3e4fb09e9b2bf64feb4a4332d0f2a970f7</sha1></version>
     </other-versions>
 </entry>
