@@ -1,5 +1,5 @@
 <entry>
-    <version>1.9</version>
+    <version>1.9.3</version>
     <sha1>25bf0062fd1b9cbfabdcfbd8136da115ffff2fa6</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Dojo.tgz</url>
     <url>http://london.kapeli.com/feeds/Dojo.tgz</url>
@@ -13,6 +13,6 @@
     <url>http://london3.kapeli.com/feeds/Dojo.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Dojo.tgz</url>
     <other-versions>
-        <version><name>1.9</name><sha1>25bf0062fd1b9cbfabdcfbd8136da115ffff2fa6</sha1></version>
+        <version><name>1.9.3</name><sha1>25bf0062fd1b9cbfabdcfbd8136da115ffff2fa6</sha1></version>
     </other-versions>
 </entry>
