@@ -25,9 +25,5 @@
         <version><name>5.5.2</name><sha1>fe599228de848ff22a7eb22ad40236d368a0fa33</sha1></version>
         <version><name>5.5.0</name><sha1>3200b96aedf35cd4a38fe942cfc020ffe4d08b73</sha1></version>
         <version><name>5.4.16</name><sha1>a2556ee3aa5c6cea783497021cf65b956128f108</sha1></version>
-        <version><name>5.4.15</name><sha1>3c9bea375f167991814e8849937ccf140134535e</sha1></version>
-        <version><name>5.4.14</name><sha1>3c9bea375f167991814e8849937ccf140134535e</sha1></version>
-        <version><name>5.4.13</name><sha1>dd7cefd4609a54470d95bfb9c098f88c143a23d1</sha1></version>
-        <version><name>5.4.12</name><sha1>4cd1eba5b7ce22bf20d8ccc5b6f703068688db76</sha1></version>
     </other-versions>
 </entry>
