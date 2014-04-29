@@ -14,7 +14,5 @@
     <url>http://sydney.kapeli.com/feeds/Qt_4.tgz</url>
     <other-versions>
         <version><name>4.8.6</name><sha1>dbd154af905a83beec86922d4404808161ccf415</sha1></version>
-        <version><name>4.8.5</name><sha1>3141b5654de40e343d9a8819b47d59d9fd71e510</sha1></version>
-        <version><name>4.8.4</name><sha1>a0ef469b421c60c527fc0321171648ac425e14d8</sha1></version>
     </other-versions>
 </entry>
