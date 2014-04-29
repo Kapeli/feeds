@@ -14,8 +14,5 @@
     <url>http://sydney.kapeli.com/feeds/Python_2.tgz</url>
     <other-versions>
         <version><name>2.7.6</name><sha1>ef0fb7d4ac1d945769a65e86d7395fcd9833b37a</sha1></version>
-        <version><name>2.7.5</name><sha1>70677c10c2e0fbe9d033a3d6e5ede946feed56d3</sha1></version>
-        <version><name>2.7.4</name><sha1>8c4dfe28ffca3eeb85d8baf4be8f25270bfa9412</sha1></version>
-        <version><name>2.7.3</name><sha1>d568207bde13296365fa61ffcd86a1abd91c0244</sha1></version>
     </other-versions>
 </entry>
