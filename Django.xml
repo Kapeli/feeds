@@ -15,5 +15,7 @@
     <other-versions>
         <version><name>1.6.4</name><sha1>ad5c6a5e6f1e29d50b5785e79952ee7a6946cdef</sha1></version>
         <version><name>1.6.3</name><sha1>99454377275dd26aa5548f5d970fbbe1e95f3729</sha1></version>
+        <version><name>1.5.7</name><sha1>93391a31c0946cee2c9781caebb84e3512c4a269</sha1></version>
+        <version><name>1.4.12</name><sha1>00c54befdafc79ee095688cda7ad95bb6e781c7c</sha1></version>
     </other-versions>
 </entry>
