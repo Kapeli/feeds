@@ -12,18 +12,4 @@
     <url>http://tokyo2.kapeli.com/feeds/PHP.tgz</url>
     <url>http://london3.kapeli.com/feeds/PHP.tgz</url>
     <url>http://sydney.kapeli.com/feeds/PHP.tgz</url>
-    <other-versions>
-        <version><name>5.5.11</name><sha1>5bea2f405921f534fc7d07f1cd607f763619c950</sha1></version>
-        <version><name>5.5.10</name><sha1>ca987c42b7f435cece799437d9d5925a44ad1084</sha1></version>
-        <version><name>5.5.9</name><sha1>a6e1fa3507b68a6ed594015b4839b3a61e2615b1</sha1></version>
-        <version><name>5.5.8</name><sha1>22e8711f7ea7c29912ac8b80c5f606df8c188802</sha1></version>
-        <version><name>5.5.7</name><sha1>c849ba74c28b1af2ffd0f2b08f18b05ec7a8e719</sha1></version>
-        <version><name>5.5.6</name><sha1>f72d1b1c16a7becde790e1c4a471abf90a135784</sha1></version>
-        <version><name>5.5.5</name><sha1>6d7c1cde9e3440f16c7dc284c1b47fa756c4c399</sha1></version>
-        <version><name>5.5.4</name><sha1>1dd7fa817d7d2ab497e9a67612fd5465e555804c</sha1></version>
-        <version><name>5.5.3</name><sha1>d6b4745ff44543ae3747897c8797c955fc74c989</sha1></version>
-        <version><name>5.5.2</name><sha1>fe599228de848ff22a7eb22ad40236d368a0fa33</sha1></version>
-        <version><name>5.5.0</name><sha1>3200b96aedf35cd4a38fe942cfc020ffe4d08b73</sha1></version>
-        <version><name>5.4.16</name><sha1>a2556ee3aa5c6cea783497021cf65b956128f108</sha1></version>
-    </other-versions>
 </entry>

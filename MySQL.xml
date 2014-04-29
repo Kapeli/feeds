@@ -14,6 +14,6 @@
     <url>http://sydney.kapeli.com/feeds/MySQL.tgz</url>
     <other-versions>
         <version><name>5.6</name><sha1>71cba1938728a79cb01bb7c1917bd88ba863771a</sha1></version>
-        <version><name>5.5</name><sha1>7ec2ddf53cd5cc801b4a8bceaf5c8dd6ce425964</sha1></version>
+        <version><name>5.5</name><sha1>549a8b7b0158bcedd717f17e6e88d6a987ce9b5a</sha1></version>
     </other-versions>
 </entry>
