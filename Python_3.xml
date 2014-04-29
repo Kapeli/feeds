@@ -16,9 +16,5 @@
         <version><name>3.4.0</name><sha1>95e8611901cf80ff5166be56d4fa247926b31e49</sha1></version>
         <version><name>3.3.5</name><sha1>48ed2e74d5abe17ceb0cf5d2ee9e9ded55b125a7</sha1></version>
         <version><name>3.3.4</name><sha1>b8c8a19d39a673557c5a5ee39462d95cfd8f2055</sha1></version>
-        <version><name>3.3.3</name><sha1>275487bdf0fc7c02d6ca69c7af1c647018a0092b</sha1></version>
-        <version><name>3.3.2</name><sha1>7a82d63eabe2c70b0489e8b47b2ccfaa2af6b9c4</sha1></version>
-        <version><name>3.3.1</name><sha1>adfa8b5c99c515de57c15933bf3dc7a8064f9298</sha1></version>
-        <version><name>3.3.0</name><sha1>ae781f63e182ddd0e2ea062e9cfdbde3e86eb84a</sha1></version>
     </other-versions>
 </entry>
