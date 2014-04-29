@@ -20,7 +20,5 @@
         <version><name>3.3.11</name><sha1>a71c78371364c1c3ddece34777a2032a4af7bc17</sha1></version>
         <version><name>3.3.10</name><sha1>e9baac383a86e2d6ef164fbe9be8d106678fdaa3</sha1></version>
         <version><name>3.3.9</name><sha1>7644c150106a4b6b3679f609d945651b04d29306</sha1></version>
-        <version><name>3.2.8</name><sha1>8c8eb145b25ddbc1319167993a2c0d959c8caafe</sha1></version>
-        <version><name>3.1.10</name><sha1>a861bc125088caaf250978d6c18c7b86ca6caafc</sha1></version>
     </other-versions>
 </entry>
