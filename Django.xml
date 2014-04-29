@@ -1,6 +1,6 @@
 <entry>
-    <version>1.6.3</version>
-    <sha1>99454377275dd26aa5548f5d970fbbe1e95f3729</sha1>
+    <version>1.6.4</version>
+    <sha1>ad5c6a5e6f1e29d50b5785e79952ee7a6946cdef</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Django.tgz</url>
     <url>http://london.kapeli.com/feeds/Django.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Django.tgz</url>
@@ -13,8 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Django.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Django.tgz</url>
     <other-versions>
+        <version><name>1.6.4</name><sha1>ad5c6a5e6f1e29d50b5785e79952ee7a6946cdef</sha1></version>
         <version><name>1.6.3</name><sha1>99454377275dd26aa5548f5d970fbbe1e95f3729</sha1></version>
-        <version><name>1.5.4</name><sha1>95c5ec9876214be43f8189e236cdcb99ab8913ed</sha1></version>
-        <version><name>1.4.5</name><sha1>3b7aab0d099a394dbb4d5f3827cc68f7cd802bdc</sha1></version>
     </other-versions>
 </entry>
