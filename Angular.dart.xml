@@ -1,6 +1,6 @@
 <entry>
-    <version>0.9.10</version>
-    <sha1>17b57627d4c43cfd721baf6c9f9a7c53bc414204</sha1>
+    <version>0.10.0</version>
+    <sha1>fc8c6ed215a26a513786c4c12955cc4363319d55</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Angular.dart.tgz</url>
     <url>http://london.kapeli.com/feeds/Angular.dart.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Angular.dart.tgz</url>
@@ -13,6 +13,6 @@
     <url>http://london3.kapeli.com/feeds/Angular.dart.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Angular.dart.tgz</url>
     <other-versions>
-        <version><name>0.9.10</name><sha1>17b57627d4c43cfd721baf6c9f9a7c53bc414204</sha1></version>
+        <version><name>0.10.0</name><sha1>fc8c6ed215a26a513786c4c12955cc4363319d55</sha1></version>
     </other-versions>
 </entry>
