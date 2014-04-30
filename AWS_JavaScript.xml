@@ -1,6 +1,6 @@
 <entry>
-    <version>2.0.0-rc13</version>
-    <sha1>402b46333438e803f219ba14f69e7c9c5218c42c</sha1>
+    <version>2.0.0-rc14</version>
+    <sha1>7c8474b61dfc8b13ac4e7232b7af7d5b1908ca45</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/AWS_JavaScript.tgz</url>
     <url>http://london.kapeli.com/feeds/AWS_JavaScript.tgz</url>
     <url>http://dallas.kapeli.com/feeds/AWS_JavaScript.tgz</url>
@@ -13,6 +13,6 @@
     <url>http://london3.kapeli.com/feeds/AWS_JavaScript.tgz</url>
     <url>http://sydney.kapeli.com/feeds/AWS_JavaScript.tgz</url>
     <other-versions>
-        <version><name>2.0.0-rc13</name><sha1>402b46333438e803f219ba14f69e7c9c5218c42c</sha1></version>
+        <version><name>2.0.0-rc14</name><sha1>7c8474b61dfc8b13ac4e7232b7af7d5b1908ca45</sha1></version>
     </other-versions>
 </entry>
