@@ -1,6 +1,6 @@
 <entry>
-    <version>3.2.2</version>
-    <sha1>984b5b4c03be4368982fe24debeb6629221bbf93</sha1>
+    <version>3.2.3</version>
+    <sha1>1d036c197a2a2ce10c267026c7cd3fca6ed6dcbb</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
     <url>http://london.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
     <other-versions>
+        <version><name>3.2.3</name><sha1>1d036c197a2a2ce10c267026c7cd3fca6ed6dcbb</sha1></version>
         <version><name>3.2.2</name><sha1>984b5b4c03be4368982fe24debeb6629221bbf93</sha1></version>
         <version><name>3.2.1</name><sha1>32b0892086e161a02eb34e6e2d449890b52651e5</sha1></version>
         <version><name>3.2.0</name><sha1>b101143f066ffa7bd1ad890460524b7018909c0c</sha1></version>
