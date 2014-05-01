@@ -1,6 +1,6 @@
 <entry>
-    <version>2.2.2</version>
-    <sha1>eac58c143f15d96b7cfa4bdda641236b1dc94e07</sha1>
+    <version>2.2.3</version>
+    <sha1>39cc06a6fc26af1125f514198ae647b23b9818b2</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Play_Scala.tgz</url>
     <url>http://london.kapeli.com/feeds/Play_Scala.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Play_Scala.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Play_Scala.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Play_Scala.tgz</url>
     <other-versions>
+        <version><name>2.2.3</name><sha1>39cc06a6fc26af1125f514198ae647b23b9818b2</sha1></version>
         <version><name>2.2.2</name><sha1>eac58c143f15d96b7cfa4bdda641236b1dc94e07</sha1></version>
         <version><name>2.2.1</name><sha1>dd975d4fb5ef1bfd87802c06f764b2c899c9e6f8</sha1></version>
         <version><name>2.2.0</name><sha1>df08c578d7e7791972da9b819fcc5b9b06ddfcd0</sha1></version>
