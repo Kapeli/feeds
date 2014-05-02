@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/MATLAB.tgz</url>
     <url>http://sydney.kapeli.com/feeds/MATLAB.tgz</url>
     <other-versions>
+        <version><name>Just a test ignore me</name><sha1>b0dac2d59d8ac75a6496e6fcbfa26238feb32246</sha1></version>
         <version><name>R2014a</name><sha1>b0dac2d59d8ac75a6496e6fcbfa26238feb32246</sha1></version>
     </other-versions>
 </entry>
