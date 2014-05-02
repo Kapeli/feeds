@@ -1,6 +1,6 @@
 <entry>
-    <version>0.8.1</version>
-    <sha1>1dab7c5b1d7a9efbcbe80080d3d169c006942ca4</sha1>
+    <version>0.8.1.1</version>
+    <sha1>303f292f0a7f667789ba585da5fca84ebfa98e20</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Meteor.tgz</url>
     <url>http://london.kapeli.com/feeds/Meteor.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Meteor.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Meteor.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Meteor.tgz</url>
     <other-versions>
+        <version><name>0.8.1.1</name><sha1>303f292f0a7f667789ba585da5fca84ebfa98e20</sha1></version>
         <version><name>0.8.1</name><sha1>1dab7c5b1d7a9efbcbe80080d3d169c006942ca4</sha1></version>
         <version><name>0.8.0.1</name><sha1>e9835620ae48b93d4f294db4902a876146ca1b05</sha1></version>
         <version><name>0.7.2</name><sha1>bfec6947b36cb2d91eb784764cea2db95147d14f</sha1></version>
