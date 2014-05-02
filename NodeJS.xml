@@ -1,6 +1,6 @@
 <entry>
-    <version>0.10.27</version>
-    <sha1>1706b5542524a0d7e17a40052882550041b8758b</sha1>
+    <version>0.10.28</version>
+    <sha1>af275df6dd526f1a6f422ff614c7fd0d49eb0742</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://london.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://dallas.kapeli.com/feeds/NodeJS.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/NodeJS.tgz</url>
     <other-versions>
+        <version><name>0.10.28</name><sha1>af275df6dd526f1a6f422ff614c7fd0d49eb0742</sha1></version>
         <version><name>0.10.27</name><sha1>1706b5542524a0d7e17a40052882550041b8758b</sha1></version>
         <version><name>0.10.26</name><sha1>42f313884aee8d91e7d18f84eb65ae3856c592d2</sha1></version>
         <version><name>0.10.25</name><sha1>ade0ab9e9ef8ad0cf5593bbe8886edc93155a428</sha1></version>
