@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/R.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/R.tgz</url>
     <url>http://london3.kapeli.com/feeds/R.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/R.tgz</url>
     <other-versions>
         <version><name>3.1.0</name><sha1>c3c99833424a01efe468b3a0e95db7ab30a609ed</sha1></version>
         <version><name>3.0.3</name><sha1>abb98330d7aafb2fc603d6d5a5ccea9a7e6f5b2e</sha1></version>

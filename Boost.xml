@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Boost.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Boost.tgz</url>
     <url>http://london3.kapeli.com/feeds/Boost.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Boost.tgz</url>
     <other-versions>
         <version><name>1.55.0</name><sha1>0bfcbd3981449bacf09261a00cb9158c1d839d26</sha1></version>
         <version><name>1.54.0</name><sha1>105667eca1847cd8867db13ef5b7f1a5ff7ae2cd</sha1></version>

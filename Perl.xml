@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Perl.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Perl.tgz</url>
     <url>http://london3.kapeli.com/feeds/Perl.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Perl.tgz</url>
     <other-versions>
         <version><name>5.18.2</name><sha1>f6ae4c708a25c5bb6ccf0b8abddd134db2daf458</sha1></version>
         <version><name>5.18.0</name><sha1>72a9926fe0fafef08357cf415fd69d99169a98d0</sha1></version>

@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/JavaFX.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/JavaFX.tgz</url>
     <url>http://london3.kapeli.com/feeds/JavaFX.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/JavaFX.tgz</url>
     <other-versions>
         <version><name>8</name><sha1>9cb35caaf85a640aa42805e7ad6db21c1e0dc15b</sha1></version>
         <version><name>2.2</name><sha1>36eb6aad2b82c753f7faf6ec45508e981c2651fc</sha1></version>

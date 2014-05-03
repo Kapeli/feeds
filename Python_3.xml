@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Python_3.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Python_3.tgz</url>
     <url>http://london3.kapeli.com/feeds/Python_3.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Python_3.tgz</url>
     <other-versions>
         <version><name>3.4.0</name><sha1>95e8611901cf80ff5166be56d4fa247926b31e49</sha1></version>
         <version><name>3.3.5</name><sha1>48ed2e74d5abe17ceb0cf5d2ee9e9ded55b125a7</sha1></version>

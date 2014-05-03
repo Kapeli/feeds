@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/OpenCV_C.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/OpenCV_C.tgz</url>
     <url>http://london3.kapeli.com/feeds/OpenCV_C.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/OpenCV_C.tgz</url>
     <other-versions>
         <version><name>2.4.9</name><sha1>0f71f8fe6cbeca8fa147e897cb14faf72b4d512d</sha1></version>
         <version><name>2.4.8</name><sha1>5f8767ba3a05b7027d25416d933a91338b0da5ec</sha1></version>

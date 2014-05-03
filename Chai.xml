@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Chai.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Chai.tgz</url>
     <url>http://london3.kapeli.com/feeds/Chai.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Chai.tgz</url>
     <other-versions>
         <version><name>1.9.1</name><sha1>edba3cab9956e571549d80ccd275120acc5bdba2</sha1></version>
         <version><name>1.9.0</name><sha1>bde376b3abfc0fc259014fb1ad4337f15186dfb4</sha1></version>

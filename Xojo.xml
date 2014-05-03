@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Xojo.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Xojo.tgz</url>
     <url>http://london3.kapeli.com/feeds/Xojo.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Xojo.tgz</url>
     <other-versions>
         <version><name>2014r1.1</name><sha1>b270666aab543007fd1dcd70fab760a01e7940d8</sha1></version>
         <version><name>2013r4.1</name><sha1>af0fd788b35275a818eced6d20d543291817eb4a</sha1></version>

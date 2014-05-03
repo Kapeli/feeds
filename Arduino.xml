@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Arduino.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Arduino.tgz</url>
     <url>http://london3.kapeli.com/feeds/Arduino.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Arduino.tgz</url>
     <other-versions>
         <version><name>1.5.6</name><sha1>6953c13b1907b603ec455731f44bc3f7e27307ed</sha1></version>
         <version><name>1.5.5</name><sha1>cd3de7e1e30f850dee73406592e22f850b78a756</sha1></version>

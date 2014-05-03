@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
     <url>http://london3.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
     <other-versions>
         <version><name>2.4.9</name><sha1>20f3d9208193d00d50185b942f4ba8416a08f3fa</sha1></version>
     </other-versions>

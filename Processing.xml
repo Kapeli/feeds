@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Processing.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Processing.tgz</url>
     <url>http://london3.kapeli.com/feeds/Processing.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Processing.tgz</url>
     <other-versions>
         <version><name>2.1</name><sha1>7e50fc00cdd295c175ab87cab34ba030d5e1f832</sha1></version>
         <version><name>2.0</name><sha1>96d9960d513543e4b88ee208427cf14eb7c41bbb</sha1></version>

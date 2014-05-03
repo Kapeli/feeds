@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Ruby_2.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Ruby_2.tgz</url>
     <url>http://london3.kapeli.com/feeds/Ruby_2.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Ruby_2.tgz</url>
     <other-versions>
         <version><name>2.1.1</name><sha1>2e432c815a12656eb0f6cf862a947f9ffe0ada19</sha1></version>
         <version><name>2.1.0</name><sha1>3189634f22fed45c6140d33127c9843daf585a6a</sha1></version>

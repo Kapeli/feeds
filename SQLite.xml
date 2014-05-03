@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://london3.kapeli.com/feeds/SQLite.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/SQLite.tgz</url>
     <other-versions>
         <version><name>3.8.4.3</name><sha1>d15e55e39ee1f4678df3b9ce1650cc8dea16f11d</sha1></version>
         <version><name>3.8.4.2</name><sha1>864c1956e1b6e2d9ef59cc790eaa0235cf3c3563</sha1></version>

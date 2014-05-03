@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Laravel.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Laravel.tgz</url>
     <url>http://london3.kapeli.com/feeds/Laravel.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Laravel.tgz</url>
     <other-versions>
         <version><name>4.1</name><sha1>3f398aeec255c06723117532ee7132fbf3023062</sha1></version>
         <version><name>4.0.9</name><sha1>2afa2e3089ea58887331242dbf576905716e6a59</sha1></version>

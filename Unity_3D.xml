@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Unity_3D.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Unity_3D.tgz</url>
     <url>http://london3.kapeli.com/feeds/Unity_3D.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Unity_3D.tgz</url>
     <other-versions>
         <version><name>4.3.4</name><sha1>4c77ac882e440be958d9a41dfbed4c71e6a91295</sha1></version>
         <version><name>4.2</name><sha1>fdc0bb46da183593305d0caa02d1bebe5a48bce4</sha1></version>

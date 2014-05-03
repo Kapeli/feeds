@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Grails.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Grails.tgz</url>
     <url>http://london3.kapeli.com/feeds/Grails.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Grails.tgz</url>
     <other-versions>
         <version><name>2.3.8</name><sha1>5b0ded7644956025f89b1f167ee6b3abbfd7ccd0</sha1></version>
         <version><name>2.3.7</name><sha1>b648403339a54fbd48ae3eed22d1a60952d7492f</sha1></version>

@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/PostgreSQL.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/PostgreSQL.tgz</url>
     <url>http://london3.kapeli.com/feeds/PostgreSQL.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/PostgreSQL.tgz</url>
     <other-versions>
         <version><name>9.3.4</name><sha1>7accbc0e49e408a77037b575b81738a62cd5b1e9</sha1></version>
         <version><name>9.3.3</name><sha1>cec4439db1f1b24ac9d12bd80079bd2be1606c97</sha1></version>

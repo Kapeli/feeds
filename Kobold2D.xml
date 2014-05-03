@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Kobold2D.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Kobold2D.tgz</url>
     <url>http://london3.kapeli.com/feeds/Kobold2D.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Kobold2D.tgz</url>
     <other-versions>
         <version><name>2.1.0</name><sha1>d1c9720a357e07d3c8ce3d9f34c4cb2788ec834c</sha1></version>
         <version><name>2.0.4</name><sha1>f7c905611a85977daaa3793aff2877b78f0fcf46</sha1></version>

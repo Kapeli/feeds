@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/jQuery_UI.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/jQuery_UI.tgz</url>
     <url>http://london3.kapeli.com/feeds/jQuery_UI.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/jQuery_UI.tgz</url>
     <other-versions>
         <version><name>1.10.4</name><sha1>905adf9bdde3218b705556bd2dc06f6213e7930a</sha1></version>
         <version><name>1.10.3</name><sha1>ace28ba60d1e77fd271d25b721e83a3ae9a875cc</sha1></version>

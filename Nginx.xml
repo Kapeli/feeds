@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Nginx.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Nginx.tgz</url>
     <url>http://london3.kapeli.com/feeds/Nginx.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Nginx.tgz</url>
     <other-versions>
         <version><name>1.7.0</name><sha1>fafd698bff45264cebeb767b49f38f651e86019f</sha1></version>
         <version><name>1.5.13</name><sha1>aa6fb07dae5f38424c77ea82df076c3ee6750ffc</sha1></version>

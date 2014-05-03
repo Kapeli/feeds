@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Spring_Framework.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Spring_Framework.tgz</url>
     <url>http://london3.kapeli.com/feeds/Spring_Framework.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Spring_Framework.tgz</url>
     <other-versions>
         <version><name>4.0.4</name><sha1>fa4bd2cfad0b8d390b0b9c7be4ec2cd593644f11</sha1></version>
         <version><name>4.0.3</name><sha1>a25a02a2c467507f977c607f53242ce52dfa2831</sha1></version>

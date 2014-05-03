@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/jQuery_Mobile.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/jQuery_Mobile.tgz</url>
     <url>http://london3.kapeli.com/feeds/jQuery_Mobile.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/jQuery_Mobile.tgz</url>
     <other-versions>
         <version><name>1.4.2</name><sha1>0124174ae1465c26fc74429b2ae0a545d0107b7f</sha1></version>
         <version><name>1.4.1</name><sha1>0124174ae1465c26fc74429b2ae0a545d0107b7f</sha1></version>

@@ -1,6 +1,6 @@
 <entry>
-    <version>3.3.6</version>
-    <sha1>254df33ec397e9147574285b9cb1bcfdfe9a72b2</sha1>
+    <version>3.3.7</version>
+    <sha1>ff13ffbc4474494e619215be5edd1576370062c5</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Sass.tgz</url>
     <url>http://london.kapeli.com/feeds/Sass.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Sass.tgz</url>
@@ -11,8 +11,8 @@
     <url>http://tokyo.kapeli.com/feeds/Sass.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Sass.tgz</url>
     <url>http://london3.kapeli.com/feeds/Sass.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Sass.tgz</url>
     <other-versions>
+        <version><name>3.3.7</name><sha1>ff13ffbc4474494e619215be5edd1576370062c5</sha1></version>
         <version><name>3.3.6</name><sha1>254df33ec397e9147574285b9cb1bcfdfe9a72b2</sha1></version>
         <version><name>3.3.4</name><sha1>48da4b2737b3e38a3ad08ca197f74c8b70874ace</sha1></version>
         <version><name>3.3.3</name><sha1>4291e954a459aac4f7c2fe2aa099f3e5a7cae0e6</sha1></version>

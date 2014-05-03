@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Vagrant.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Vagrant.tgz</url>
     <url>http://london3.kapeli.com/feeds/Vagrant.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Vagrant.tgz</url>
     <other-versions>
         <version><name>1.5.4</name><sha1>7f0b8ec46cf3eb55f25cc22fab1558840adce78c</sha1></version>
         <version><name>1.5.3</name><sha1>905ec1985c867512f7fdeac92489cf7a48f61e36</sha1></version>

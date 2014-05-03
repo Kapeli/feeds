@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Sinon.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Sinon.tgz</url>
     <url>http://london3.kapeli.com/feeds/Sinon.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Sinon.tgz</url>
     <other-versions>
         <version><name>1.9.1</name><sha1>89a56c685e147393a3d9fd30db563d9e9fa4445e</sha1></version>
         <version><name>1.9.0</name><sha1>8cc5b83d96f4c2a9f0b08520c15d7a156a4c3494</sha1></version>

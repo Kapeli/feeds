@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/Go.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Go.tgz</url>
     <url>http://london3.kapeli.com/feeds/Go.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Go.tgz</url>
     <other-versions>
         <version><name>1.2.1</name><sha1>e65bd7a26dea7cdcc9bb707c39e00aa21d13d853</sha1></version>
         <version><name>1.2.0</name><sha1>342a20d2ba8894e4dc55491bc034134d1c10c90d</sha1></version>

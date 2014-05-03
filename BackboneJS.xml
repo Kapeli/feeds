@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/BackboneJS.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/BackboneJS.tgz</url>
     <url>http://london3.kapeli.com/feeds/BackboneJS.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/BackboneJS.tgz</url>
     <other-versions>
         <version><name>1.1.2</name><sha1>3e1fe995eecdeffeb333f26012d10e203d06deaa</sha1></version>
         <version><name>1.1.1</name><sha1>a43801f4d9e541d08fe0b2f6c428af320d620668</sha1></version>

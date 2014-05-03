@@ -11,7 +11,6 @@
     <url>http://tokyo.kapeli.com/feeds/OpenCV_Python.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/OpenCV_Python.tgz</url>
     <url>http://london3.kapeli.com/feeds/OpenCV_Python.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/OpenCV_Python.tgz</url>
     <other-versions>
         <version><name>2.4.9</name><sha1>fddb9cc330ce7c0336ff8b9d404a75755db2ccb9</sha1></version>
         <version><name>2.4.8</name><sha1>be311ba436b3a60a72cd99bef8f92c5d82904c7c</sha1></version>
