@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/MooTools.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/MooTools.tgz</url>
     <url>http://london3.kapeli.com/feeds/MooTools.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/MooTools.tgz</url>
     <other-versions>
         <version><name>1.4.5</name><sha1>cbce3a4ff652b58d2b2f692a663b555c44db52d2</sha1></version>
     </other-versions>

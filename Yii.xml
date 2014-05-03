@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Yii.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Yii.tgz</url>
     <url>http://london3.kapeli.com/feeds/Yii.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Yii.tgz</url>
     <other-versions>
         <version><name>1.1.14</name><sha1>c1c7c9041989fff3d48ca655920deb8cfb3a6410</sha1></version>
         <version><name>1.1.13</name><sha1>9cf8a4db7460fda00fec70eb122fac4f83cd5194</sha1></version>

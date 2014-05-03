@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Haskell.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Haskell.tgz</url>
     <url>http://london3.kapeli.com/feeds/Haskell.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Haskell.tgz</url>
     <other-versions>
         <version><name>2013.2.0.0</name><sha1>e483dbd4b33b388b1f5463c4ead6cc10498a5033</sha1></version>
         <version><name>2012.4.0.0</name><sha1>f063eec3089d36ae5fbca9463a8565e2631e873a</sha1></version>

@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Joomla.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Joomla.tgz</url>
     <url>http://london3.kapeli.com/feeds/Joomla.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Joomla.tgz</url>
     <other-versions>
         <version><name>3.3</name><sha1>803b5c65ef328225c4a7a318a6f9e300524753bb</sha1></version>
         <version><name>3.2</name><sha1>a8f4c6e0f1067708a9408b60b26cabb6cce57b2a</sha1></version>

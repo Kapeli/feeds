@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/UnderscoreJS.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/UnderscoreJS.tgz</url>
     <url>http://london3.kapeli.com/feeds/UnderscoreJS.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/UnderscoreJS.tgz</url>
     <other-versions>
         <version><name>1.6.0</name><sha1>712772156d437a5df2ad9252929b4ec05d7a68a3</sha1></version>
         <version><name>1.5.2</name><sha1>d9a3165874ffd76a76addae5667cb19ff978fb80</sha1></version>

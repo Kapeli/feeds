@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/jQuery.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/jQuery.tgz</url>
     <url>http://london3.kapeli.com/feeds/jQuery.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/jQuery.tgz</url>
     <other-versions>
         <version><name>1.11.1 or 2.1.1</name><sha1>cf1c910772b9e11e623f0ea051d1de5ce980254c</sha1></version>
         <version><name>1.11.0 or 2.1.0</name><sha1>9c361a1aa7a96548fd71230367e32f40f68bc2a7</sha1></version>

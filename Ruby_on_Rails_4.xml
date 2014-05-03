@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Ruby_on_Rails_4.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Ruby_on_Rails_4.tgz</url>
     <url>http://london3.kapeli.com/feeds/Ruby_on_Rails_4.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Ruby_on_Rails_4.tgz</url>
     <other-versions>
         <version><name>4.1.0</name><sha1>441719f4baca7a2d5f1cec550ad9bb40d3e8ab03</sha1></version>
         <version><name>4.0.4</name><sha1>7d5811d652eb6886ee8a31da22b85855246b33bf</sha1></version>

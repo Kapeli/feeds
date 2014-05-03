@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Scala.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Scala.tgz</url>
     <url>http://london3.kapeli.com/feeds/Scala.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Scala.tgz</url>
     <other-versions>
         <version><name>2.11.0</name><sha1>0db0e7e80de95f506e4fd2577785772d1a1cadac</sha1></version>
         <version><name>2.10.3</name><sha1>d75d3d720171ccd62850a770e6053feebeed392a</sha1></version>

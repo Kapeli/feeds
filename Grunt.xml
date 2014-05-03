@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Grunt.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Grunt.tgz</url>
     <url>http://london3.kapeli.com/feeds/Grunt.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Grunt.tgz</url>
     <other-versions>
         <version><name>0.4.4</name><sha1>3ebbb7c81d5428622ed4571d4a4a56744a4fb48a</sha1></version>
         <version><name>0.4.3</name><sha1>a10b5486af83ce13ce3784b86779d92c94ccdb05</sha1></version>

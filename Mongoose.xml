@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Mongoose.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Mongoose.tgz</url>
     <url>http://london3.kapeli.com/feeds/Mongoose.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Mongoose.tgz</url>
     <other-versions>
         <version><name>3.8.8</name><sha1>a0f6a6eebd4571af4c99a0b970bd7d97f9d3ca10</sha1></version>
     </other-versions>

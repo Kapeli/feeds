@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Puppet.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Puppet.tgz</url>
     <url>http://london3.kapeli.com/feeds/Puppet.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Puppet.tgz</url>
     <other-versions>
         <version><name>3.5.1</name><sha1>44278f76635e39605d17aae3cb56475b02d7d42b</sha1></version>
         <version><name>3.5.0</name><sha1>d9edaf028082a4c2cdb247ebcb168d83d6b021ff</sha1></version>

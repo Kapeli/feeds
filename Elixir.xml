@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Elixir.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Elixir.tgz</url>
     <url>http://london3.kapeli.com/feeds/Elixir.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Elixir.tgz</url>
     <other-versions>
         <version><name>0.13.1</name><sha1>23bef19712e314e66f510fcc39457b58d4cc09ff</sha1></version>
         <version><name>0.13.0</name><sha1>71da53f17bfb7aaf4680ca1668c90dbfafb43e65</sha1></version>

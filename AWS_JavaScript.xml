@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/AWS_JavaScript.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/AWS_JavaScript.tgz</url>
     <url>http://london3.kapeli.com/feeds/AWS_JavaScript.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/AWS_JavaScript.tgz</url>
     <other-versions>
         <version><name>2.0.0-rc14</name><sha1>7c8474b61dfc8b13ac4e7232b7af7d5b1908ca45</sha1></version>
     </other-versions>

@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/EmberJS.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/EmberJS.tgz</url>
     <url>http://london3.kapeli.com/feeds/EmberJS.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/EmberJS.tgz</url>
     <other-versions>
         <version><name>1.5.1</name><sha1>9da41053243491f05b629ebe626e45a91b813286</sha1></version>
         <version><name>1.4.0</name><sha1>1872b41e36aaf2ff9d769c666c772d406420f341</sha1></version>

@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/OpenCV_Java.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/OpenCV_Java.tgz</url>
     <url>http://london3.kapeli.com/feeds/OpenCV_Java.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/OpenCV_Java.tgz</url>
     <other-versions>
         <version><name>2.4.9</name><sha1>726384d3613ee5c6abf3edcea684910928308c20</sha1></version>
         <version><name>2.4.8</name><sha1>7d5bad1de7fdff68f5861ab8ca5c3b821f5b7486</sha1></version>

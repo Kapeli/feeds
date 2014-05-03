@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Twig.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Twig.tgz</url>
     <url>http://london3.kapeli.com/feeds/Twig.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Twig.tgz</url>
     <other-versions>
         <version><name>1.15.1</name><sha1>2f08b7cd8e1244e777637f7284f73dc9261e6689</sha1></version>
         <version><name>1.15.0</name><sha1>47b00e64caec75798519b0245365c37559746008</sha1></version>

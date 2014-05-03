@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Less.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Less.tgz</url>
     <url>http://london3.kapeli.com/feeds/Less.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Less.tgz</url>
     <other-versions>
         <version><name>1.7.0</name><sha1>505409855f5263a969d52ec6af99f01109dbc3c6</sha1></version>
         <version><name>1.6.3</name><sha1>172f2198197917d852b62acdcf37e71fdd021c99</sha1></version>

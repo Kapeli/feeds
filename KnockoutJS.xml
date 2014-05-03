@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/KnockoutJS.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/KnockoutJS.tgz</url>
     <url>http://london3.kapeli.com/feeds/KnockoutJS.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/KnockoutJS.tgz</url>
     <other-versions>
         <version><name>3.1.0</name><sha1>a7b10b5d0702ba15b4ab00528f5b6101c531cb47</sha1></version>
         <version><name>3.0.0</name><sha1>f0247e5e93160f502e4f5e6417f115df2629a3e3</sha1></version>

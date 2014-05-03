@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/CakePHP.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/CakePHP.tgz</url>
     <url>http://london3.kapeli.com/feeds/CakePHP.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/CakePHP.tgz</url>
     <other-versions>
         <version><name>2.4.9</name><sha1>d4de169decdfd56c17fe1db14bb191c690b351ea</sha1></version>
         <version><name>2.4.7</name><sha1>e867deb8999eeaa40b155c0b590f5e4feb183c67</sha1></version>

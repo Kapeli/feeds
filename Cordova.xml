@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Cordova.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Cordova.tgz</url>
     <url>http://london3.kapeli.com/feeds/Cordova.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Cordova.tgz</url>
     <other-versions>
         <version><name>3.4</name><sha1>0af39d67a700a0a8bf8613806447de2b2538af6d</sha1></version>
         <version><name>3.3</name><sha1>290f56cd281fcb51dc8e26da05af7763a22447ca</sha1></version>

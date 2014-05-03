@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Ansible.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Ansible.tgz</url>
     <url>http://london3.kapeli.com/feeds/Ansible.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Ansible.tgz</url>
     <other-versions>
         <version><name>1.5.5</name><sha1>59b17ad823f9604de2fd86e71f8fc7c10eb8ca74</sha1></version>
         <version><name>1.5.4</name><sha1>20582abb76d9438a3ecc5ab2224e6ad5b138b9e6</sha1></version>

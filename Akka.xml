@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Akka.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Akka.tgz</url>
     <url>http://london3.kapeli.com/feeds/Akka.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Akka.tgz</url>
     <other-versions>
         <version><name>2.3.2</name><sha1>0fb6b66b1398d202ff07dafe2da20b3c667bcf43</sha1></version>
         <version><name>2.3.1</name><sha1>b7ca0a08bb8904e7ce571b99ae2068a507fc7ccc</sha1></version>

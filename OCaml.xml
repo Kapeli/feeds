@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/OCaml.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/OCaml.tgz</url>
     <url>http://london3.kapeli.com/feeds/OCaml.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/OCaml.tgz</url>
     <other-versions>
         <version><name>4.01.0</name><sha1>1f8841c0aba0e620d39576813b3e33a684d9ef63</sha1></version>
     </other-versions>

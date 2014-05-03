@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
     <url>http://london3.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
     <other-versions>
         <version><name>3.2.3</name><sha1>1d036c197a2a2ce10c267026c7cd3fca6ed6dcbb</sha1></version>
         <version><name>3.2.2</name><sha1>984b5b4c03be4368982fe24debeb6629221bbf93</sha1></version>

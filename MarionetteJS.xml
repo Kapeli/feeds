@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/MarionetteJS.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/MarionetteJS.tgz</url>
     <url>http://london3.kapeli.com/feeds/MarionetteJS.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/MarionetteJS.tgz</url>
     <other-versions>
         <version><name>1.8</name><sha1>15afaa0aa6342798f59d681a7623c150ee784449</sha1></version>
         <version><name>1.7</name><sha1>1bc9a2dcbef7c49b9354565b1b9d6b6044cf37e0</sha1></version>

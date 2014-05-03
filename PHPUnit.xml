@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/PHPUnit.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/PHPUnit.tgz</url>
     <url>http://london3.kapeli.com/feeds/PHPUnit.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/PHPUnit.tgz</url>
     <other-versions>
         <version><name>4.1</name><sha1>2404a0fad2981e985485e97c8dd702b78b47f479</sha1></version>
         <version><name>4.0</name><sha1>5a42d482c061ec59f549aad45019967b7889923d</sha1></version>

@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Lo-Dash.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Lo-Dash.tgz</url>
     <url>http://london3.kapeli.com/feeds/Lo-Dash.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Lo-Dash.tgz</url>
     <other-versions>
         <version><name>2.4.1</name><sha1>7c67e92a6e85725bbff75e3ccc1f71b58d155279</sha1></version>
         <version><name>2.4.0</name><sha1>c6da7d7cfd65e88659f8cf69241c5821d6f03880</sha1></version>

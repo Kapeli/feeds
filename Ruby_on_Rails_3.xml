@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Ruby_on_Rails_3.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Ruby_on_Rails_3.tgz</url>
     <url>http://london3.kapeli.com/feeds/Ruby_on_Rails_3.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Ruby_on_Rails_3.tgz</url>
     <other-versions>
         <version><name>3.2.17</name><sha1>418577dd60c1161b1a5389b99c6dc6975208a868</sha1></version>
         <version><name>3.2.16</name><sha1>db1d7c99cd5301bbadea3f4f0aeec868eb0266df</sha1></version>

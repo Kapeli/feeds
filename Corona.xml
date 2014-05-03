@@ -11,6 +11,7 @@
     <url>http://tokyo.kapeli.com/feeds/Corona.tgz</url>
     <url>http://tokyo2.kapeli.com/feeds/Corona.tgz</url>
     <url>http://london3.kapeli.com/feeds/Corona.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Corona.tgz</url>
     <other-versions>
         <version><name>2014.2189</name><sha1>b96f642abcb2dc059e8240ce6e61dc9a1daa5591</sha1></version>
         <version><name>2013.2100</name><sha1>ca1bff52b1003ce5f96413e613f1826a61d6b310</sha1></version>
