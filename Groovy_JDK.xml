@@ -1,0 +1,18 @@
+<entry>
+    <version>2.3.0</version>
+    <sha1>ddf50ae6a41c8ffafed76c1b4aba88d9a4980c10</sha1>
+    <url>http://sanfrancisco.kapeli.com/feeds/Groovy_JDK.tgz</url>
+    <url>http://london.kapeli.com/feeds/Groovy_JDK.tgz</url>
+    <url>http://dallas.kapeli.com/feeds/Groovy_JDK.tgz</url>
+    <url>http://newyork.kapeli.com/feeds/Groovy_JDK.tgz</url>
+    <url>http://london2.kapeli.com/feeds/Groovy_JDK.tgz</url>
+    <url>http://newyork2.kapeli.com/feeds/Groovy_JDK.tgz</url>
+    <url>http://sanfrancisco2.kapeli.com/feeds/Groovy_JDK.tgz</url>
+    <url>http://tokyo.kapeli.com/feeds/Groovy_JDK.tgz</url>
+    <url>http://tokyo2.kapeli.com/feeds/Groovy_JDK.tgz</url>
+    <url>http://london3.kapeli.com/feeds/Groovy_JDK.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Groovy_JDK.tgz</url>
+    <other-versions>
+        <version><name>2.3.0</name><sha1>ddf50ae6a41c8ffafed76c1b4aba88d9a4980c10</sha1></version>
+    </other-versions>
+</entry>
