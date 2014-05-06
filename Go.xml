@@ -1,6 +1,6 @@
 <entry>
-    <version>1.2.1/2</version>
-    <sha1>e65bd7a26dea7cdcc9bb707c39e00aa21d13d853</sha1>
+    <version>1.2.2</version>
+    <sha1>f481bc6d7fc8cf75737b6f329a469bcd36746d1b</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Go.tgz</url>
     <url>http://london.kapeli.com/feeds/Go.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Go.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Go.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Go.tgz</url>
     <other-versions>
+        <version><name>1.2.2</name><sha1>f481bc6d7fc8cf75737b6f329a469bcd36746d1b</sha1></version>
         <version><name>1.2.1</name><sha1>e65bd7a26dea7cdcc9bb707c39e00aa21d13d853</sha1></version>
         <version><name>1.2.0</name><sha1>342a20d2ba8894e4dc55491bc034134d1c10c90d</sha1></version>
         <version><name>1.1.2</name><sha1>f30417f0b9fb1def9aa4ded9f572a12d7c759a7f</sha1></version>
