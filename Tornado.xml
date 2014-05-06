@@ -1,6 +1,6 @@
 <entry>
-    <version>3.2.0</version>
-    <sha1>5f824a7b7b4041372c54be124d98da78c04bbd4f</sha1>
+    <version>3.2.1</version>
+    <sha1>7f60ab7f4f56a582e009dc114c04b9f3e92fed88</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Tornado.tgz</url>
     <url>http://london.kapeli.com/feeds/Tornado.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Tornado.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Tornado.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Tornado.tgz</url>
     <other-versions>
+        <version><name>3.2.1</name><sha1>7f60ab7f4f56a582e009dc114c04b9f3e92fed88</sha1></version>
         <version><name>3.2.0</name><sha1>5f824a7b7b4041372c54be124d98da78c04bbd4f</sha1></version>
     </other-versions>
 </entry>
