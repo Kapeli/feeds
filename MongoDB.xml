@@ -1,6 +1,6 @@
 <entry>
-    <version>2.6.0</version>
-    <sha1>20a354328b62193b8358b6b34d51db9befcb119c</sha1>
+    <version>2.6.1</version>
+    <sha1>5b802c7491ef9f5528bef894d02548e30c011e78</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/MongoDB.tgz</url>
     <url>http://london.kapeli.com/feeds/MongoDB.tgz</url>
     <url>http://dallas.kapeli.com/feeds/MongoDB.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/MongoDB.tgz</url>
     <url>http://sydney.kapeli.com/feeds/MongoDB.tgz</url>
     <other-versions>
+        <version><name>2.6.1</name><sha1>5b802c7491ef9f5528bef894d02548e30c011e78</sha1></version>
         <version><name>2.6.0</name><sha1>20a354328b62193b8358b6b34d51db9befcb119c</sha1></version>
         <version><name>2.4.10</name><sha1>dfb020ce85c32dca6cce95b40b4a4389cbaa4c8a</sha1></version>
     </other-versions>
