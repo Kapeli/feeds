@@ -1,6 +1,6 @@
 <entry>
-    <version>10/3</version>
-    <sha1>a0376405b7dc723d78a56ec5e85d6fe269e3b9b1</sha1>
+    <version>11</version>
+    <sha1>70b8f062e68fef1e7f3fa10f893fe4ed716aac0c</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/ColdFusion.tgz</url>
     <url>http://london.kapeli.com/feeds/ColdFusion.tgz</url>
     <url>http://dallas.kapeli.com/feeds/ColdFusion.tgz</url>
@@ -12,4 +12,8 @@
     <url>http://tokyo2.kapeli.com/feeds/ColdFusion.tgz</url>
     <url>http://london3.kapeli.com/feeds/ColdFusion.tgz</url>
     <url>http://sydney.kapeli.com/feeds/ColdFusion.tgz</url>
+    <other-versions>
+        <version><name>11</name><sha1>70b8f062e68fef1e7f3fa10f893fe4ed716aac0c</sha1></version>
+        <version><name>10</name><sha1>a0376405b7dc723d78a56ec5e85d6fe269e3b9b1</sha1></version>
+    </other-versions>
 </entry>
