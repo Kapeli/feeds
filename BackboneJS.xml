@@ -1,6 +1,6 @@
 <entry>
-    <version>1.1.2</version>
-    <sha1>3e1fe995eecdeffeb333f26012d10e203d06deaa</sha1>
+    <version>1.1.2/2</version>
+    <sha1>4c752ea2ba398a808886d797ada63d7f9becadef</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/BackboneJS.tgz</url>
     <url>http://london.kapeli.com/feeds/BackboneJS.tgz</url>
     <url>http://dallas.kapeli.com/feeds/BackboneJS.tgz</url>
@@ -13,10 +13,6 @@
     <url>http://london3.kapeli.com/feeds/BackboneJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/BackboneJS.tgz</url>
     <other-versions>
-        <version><name>1.1.2</name><sha1>3e1fe995eecdeffeb333f26012d10e203d06deaa</sha1></version>
-        <version><name>1.1.1</name><sha1>a43801f4d9e541d08fe0b2f6c428af320d620668</sha1></version>
-        <version><name>1.1.0</name><sha1>457d209f4a1ad7753bea55c35e923c46e0546fad</sha1></version>
-        <version><name>1.0.0</name><sha1>b150cc775b6038d49c58b30cae5b6040f17c10e3</sha1></version>
-        <version><name>0.9.10</name><sha1>f91543425ae010c5226b21b67c346658e3f2c014</sha1></version>
+        <version><name>1.1.2</name><sha1>4c752ea2ba398a808886d797ada63d7f9becadef</sha1></version>
     </other-versions>
 </entry>
