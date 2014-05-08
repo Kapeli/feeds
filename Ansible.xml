@@ -1,6 +1,6 @@
 <entry>
-    <version>1.6.0</version>
-    <sha1>d49c3bdfd2dd9903d177f2d2de78a6686a017b9e</sha1>
+    <version>1.6.1</version>
+    <sha1>fad4f534cab6eabbeed966c78cfeba2132e179c4</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Ansible.tgz</url>
     <url>http://london.kapeli.com/feeds/Ansible.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Ansible.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Ansible.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Ansible.tgz</url>
     <other-versions>
+        <version><name>1.6.1</name><sha1>fad4f534cab6eabbeed966c78cfeba2132e179c4</sha1></version>
         <version><name>1.6.0</name><sha1>d49c3bdfd2dd9903d177f2d2de78a6686a017b9e</sha1></version>
         <version><name>1.5.5</name><sha1>59b17ad823f9604de2fd86e71f8fc7c10eb8ca74</sha1></version>
         <version><name>1.5.4</name><sha1>20582abb76d9438a3ecc5ab2224e6ad5b138b9e6</sha1></version>
