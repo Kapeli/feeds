@@ -1,6 +1,6 @@
 <entry>
-    <version>1.6.0</version>
-    <sha1>712772156d437a5df2ad9252929b4ec05d7a68a3</sha1>
+    <version>1.6.0/2</version>
+    <sha1>3cdf202593d64ec235ceebc1c17600b07e10a4b3</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/UnderscoreJS.tgz</url>
     <url>http://london.kapeli.com/feeds/UnderscoreJS.tgz</url>
     <url>http://dallas.kapeli.com/feeds/UnderscoreJS.tgz</url>
@@ -13,9 +13,6 @@
     <url>http://london3.kapeli.com/feeds/UnderscoreJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/UnderscoreJS.tgz</url>
     <other-versions>
-        <version><name>1.6.0</name><sha1>712772156d437a5df2ad9252929b4ec05d7a68a3</sha1></version>
-        <version><name>1.5.2</name><sha1>d9a3165874ffd76a76addae5667cb19ff978fb80</sha1></version>
-        <version><name>1.5.1</name><sha1>414bd3f1ad1d6f3e213951a5c8c2051e0dfc6230</sha1></version>
-        <version><name>1.4.4</name><sha1>f2b3b6c9e3bdfeed20b39fd6f67b81887e17761f</sha1></version>
+        <version><name>1.6.0</name><sha1>3cdf202593d64ec235ceebc1c17600b07e10a4b3</sha1></version>
     </other-versions>
 </entry>
