@@ -1,6 +1,6 @@
 <entry>
-    <version>1.6.0</version>
-    <sha1>21702facc8483480c83027e2ef31be700f9f2a44</sha1>
+    <version>1.6.1</version>
+    <sha1>81b6da89e677f07c4a7df80d97060598d4fa2859</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Vagrant.tgz</url>
     <url>http://london.kapeli.com/feeds/Vagrant.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Vagrant.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Vagrant.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Vagrant.tgz</url>
     <other-versions>
+        <version><name>1.6.1</name><sha1>81b6da89e677f07c4a7df80d97060598d4fa2859</sha1></version>
         <version><name>1.6.0</name><sha1>21702facc8483480c83027e2ef31be700f9f2a44</sha1></version>
         <version><name>1.5.4</name><sha1>7f0b8ec46cf3eb55f25cc22fab1558840adce78c</sha1></version>
         <version><name>1.5.3</name><sha1>905ec1985c867512f7fdeac92489cf7a48f61e36</sha1></version>
