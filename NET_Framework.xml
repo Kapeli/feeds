@@ -1,6 +1,6 @@
 <entry>
     <version>4.5.2</version>
-    <sha1>d930fca18f253656f33c2afffbdeacfdc5c8a3d2</sha1>
+    <sha1>0a4b345757910091dc6d6ce43936ba27d3b09e49</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/NET_Framework.tgz</url>
     <url>http://london.kapeli.com/feeds/NET_Framework.tgz</url>
     <url>http://dallas.kapeli.com/feeds/NET_Framework.tgz</url>
@@ -13,7 +13,7 @@
     <url>http://london3.kapeli.com/feeds/NET_Framework.tgz</url>
     <url>http://sydney.kapeli.com/feeds/NET_Framework.tgz</url>
     <other-versions>
-        <version><name>4.5.2</name><sha1>d930fca18f253656f33c2afffbdeacfdc5c8a3d2</sha1></version>
+        <version><name>4.5.2</name><sha1>0a4b345757910091dc6d6ce43936ba27d3b09e49</sha1></version>
         <version><name>4.5.1</name><sha1>ab03b76e84bcef9667c3407f177195e3f0dac887</sha1></version>
     </other-versions>
 </entry>
