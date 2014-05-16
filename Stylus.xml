@@ -1,6 +1,6 @@
 <entry>
-    <version>0.44/2</version>
-    <sha1>f3d115739a4f7bc2a6cb5fb6b3a56d6937acd53b</sha1>
+    <version>0.45</version>
+    <sha1>c8f863385d5321c84f4909f1fdfe94061fdd86f1</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Stylus.tgz</url>
     <url>http://london.kapeli.com/feeds/Stylus.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Stylus.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Stylus.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Stylus.tgz</url>
     <other-versions>
+        <version><name>0.45</name><sha1>c8f863385d5321c84f4909f1fdfe94061fdd86f1</sha1></version>
         <version><name>0.44</name><sha1>f3d115739a4f7bc2a6cb5fb6b3a56d6937acd53b</sha1></version>
         <version><name>0.43</name><sha1>8c9538254964b5968b79e9e48e21c9362fc45678</sha1></version>
         <version><name>0.42</name><sha1>51ef746b7758180af3fc4aa1ff919485eb909c21</sha1></version>
