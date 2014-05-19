@@ -1,6 +1,6 @@
 <entry>
-    <version>.1.1</version>
-    <sha1>2e432c815a12656eb0f6cf862a947f9ffe0ada19</sha1>
+    <version>.1.2</version>
+    <sha1>d24b4942589ebb405b3e8342f0e4c497f73e71fe</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Ruby_2.tgz</url>
     <url>http://london.kapeli.com/feeds/Ruby_2.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Ruby_2.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Ruby_2.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Ruby_2.tgz</url>
     <other-versions>
+        <version><name>2.1.2</name><sha1>d24b4942589ebb405b3e8342f0e4c497f73e71fe</sha1></version>
         <version><name>2.1.1</name><sha1>2e432c815a12656eb0f6cf862a947f9ffe0ada19</sha1></version>
         <version><name>2.1.0</name><sha1>3189634f22fed45c6140d33127c9843daf585a6a</sha1></version>
         <version><name>2.0.0</name><sha1>8a1dec4e917a62dc3c23092dbeb06974908083a5</sha1></version>
