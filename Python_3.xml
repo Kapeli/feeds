@@ -1,6 +1,6 @@
 <entry>
-    <version>.4.0</version>
-    <sha1>95e8611901cf80ff5166be56d4fa247926b31e49</sha1>
+    <version>.4.1</version>
+    <sha1>15097783f1ee4c3335a67ce8b95f8aa84098eea9</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Python_3.tgz</url>
     <url>http://london.kapeli.com/feeds/Python_3.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Python_3.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Python_3.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Python_3.tgz</url>
     <other-versions>
+        <version><name>3.4.1</name><sha1>15097783f1ee4c3335a67ce8b95f8aa84098eea9</sha1></version>
         <version><name>3.4.0</name><sha1>95e8611901cf80ff5166be56d4fa247926b31e49</sha1></version>
         <version><name>3.3.5</name><sha1>48ed2e74d5abe17ceb0cf5d2ee9e9ded55b125a7</sha1></version>
         <version><name>3.3.4</name><sha1>b8c8a19d39a673557c5a5ee39462d95cfd8f2055</sha1></version>
