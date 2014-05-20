@@ -1,5 +1,5 @@
 <entry>
-    <version>3.4.7</version>
+    <version>3.4.8</version>
     <sha1>e259ebaa23c5bf4db1bad9cb021a82d29cbcf004</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/D3JS.tgz</url>
     <url>http://london.kapeli.com/feeds/D3JS.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/D3JS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/D3JS.tgz</url>
     <other-versions>
+        <version><name>3.4.8</name><sha1>e259ebaa23c5bf4db1bad9cb021a82d29cbcf004</sha1></version>
         <version><name>3.4.7</name><sha1>e259ebaa23c5bf4db1bad9cb021a82d29cbcf004</sha1></version>
         <version><name>3.4.6</name><sha1>e259ebaa23c5bf4db1bad9cb021a82d29cbcf004</sha1></version>
         <version><name>3.4.5</name><sha1>10527a819d46e34adfc2a4f3c3c28700142543b1</sha1></version>
