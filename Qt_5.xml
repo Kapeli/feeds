@@ -1,6 +1,6 @@
 <entry>
-    <version>.2.1</version>
-    <sha1>f76f9b127440160cb7b787819bd69c2778e8f77e</sha1>
+    <version>.3.0</version>
+    <sha1>51975f9a816bc99c5f992b6c7f73432b94849c54</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Qt_5.tgz</url>
     <url>http://london.kapeli.com/feeds/Qt_5.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Qt_5.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Qt_5.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Qt_5.tgz</url>
     <other-versions>
+        <version><name>5.3.0</name><sha1>51975f9a816bc99c5f992b6c7f73432b94849c54</sha1></version>
         <version><name>5.2.1</name><sha1>f76f9b127440160cb7b787819bd69c2778e8f77e</sha1></version>
     </other-versions>
 </entry>
