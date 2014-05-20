@@ -1,6 +1,6 @@
 <entry>
-    <version>1.4.5/2</version>
-    <sha1>cbce3a4ff652b58d2b2f692a663b555c44db52d2</sha1>
+    <version>1.5.0</version>
+    <sha1>7057e2d04b3162459848bf7cf1007834670c8b0e</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/MooTools.tgz</url>
     <url>http://london.kapeli.com/feeds/MooTools.tgz</url>
     <url>http://dallas.kapeli.com/feeds/MooTools.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/MooTools.tgz</url>
     <url>http://sydney.kapeli.com/feeds/MooTools.tgz</url>
     <other-versions>
+        <version><name>1.5.0</name><sha1>7057e2d04b3162459848bf7cf1007834670c8b0e</sha1></version>
         <version><name>1.4.5</name><sha1>cbce3a4ff652b58d2b2f692a663b555c44db52d2</sha1></version>
     </other-versions>
 </entry>
