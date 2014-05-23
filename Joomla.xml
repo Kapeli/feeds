@@ -1,6 +1,6 @@
 <entry>
-    <version>3.3</version>
-    <sha1>803b5c65ef328225c4a7a318a6f9e300524753bb</sha1>
+    <version>3.3/2</version>
+    <sha1>9602e48984122414e738d15ac29f4d5e75a08939</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Joomla.tgz</url>
     <url>http://london.kapeli.com/feeds/Joomla.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Joomla.tgz</url>
@@ -13,9 +13,6 @@
     <url>http://london3.kapeli.com/feeds/Joomla.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Joomla.tgz</url>
     <other-versions>
-        <version><name>3.3</name><sha1>803b5c65ef328225c4a7a318a6f9e300524753bb</sha1></version>
-        <version><name>3.2</name><sha1>a8f4c6e0f1067708a9408b60b26cabb6cce57b2a</sha1></version>
-        <version><name>3.1</name><sha1>d3fdf145e7fd8268c508bddff6baf55db168ebf9</sha1></version>
-        <version><name>3.0</name><sha1>32112ed80df13a8c1ac4ef786fca384b3c148c87</sha1></version>
+        <version><name>3.3</name><sha1>9602e48984122414e738d15ac29f4d5e75a08939</sha1></version>
     </other-versions>
 </entry>
