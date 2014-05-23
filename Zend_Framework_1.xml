@@ -1,6 +1,6 @@
 <entry>
     <version>.12</version>
-    <sha1>eebc785e292a0e827989723fa5f7a586a62f1929</sha1>
+    <sha1>bd0d98540469bb83b0628f1896a2df8ccc2616b8</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Zend_Framework_1.tgz</url>
     <url>http://london.kapeli.com/feeds/Zend_Framework_1.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Zend_Framework_1.tgz</url>
@@ -13,6 +13,6 @@
     <url>http://london3.kapeli.com/feeds/Zend_Framework_1.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Zend_Framework_1.tgz</url>
     <other-versions>
-        <version><name>1.12</name><sha1>eebc785e292a0e827989723fa5f7a586a62f1929</sha1></version>
+        <version><name>1.12</name><sha1>bd0d98540469bb83b0628f1896a2df8ccc2616b8</sha1></version>
     </other-versions>
 </entry>
