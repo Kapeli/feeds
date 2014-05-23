@@ -1,6 +1,6 @@
 <entry>
-    <version>6.2</version>
-    <sha1>d5f63f9c1c1d07bdd5ba46009efd79688b149629</sha1>
+    <version>6.2/2</version>
+    <sha1>984ecaf74fef8b63185760fd2c3e63c968fb0806</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/TYPO3.tgz</url>
     <url>http://london.kapeli.com/feeds/TYPO3.tgz</url>
     <url>http://dallas.kapeli.com/feeds/TYPO3.tgz</url>
@@ -13,8 +13,6 @@
     <url>http://london3.kapeli.com/feeds/TYPO3.tgz</url>
     <url>http://sydney.kapeli.com/feeds/TYPO3.tgz</url>
     <other-versions>
-        <version><name>6.2</name><sha1>d5f63f9c1c1d07bdd5ba46009efd79688b149629</sha1></version>
-        <version><name>6.1</name><sha1>ab2ea14d064774fea0efecd1e2cc3940ca794e51</sha1></version>
-        <version><name>6.0</name><sha1>48460e2542b5f230771febeaabbc1aa9aacf0982</sha1></version>
+        <version><name>6.2</name><sha1>984ecaf74fef8b63185760fd2c3e63c968fb0806</sha1></version>
     </other-versions>
 </entry>
