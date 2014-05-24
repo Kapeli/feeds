@@ -1,6 +1,6 @@
 <entry>
-    <version>3.0.0</version>
-    <sha1>4c948497292ba29a37263db1684bc2c7ac0d51c9</sha1>
+    <version>3.1.0</version>
+    <sha1>29dee45e4bd05873dec9c7686a9a188e9f983b53</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Cocos2D-X.tgz</url>
     <url>http://london.kapeli.com/feeds/Cocos2D-X.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Cocos2D-X.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Cocos2D-X.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Cocos2D-X.tgz</url>
     <other-versions>
+        <version><name>3.1.0</name><sha1>29dee45e4bd05873dec9c7686a9a188e9f983b53</sha1></version>
         <version><name>3.0.0</name><sha1>4c948497292ba29a37263db1684bc2c7ac0d51c9</sha1></version>
         <version><name>2.2.3</name><sha1>7f0f2fb40713a0e8b124a87544f66e533b9e8a9f</sha1></version>
         <version><name>2.2.2</name><sha1>63bda07b539b4ab93aed02a5c5f8aa6785f990c6</sha1></version>
