@@ -18,5 +18,6 @@
         <version><name>3.2.16</name><sha1>db1d7c99cd5301bbadea3f4f0aeec868eb0266df</sha1></version>
         <version><name>3.2.15</name><sha1>37e7e754c6c5eb0a44eb8b4a0d009a82523ab9f6</sha1></version>
         <version><name>3.2.14</name><sha1>39446e058cc0f0fdc4cd7c1dcfe7c880325a0372</sha1></version>
+        <version><name>3.0.9</name><sha1>bfbe38a3ffb8b69939ee42f13761a33160276632</sha1></version>
     </other-versions>
 </entry>
