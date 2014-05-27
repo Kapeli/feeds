@@ -1,6 +1,6 @@
 <entry>
-    <version>2.1.12</version>
-    <sha1>c8938836d204b08606c981ff4e28373c4af81ffb</sha1>
+    <version>2.1.13</version>
+    <sha1>fb6c95331872f2a45a49f404b0feab142fd3cefe</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/RequireJS.tgz</url>
     <url>http://london.kapeli.com/feeds/RequireJS.tgz</url>
     <url>http://dallas.kapeli.com/feeds/RequireJS.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/RequireJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/RequireJS.tgz</url>
     <other-versions>
+        <version><name>2.1.13</name><sha1>fb6c95331872f2a45a49f404b0feab142fd3cefe</sha1></version>
         <version><name>2.1.12</name><sha1>c8938836d204b08606c981ff4e28373c4af81ffb</sha1></version>
         <version><name>2.1.11</name><sha1>6801d960a34acf4601698c2317e20a338a80f3c4</sha1></version>
     </other-versions>
