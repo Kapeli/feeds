@@ -1,6 +1,6 @@
 <entry>
     <version>R17</version>
-    <sha1>88c6c45a6ea19c052a88fbf9060a72108cf57af0</sha1>
+    <sha1>b0d63bc861127a115b384abb1d0c02ed4585dc18</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Erlang.tgz</url>
     <url>http://london.kapeli.com/feeds/Erlang.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Erlang.tgz</url>
@@ -13,8 +13,6 @@
     <url>http://london3.kapeli.com/feeds/Erlang.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Erlang.tgz</url>
     <other-versions>
-        <version><name>R17</name><sha1>88c6c45a6ea19c052a88fbf9060a72108cf57af0</sha1></version>
-        <version><name>R16B</name><sha1>ddc38f8b970d42baac1425040f67d1fce29b222c</sha1></version>
-        <version><name>R15B03-1</name><sha1>5adeba5134fa5b83e43652fb9bdfdc99c507f7fe</sha1></version>
+        <version><name>R17</name><sha1>b0d63bc861127a115b384abb1d0c02ed4585dc18</sha1></version>
     </other-versions>
 </entry>
