@@ -14,5 +14,7 @@
     <url>http://sydney.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
     <other-versions>
         <version><name>2.4.9</name><sha1>20f3d9208193d00d50185b942f4ba8416a08f3fa</sha1></version>
+        <version><name>2.2.27</name><sha1>0fa4908724fbc8c7f9c7a19a182291a14de51da4</sha1></version>
+        <version><name>2.0.65</name><sha1>8385d43ed606bd1b980b6c06d11cdcb1f95c12d7</sha1></version>
     </other-versions>
 </entry>
