@@ -1,6 +1,6 @@
 <entry>
-    <version>2.2.3</version>
-    <sha1>86c68facbd33951aeccd58ee826b1ccc8eab3849</sha1>
+    <version>2.3.0</version>
+    <sha1>5d58dc57f64a4089d1a2846901c67216bcffca1c</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Play_Java.tgz</url>
     <url>http://london.kapeli.com/feeds/Play_Java.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Play_Java.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Play_Java.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Play_Java.tgz</url>
     <other-versions>
+        <version><name>2.3.0</name><sha1>5d58dc57f64a4089d1a2846901c67216bcffca1c</sha1></version>
         <version><name>2.2.3</name><sha1>86c68facbd33951aeccd58ee826b1ccc8eab3849</sha1></version>
         <version><name>2.2.2</name><sha1>197878676c056f80aef22327b905fbb8e7bc95eb</sha1></version>
         <version><name>2.2.1</name><sha1>b0f589d6c20a43d0abc65d9d5300d40aa76b5d6d</sha1></version>
