@@ -1,5 +1,5 @@
 <entry>
-    <version>0.9.5/4</version>
+    <version>0.10.0</version>
     <sha1>f837b0389412dfbde6ee42b7003e47be5eeb5bea</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Polymer.dart.tgz</url>
     <url>http://london.kapeli.com/feeds/Polymer.dart.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Polymer.dart.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Polymer.dart.tgz</url>
     <other-versions>
+        <version><name>0.10.0</name><sha1>f837b0389412dfbde6ee42b7003e47be5eeb5bea</sha1></version>
         <version><name>0.9.5</name><sha1>f837b0389412dfbde6ee42b7003e47be5eeb5bea</sha1></version>
     </other-versions>
 </entry>
