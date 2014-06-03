@@ -1,6 +1,6 @@
 <entry>
-    <version>R2014a</version>
-    <sha1>b0dac2d59d8ac75a6496e6fcbfa26238feb32246</sha1>
+    <version>R2014a/2</version>
+    <sha1>333a4adaa4204989115bd176a32cd0b4cb1b2e78</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/MATLAB.tgz</url>
     <url>http://london.kapeli.com/feeds/MATLAB.tgz</url>
     <url>http://dallas.kapeli.com/feeds/MATLAB.tgz</url>
@@ -13,6 +13,6 @@
     <url>http://london3.kapeli.com/feeds/MATLAB.tgz</url>
     <url>http://sydney.kapeli.com/feeds/MATLAB.tgz</url>
     <other-versions>
-        <version><name>R2014a</name><sha1>b0dac2d59d8ac75a6496e6fcbfa26238feb32246</sha1></version>
+        <version><name>R2014a</name><sha1>333a4adaa4204989115bd176a32cd0b4cb1b2e78</sha1></version>
     </other-versions>
 </entry>
