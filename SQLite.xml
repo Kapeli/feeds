@@ -1,6 +1,6 @@
 <entry>
-    <version>3.8.4.3</version>
-    <sha1>d15e55e39ee1f4678df3b9ce1650cc8dea16f11d</sha1>
+    <version>3.8.5</version>
+    <sha1>e13c2723b43c98b9f6f310150dd4b0d4e8e9bd94</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://london.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://dallas.kapeli.com/feeds/SQLite.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://sydney.kapeli.com/feeds/SQLite.tgz</url>
     <other-versions>
+        <version><name>3.8.5</name><sha1>e13c2723b43c98b9f6f310150dd4b0d4e8e9bd94</sha1></version>
         <version><name>3.8.4.3</name><sha1>d15e55e39ee1f4678df3b9ce1650cc8dea16f11d</sha1></version>
         <version><name>3.8.4.2</name><sha1>864c1956e1b6e2d9ef59cc790eaa0235cf3c3563</sha1></version>
         <version><name>3.8.4</name><sha1>5288f3ab963a4de5906211384df40fd775603211</sha1></version>
