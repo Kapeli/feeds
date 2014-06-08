@@ -1,6 +1,6 @@
 <entry>
-    <version>3.4</version>
-    <sha1>b4b0ba446f09bf66897bbf598d75d3c81d092c66</sha1>
+    <version>3.5</version>
+    <sha1>5e070faa90fa10e77be2a5ee9f27b4ac34129018</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/PhoneGap.tgz</url>
     <url>http://london.kapeli.com/feeds/PhoneGap.tgz</url>
     <url>http://dallas.kapeli.com/feeds/PhoneGap.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/PhoneGap.tgz</url>
     <url>http://sydney.kapeli.com/feeds/PhoneGap.tgz</url>
     <other-versions>
+        <version><name>3.5</name><sha1>5e070faa90fa10e77be2a5ee9f27b4ac34129018</sha1></version>
         <version><name>3.4</name><sha1>b4b0ba446f09bf66897bbf598d75d3c81d092c66</sha1></version>
         <version><name>3.3</name><sha1>b4b0ba446f09bf66897bbf598d75d3c81d092c66</sha1></version>
         <version><name>3.2</name><sha1>9db52d780e7f74ba73037f8ab97a4a9cf9849089</sha1></version>
