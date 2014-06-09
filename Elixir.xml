@@ -1,6 +1,6 @@
 <entry>
-    <version>0.13.3</version>
-    <sha1>96ae8e6cffad274e637de069cdff20dbd5aa0288</sha1>
+    <version>0.14.0</version>
+    <sha1>f4bb90c30f165c043480d4cdad31560c7ccc7c72</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Elixir.tgz</url>
     <url>http://london.kapeli.com/feeds/Elixir.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Elixir.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Elixir.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Elixir.tgz</url>
     <other-versions>
+        <version><name>0.14.0</name><sha1>f4bb90c30f165c043480d4cdad31560c7ccc7c72</sha1></version>
         <version><name>0.13.3</name><sha1>96ae8e6cffad274e637de069cdff20dbd5aa0288</sha1></version>
         <version><name>0.13.2</name><sha1>d85eece38fe63497e2c94816de3d10dc75159c5c</sha1></version>
         <version><name>0.13.1</name><sha1>23bef19712e314e66f510fcc39457b58d4cc09ff</sha1></version>
