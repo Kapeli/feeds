@@ -1,6 +1,6 @@
 <entry>
-    <version>3.6.1</version>
-    <sha1>22c8978c75530c3a717742762e3e7ff5b9cc1a65</sha1>
+    <version>3.6.2</version>
+    <sha1>b307c92a2088d37c4da2d1af8a8bd6a6105c85a5</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Puppet.tgz</url>
     <url>http://london.kapeli.com/feeds/Puppet.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Puppet.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Puppet.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Puppet.tgz</url>
     <other-versions>
+        <version><name>3.6.2</name><sha1>b307c92a2088d37c4da2d1af8a8bd6a6105c85a5</sha1></version>
         <version><name>3.6.1</name><sha1>22c8978c75530c3a717742762e3e7ff5b9cc1a65</sha1></version>
         <version><name>3.6.0</name><sha1>bb858d83e03a2c220d36c92d5e6cc45f836c4d11</sha1></version>
         <version><name>3.5.1</name><sha1>44278f76635e39605d17aae3cb56475b02d7d42b</sha1></version>
