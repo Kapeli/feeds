@@ -1,6 +1,6 @@
 <entry>
     <version>2.3.3</version>
-    <sha1>7a0d3e8a1f474c84c3d9ea7f4a3c7f1505a1e37b</sha1>
+    <sha1>f02355d44b957a2e5e8a24ff4f445e5ff051b1cc</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Groovy.tgz</url>
     <url>http://london.kapeli.com/feeds/Groovy.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Groovy.tgz</url>
@@ -13,7 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Groovy.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Groovy.tgz</url>
     <other-versions>
-        <version><name>2.3.3</name><sha1>7a0d3e8a1f474c84c3d9ea7f4a3c7f1505a1e37b</sha1></version>
+        <version><name>2.3.3</name><sha1>f02355d44b957a2e5e8a24ff4f445e5ff051b1cc</sha1></version>
         <version><name>2.3.2</name><sha1>62f65d388568169ecc76d5935e751e3069e05a3b</sha1></version>
         <version><name>2.3.1</name><sha1>67db7f288278ac935504b36e25cc9fb82fd0c431</sha1></version>
         <version><name>2.3.0</name><sha1>a44e3b831cf480919c106ce204071ce85dc40a8e</sha1></version>
