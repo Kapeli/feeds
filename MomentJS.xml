@@ -1,6 +1,6 @@
 <entry>
-    <version>2.6.0/2</version>
-    <sha1>c29d586ced50245a5d13a231bffa81668f56bcf8</sha1>
+    <version>2.7.0</version>
+    <sha1>fac6978c83b2250496b72bac04a5db77e24a90f4</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/MomentJS.tgz</url>
     <url>http://london.kapeli.com/feeds/MomentJS.tgz</url>
     <url>http://dallas.kapeli.com/feeds/MomentJS.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/MomentJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/MomentJS.tgz</url>
     <other-versions>
+        <version><name>2.7.0</name><sha1>fac6978c83b2250496b72bac04a5db77e24a90f4</sha1></version>
         <version><name>2.6.0</name><sha1>c29d586ced50245a5d13a231bffa81668f56bcf8</sha1></version>
         <version><name>2.5.1</name><sha1>67ab7d73004edc654ffba14329cf4c9f15b9a748</sha1></version>
     </other-versions>
