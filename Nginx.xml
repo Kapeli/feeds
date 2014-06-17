@@ -1,6 +1,6 @@
 <entry>
-    <version>1.7.1</version>
-    <sha1>5c6bcd48e7dee3a9dcf2793a1113fab351a4c6b4</sha1>
+    <version>1.7.2</version>
+    <sha1>c13121ec17d1aab6acd2ed922292442d7701d3fd</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Nginx.tgz</url>
     <url>http://london.kapeli.com/feeds/Nginx.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Nginx.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Nginx.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Nginx.tgz</url>
     <other-versions>
+        <version><name>1.7.2</name><sha1>c13121ec17d1aab6acd2ed922292442d7701d3fd</sha1></version>
         <version><name>1.7.1</name><sha1>5c6bcd48e7dee3a9dcf2793a1113fab351a4c6b4</sha1></version>
         <version><name>1.7.0</name><sha1>fafd698bff45264cebeb767b49f38f651e86019f</sha1></version>
         <version><name>1.5.13</name><sha1>aa6fb07dae5f38424c77ea82df076c3ee6750ffc</sha1></version>
