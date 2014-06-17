@@ -1,6 +1,6 @@
 <entry>
-    <version>1.2.17</version>
-    <sha1>9fc1f3d556d95102dae5ced48d83293bab5ba72d</sha1>
+    <version>1.2.18</version>
+    <sha1>386894d3f3f32505d112aa4bb86a7fe654d1ec46</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/AngularJS.tgz</url>
     <url>http://london.kapeli.com/feeds/AngularJS.tgz</url>
     <url>http://dallas.kapeli.com/feeds/AngularJS.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/AngularJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/AngularJS.tgz</url>
     <other-versions>
+        <version><name>1.2.18</name><sha1>386894d3f3f32505d112aa4bb86a7fe654d1ec46</sha1></version>
         <version><name>1.2.17</name><sha1>9fc1f3d556d95102dae5ced48d83293bab5ba72d</sha1></version>
         <version><name>1.2.16</name><sha1>0ae3acf6c1bfa1608392005a9ff238f33ec51c1d</sha1></version>
         <version><name>1.2.15</name><sha1>19d5d1892e179b3b9133255d380268ebbaaa0080</sha1></version>
