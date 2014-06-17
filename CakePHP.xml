@@ -1,6 +1,6 @@
 <entry>
-    <version>2.5.1</version>
-    <sha1>32882116c57a418ba34e40b2530be35382f58872</sha1>
+    <version>2.5.2</version>
+    <sha1>b523a358b696d5333fedc11d1f65dcb4b418173a</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/CakePHP.tgz</url>
     <url>http://london.kapeli.com/feeds/CakePHP.tgz</url>
     <url>http://dallas.kapeli.com/feeds/CakePHP.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/CakePHP.tgz</url>
     <url>http://sydney.kapeli.com/feeds/CakePHP.tgz</url>
     <other-versions>
+        <version><name>2.5.2</name><sha1>b523a358b696d5333fedc11d1f65dcb4b418173a</sha1></version>
         <version><name>2.5.1</name><sha1>32882116c57a418ba34e40b2530be35382f58872</sha1></version>
         <version><name>2.5.0</name><sha1>f78cfc1947285dbc9d71394cf0e37da5db41b05b</sha1></version>
         <version><name>2.4.10</name><sha1>6716fe885d278df1ccab549b25d9b8e1f28b9c95</sha1></version>
