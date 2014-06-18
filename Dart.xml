@@ -1,6 +1,6 @@
 <entry>
-    <version>1.4.2</version>
-    <sha1>6ff28394f8f0db416b5daccad72ff73faef6e8fe</sha1>
+    <version>1.4.3</version>
+    <sha1>432c1fe6dfd2d80e0832ebff3f63eb91b32253ef</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Dart.tgz</url>
     <url>http://london.kapeli.com/feeds/Dart.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Dart.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Dart.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Dart.tgz</url>
     <other-versions>
+        <version><name>1.4.3</name><sha1>432c1fe6dfd2d80e0832ebff3f63eb91b32253ef</sha1></version>
         <version><name>1.4.2</name><sha1>6ff28394f8f0db416b5daccad72ff73faef6e8fe</sha1></version>
         <version><name>1.4.0</name><sha1>c9b97a662ae87ad28ea89abaa2eb1b96ea7b6303</sha1></version>
     </other-versions>
