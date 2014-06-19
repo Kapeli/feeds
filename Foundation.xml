@@ -1,6 +1,6 @@
 <entry>
-    <version>5.2.3</version>
-    <sha1>8d86e99f19e6c74b1b0c7007d75685e7bbd51fe2</sha1>
+    <version>5.3.0</version>
+    <sha1>c505617fbb1bb47548b14e1a1293a35deefdb699</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/Foundation.tgz</url>
     <url>http://london.kapeli.com/feeds/Foundation.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Foundation.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Foundation.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Foundation.tgz</url>
     <other-versions>
+        <version><name>5.3.0</name><sha1>c505617fbb1bb47548b14e1a1293a35deefdb699</sha1></version>
         <version><name>5.2.3</name><sha1>8d86e99f19e6c74b1b0c7007d75685e7bbd51fe2</sha1></version>
         <version><name>5.2.2</name><sha1>8d86e99f19e6c74b1b0c7007d75685e7bbd51fe2</sha1></version>
         <version><name>5.1.1</name><sha1>13b5751a95ba22eb348196c6cf574d11ed1bf1ac</sha1></version>
