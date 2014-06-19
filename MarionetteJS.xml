@@ -1,6 +1,6 @@
 <entry>
-    <version>1.8</version>
-    <sha1>15afaa0aa6342798f59d681a7623c150ee784449</sha1>
+    <version>2.0</version>
+    <sha1>3c11057ea96bc91a5906bc0037cd505d126f5c89</sha1>
     <url>http://sanfrancisco.kapeli.com/feeds/MarionetteJS.tgz</url>
     <url>http://london.kapeli.com/feeds/MarionetteJS.tgz</url>
     <url>http://dallas.kapeli.com/feeds/MarionetteJS.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/MarionetteJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/MarionetteJS.tgz</url>
     <other-versions>
+        <version><name>2.0</name><sha1>3c11057ea96bc91a5906bc0037cd505d126f5c89</sha1></version>
         <version><name>1.8</name><sha1>15afaa0aa6342798f59d681a7623c150ee784449</sha1></version>
         <version><name>1.7</name><sha1>1bc9a2dcbef7c49b9354565b1b9d6b6044cf37e0</sha1></version>
         <version><name>1.6.4</name><sha1>4bef88904e970b5e8348777bbb8484576ef139b3</sha1></version>
