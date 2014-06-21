@@ -1,6 +1,6 @@
 <entry>
     <version>8/2</version>
-    <sha1>9cb35caaf85a640aa42805e7ad6db21c1e0dc15b</sha1>
+    <sha1_unused>9cb35caaf85a640aa42805e7ad6db21c1e0dc15b</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/JavaFX.tgz</url>
     <url>http://london.kapeli.com/feeds/JavaFX.tgz</url>
     <url>http://dallas.kapeli.com/feeds/JavaFX.tgz</url>
@@ -13,7 +13,7 @@
     <url>http://london3.kapeli.com/feeds/JavaFX.tgz</url>
     <url>http://sydney.kapeli.com/feeds/JavaFX.tgz</url>
     <other-versions>
-        <version><name>8</name><sha1>9cb35caaf85a640aa42805e7ad6db21c1e0dc15b</sha1></version>
-        <version><name>2.2</name><sha1>36eb6aad2b82c753f7faf6ec45508e981c2651fc</sha1></version>
+        <version><name>8</name><sha1_unused>9cb35caaf85a640aa42805e7ad6db21c1e0dc15b</sha1_unused></version>
+        <version><name>2.2</name><sha1_unused>36eb6aad2b82c753f7faf6ec45508e981c2651fc</sha1_unused></version>
     </other-versions>
 </entry>

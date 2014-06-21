@@ -1,6 +1,6 @@
 <entry>
     <version>9.3.4</version>
-    <sha1>7accbc0e49e408a77037b575b81738a62cd5b1e9</sha1>
+    <sha1_unused>7accbc0e49e408a77037b575b81738a62cd5b1e9</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/PostgreSQL.tgz</url>
     <url>http://london.kapeli.com/feeds/PostgreSQL.tgz</url>
     <url>http://dallas.kapeli.com/feeds/PostgreSQL.tgz</url>
@@ -13,12 +13,12 @@
     <url>http://london3.kapeli.com/feeds/PostgreSQL.tgz</url>
     <url>http://sydney.kapeli.com/feeds/PostgreSQL.tgz</url>
     <other-versions>
-        <version><name>9.3.4</name><sha1>7accbc0e49e408a77037b575b81738a62cd5b1e9</sha1></version>
-        <version><name>9.3.3</name><sha1>cec4439db1f1b24ac9d12bd80079bd2be1606c97</sha1></version>
-        <version><name>9.3.2</name><sha1>1deb99c70db371310d1b413e1cac70514d0a3c2e</sha1></version>
-        <version><name>9.3.1</name><sha1>3dc89fdd8338776ab970bfb85176e425fbc38246</sha1></version>
-        <version><name>9.3.0</name><sha1>20fd198f6c72287a9ca978041858f0cf6212cf27</sha1></version>
-        <version><name>9.2.4</name><sha1>6e6c5dc8e64ffe7f84b4728ed4c06bef6abccc79</sha1></version>
-        <version><name>9.2.2</name><sha1>1be8ed4db336f4bb241fdb83376f22906a9ebb9d</sha1></version>
+        <version><name>9.3.4</name><sha1_unused>7accbc0e49e408a77037b575b81738a62cd5b1e9</sha1_unused></version>
+        <version><name>9.3.3</name><sha1_unused>cec4439db1f1b24ac9d12bd80079bd2be1606c97</sha1_unused></version>
+        <version><name>9.3.2</name><sha1_unused>1deb99c70db371310d1b413e1cac70514d0a3c2e</sha1_unused></version>
+        <version><name>9.3.1</name><sha1_unused>3dc89fdd8338776ab970bfb85176e425fbc38246</sha1_unused></version>
+        <version><name>9.3.0</name><sha1_unused>20fd198f6c72287a9ca978041858f0cf6212cf27</sha1_unused></version>
+        <version><name>9.2.4</name><sha1_unused>6e6c5dc8e64ffe7f84b4728ed4c06bef6abccc79</sha1_unused></version>
+        <version><name>9.2.2</name><sha1_unused>1be8ed4db336f4bb241fdb83376f22906a9ebb9d</sha1_unused></version>
     </other-versions>
 </entry>

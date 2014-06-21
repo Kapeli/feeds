@@ -1,6 +1,6 @@
 <entry>
     <version>1.2.18</version>
-    <sha1>386894d3f3f32505d112aa4bb86a7fe654d1ec46</sha1>
+    <sha1_unused>386894d3f3f32505d112aa4bb86a7fe654d1ec46</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/AngularJS.tgz</url>
     <url>http://london.kapeli.com/feeds/AngularJS.tgz</url>
     <url>http://dallas.kapeli.com/feeds/AngularJS.tgz</url>
@@ -13,26 +13,26 @@
     <url>http://london3.kapeli.com/feeds/AngularJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/AngularJS.tgz</url>
     <other-versions>
-        <version><name>1.2.18</name><sha1>386894d3f3f32505d112aa4bb86a7fe654d1ec46</sha1></version>
-        <version><name>1.2.17</name><sha1>9fc1f3d556d95102dae5ced48d83293bab5ba72d</sha1></version>
-        <version><name>1.2.16</name><sha1>0ae3acf6c1bfa1608392005a9ff238f33ec51c1d</sha1></version>
-        <version><name>1.2.15</name><sha1>19d5d1892e179b3b9133255d380268ebbaaa0080</sha1></version>
-        <version><name>1.2.14</name><sha1>10f4c117320a64f19fbc3885554067eb906d6ee1</sha1></version>
-        <version><name>1.2.13</name><sha1>4d600963149585ce1ee6bcd4a4e8d67e685b3149</sha1></version>
-        <version><name>1.2.12</name><sha1>6bd292fd922a50efa49b4c6c4d3e2ad7922ad24d</sha1></version>
-        <version><name>1.2.11</name><sha1>f352df7d1a4169f9a19385d5e3bfea715bf5b100</sha1></version>
-        <version><name>1.2.10</name><sha1>fa26dae828ec3e46a9f6e49a99b0839e510f6a26</sha1></version>
-        <version><name>1.2.9</name><sha1>428b52683778a016ad32248b91d864258bf10308</sha1></version>
-        <version><name>1.2.8</name><sha1>714ffc308b25e723835b4ff6ac39e9e8cf383721</sha1></version>
-        <version><name>1.2.6</name><sha1>80cb4ac6dc6ab19696edbd977072007f4dc2d5bd</sha1></version>
-        <version><name>1.2.5</name><sha1>99f744205227f4a452b362edfe3716c14b6fbf85</sha1></version>
-        <version><name>1.2.4</name><sha1>06dda418e267e162b01a40805738e2fe93796c16</sha1></version>
-        <version><name>1.2.3</name><sha1>502123540ed2426e5f547c1cdbfa739636e14d64</sha1></version>
-        <version><name>1.2.2</name><sha1>b64b55ef68dc7048c6329527d98588626e336608</sha1></version>
-        <version><name>1.2.0</name><sha1>a25835a85f382968e7ea6f9c2dbcaa10390a38e6</sha1></version>
-        <version><name>1.0.8</name><sha1>cf8570e9b52c98d69dc8477c965485330a834b78</sha1></version>
-        <version><name>1.0.7</name><sha1>4408e3b67872f9f0a6b32d662734e0754058b075</sha1></version>
-        <version><name>1.0.6</name><sha1>660212f64ba77e942998af961f7f4afc7f2d8ab4</sha1></version>
-        <version><name>1.0.5</name><sha1>36562da7dcf5ad7dba221346cb57d771169af246</sha1></version>
+        <version><name>1.2.18</name><sha1_unused>386894d3f3f32505d112aa4bb86a7fe654d1ec46</sha1_unused></version>
+        <version><name>1.2.17</name><sha1_unused>9fc1f3d556d95102dae5ced48d83293bab5ba72d</sha1_unused></version>
+        <version><name>1.2.16</name><sha1_unused>0ae3acf6c1bfa1608392005a9ff238f33ec51c1d</sha1_unused></version>
+        <version><name>1.2.15</name><sha1_unused>19d5d1892e179b3b9133255d380268ebbaaa0080</sha1_unused></version>
+        <version><name>1.2.14</name><sha1_unused>10f4c117320a64f19fbc3885554067eb906d6ee1</sha1_unused></version>
+        <version><name>1.2.13</name><sha1_unused>4d600963149585ce1ee6bcd4a4e8d67e685b3149</sha1_unused></version>
+        <version><name>1.2.12</name><sha1_unused>6bd292fd922a50efa49b4c6c4d3e2ad7922ad24d</sha1_unused></version>
+        <version><name>1.2.11</name><sha1_unused>f352df7d1a4169f9a19385d5e3bfea715bf5b100</sha1_unused></version>
+        <version><name>1.2.10</name><sha1_unused>fa26dae828ec3e46a9f6e49a99b0839e510f6a26</sha1_unused></version>
+        <version><name>1.2.9</name><sha1_unused>428b52683778a016ad32248b91d864258bf10308</sha1_unused></version>
+        <version><name>1.2.8</name><sha1_unused>714ffc308b25e723835b4ff6ac39e9e8cf383721</sha1_unused></version>
+        <version><name>1.2.6</name><sha1_unused>80cb4ac6dc6ab19696edbd977072007f4dc2d5bd</sha1_unused></version>
+        <version><name>1.2.5</name><sha1_unused>99f744205227f4a452b362edfe3716c14b6fbf85</sha1_unused></version>
+        <version><name>1.2.4</name><sha1_unused>06dda418e267e162b01a40805738e2fe93796c16</sha1_unused></version>
+        <version><name>1.2.3</name><sha1_unused>502123540ed2426e5f547c1cdbfa739636e14d64</sha1_unused></version>
+        <version><name>1.2.2</name><sha1_unused>b64b55ef68dc7048c6329527d98588626e336608</sha1_unused></version>
+        <version><name>1.2.0</name><sha1_unused>a25835a85f382968e7ea6f9c2dbcaa10390a38e6</sha1_unused></version>
+        <version><name>1.0.8</name><sha1_unused>cf8570e9b52c98d69dc8477c965485330a834b78</sha1_unused></version>
+        <version><name>1.0.7</name><sha1_unused>4408e3b67872f9f0a6b32d662734e0754058b075</sha1_unused></version>
+        <version><name>1.0.6</name><sha1_unused>660212f64ba77e942998af961f7f4afc7f2d8ab4</sha1_unused></version>
+        <version><name>1.0.5</name><sha1_unused>36562da7dcf5ad7dba221346cb57d771169af246</sha1_unused></version>
     </other-versions>
 </entry>

@@ -1,6 +1,6 @@
 <entry>
     <version>3.17.2</version>
-    <sha1>ffc13116067f95de493586eceddd2d13505a8358</sha1>
+    <sha1_unused>ffc13116067f95de493586eceddd2d13505a8358</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/YUI.tgz</url>
     <url>http://london.kapeli.com/feeds/YUI.tgz</url>
     <url>http://dallas.kapeli.com/feeds/YUI.tgz</url>
@@ -13,19 +13,19 @@
     <url>http://london3.kapeli.com/feeds/YUI.tgz</url>
     <url>http://sydney.kapeli.com/feeds/YUI.tgz</url>
     <other-versions>
-        <version><name>3.17.2</name><sha1>ffc13116067f95de493586eceddd2d13505a8358</sha1></version>
-        <version><name>3.17.1</name><sha1>837da6837577e34f3b4744c26e1d058605e98fb6</sha1></version>
-        <version><name>3.16.0</name><sha1>252a4c585b9cad82b5caf53eba705e0521fcb3e3</sha1></version>
-        <version><name>3.15.0</name><sha1>37f4d08b687659eb80273038b80c9e7c5a5584dd</sha1></version>
-        <version><name>3.14.1</name><sha1>6cb8ff7d33fd013b90bc650f90a933407d943225</sha1></version>
-        <version><name>3.14.0</name><sha1>87e1a8c2c00a0c76d82f745a54d5b68351efa1f3</sha1></version>
-        <version><name>3.13.0</name><sha1>ddba383376b89cd91655aca34e99f5e5dcf11a7b</sha1></version>
-        <version><name>3.12.0</name><sha1>591dcc01de39d25117f9bec61a8403d9c214b760</sha1></version>
-        <version><name>3.11.0</name><sha1>fefa7afc5501b51811e1166ff799207e523f8b99</sha1></version>
-        <version><name>3.10.3</name><sha1>e4b55f6d168357a858082486eb231f4e11cb673e</sha1></version>
-        <version><name>3.10.1</name><sha1>a72bb10c127f97863d3f3b767c5c7e05d1454b4c</sha1></version>
-        <version><name>3.10.0</name><sha1>c70b278fe8bbeddf3e3677d792749e1a34422fca</sha1></version>
-        <version><name>3.9.0</name><sha1>3f44d787a7a9ab2f660a28617c3e19b8a1ceac65</sha1></version>
-        <version><name>3.8.1</name><sha1>39b0637e60b9a548271c9a6df036098b98fb9661</sha1></version>
+        <version><name>3.17.2</name><sha1_unused>ffc13116067f95de493586eceddd2d13505a8358</sha1_unused></version>
+        <version><name>3.17.1</name><sha1_unused>837da6837577e34f3b4744c26e1d058605e98fb6</sha1_unused></version>
+        <version><name>3.16.0</name><sha1_unused>252a4c585b9cad82b5caf53eba705e0521fcb3e3</sha1_unused></version>
+        <version><name>3.15.0</name><sha1_unused>37f4d08b687659eb80273038b80c9e7c5a5584dd</sha1_unused></version>
+        <version><name>3.14.1</name><sha1_unused>6cb8ff7d33fd013b90bc650f90a933407d943225</sha1_unused></version>
+        <version><name>3.14.0</name><sha1_unused>87e1a8c2c00a0c76d82f745a54d5b68351efa1f3</sha1_unused></version>
+        <version><name>3.13.0</name><sha1_unused>ddba383376b89cd91655aca34e99f5e5dcf11a7b</sha1_unused></version>
+        <version><name>3.12.0</name><sha1_unused>591dcc01de39d25117f9bec61a8403d9c214b760</sha1_unused></version>
+        <version><name>3.11.0</name><sha1_unused>fefa7afc5501b51811e1166ff799207e523f8b99</sha1_unused></version>
+        <version><name>3.10.3</name><sha1_unused>e4b55f6d168357a858082486eb231f4e11cb673e</sha1_unused></version>
+        <version><name>3.10.1</name><sha1_unused>a72bb10c127f97863d3f3b767c5c7e05d1454b4c</sha1_unused></version>
+        <version><name>3.10.0</name><sha1_unused>c70b278fe8bbeddf3e3677d792749e1a34422fca</sha1_unused></version>
+        <version><name>3.9.0</name><sha1_unused>3f44d787a7a9ab2f660a28617c3e19b8a1ceac65</sha1_unused></version>
+        <version><name>3.8.1</name><sha1_unused>39b0637e60b9a548271c9a6df036098b98fb9661</sha1_unused></version>
     </other-versions>
 </entry>

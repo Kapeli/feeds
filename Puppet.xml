@@ -1,6 +1,6 @@
 <entry>
     <version>3.6.2</version>
-    <sha1>b307c92a2088d37c4da2d1af8a8bd6a6105c85a5</sha1>
+    <sha1_unused>b307c92a2088d37c4da2d1af8a8bd6a6105c85a5</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Puppet.tgz</url>
     <url>http://london.kapeli.com/feeds/Puppet.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Puppet.tgz</url>
@@ -13,16 +13,16 @@
     <url>http://london3.kapeli.com/feeds/Puppet.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Puppet.tgz</url>
     <other-versions>
-        <version><name>3.6.2</name><sha1>b307c92a2088d37c4da2d1af8a8bd6a6105c85a5</sha1></version>
-        <version><name>3.6.1</name><sha1>22c8978c75530c3a717742762e3e7ff5b9cc1a65</sha1></version>
-        <version><name>3.6.0</name><sha1>bb858d83e03a2c220d36c92d5e6cc45f836c4d11</sha1></version>
-        <version><name>3.5.1</name><sha1>44278f76635e39605d17aae3cb56475b02d7d42b</sha1></version>
-        <version><name>3.5.0</name><sha1>d9edaf028082a4c2cdb247ebcb168d83d6b021ff</sha1></version>
-        <version><name>3.4.3</name><sha1>0fa3077d58aaf9801ff6e6298ff6325850cebc5e</sha1></version>
-        <version><name>3.4.2</name><sha1>b05f51e5831e55fcd0aabe4b42c64b80588d7ee9</sha1></version>
-        <version><name>3.4.1</name><sha1>c48fc37c93991629da8a69286364e64ee1924d0f</sha1></version>
-        <version><name>3.4.0</name><sha1>37db280194e76d3d56fda924e1ddbc8ac82187c3</sha1></version>
-        <version><name>3.3.2</name><sha1>7a35b286d17d02b5c967da637dc5af95c814a8f6</sha1></version>
-        <version><name>3.3.1</name><sha1>22136ad1679d81d8cf2d31e116ebc5b84fa77f21</sha1></version>
+        <version><name>3.6.2</name><sha1_unused>b307c92a2088d37c4da2d1af8a8bd6a6105c85a5</sha1_unused></version>
+        <version><name>3.6.1</name><sha1_unused>22c8978c75530c3a717742762e3e7ff5b9cc1a65</sha1_unused></version>
+        <version><name>3.6.0</name><sha1_unused>bb858d83e03a2c220d36c92d5e6cc45f836c4d11</sha1_unused></version>
+        <version><name>3.5.1</name><sha1_unused>44278f76635e39605d17aae3cb56475b02d7d42b</sha1_unused></version>
+        <version><name>3.5.0</name><sha1_unused>d9edaf028082a4c2cdb247ebcb168d83d6b021ff</sha1_unused></version>
+        <version><name>3.4.3</name><sha1_unused>0fa3077d58aaf9801ff6e6298ff6325850cebc5e</sha1_unused></version>
+        <version><name>3.4.2</name><sha1_unused>b05f51e5831e55fcd0aabe4b42c64b80588d7ee9</sha1_unused></version>
+        <version><name>3.4.1</name><sha1_unused>c48fc37c93991629da8a69286364e64ee1924d0f</sha1_unused></version>
+        <version><name>3.4.0</name><sha1_unused>37db280194e76d3d56fda924e1ddbc8ac82187c3</sha1_unused></version>
+        <version><name>3.3.2</name><sha1_unused>7a35b286d17d02b5c967da637dc5af95c814a8f6</sha1_unused></version>
+        <version><name>3.3.1</name><sha1_unused>22136ad1679d81d8cf2d31e116ebc5b84fa77f21</sha1_unused></version>
     </other-versions>
 </entry>

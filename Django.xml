@@ -1,6 +1,6 @@
 <entry>
     <version>1.6.5</version>
-    <sha1>e0d861ff7b627ace8ee73e6608197642d80dc5f4</sha1>
+    <sha1_unused>e0d861ff7b627ace8ee73e6608197642d80dc5f4</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Django.tgz</url>
     <url>http://london.kapeli.com/feeds/Django.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Django.tgz</url>
@@ -13,14 +13,14 @@
     <url>http://london3.kapeli.com/feeds/Django.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Django.tgz</url>
     <other-versions>
-        <version><name>1.6.5</name><sha1>e0d861ff7b627ace8ee73e6608197642d80dc5f4</sha1></version>
-        <version><name>1.6.4</name><sha1>ad5c6a5e6f1e29d50b5785e79952ee7a6946cdef</sha1></version>
-        <version><name>1.6.3</name><sha1>99454377275dd26aa5548f5d970fbbe1e95f3729</sha1></version>
-        <version><name>1.5.8</name><sha1>ab42548dff0e52e2c9ede7d47502d8e15705774c</sha1></version>
-        <version><name>1.5.7</name><sha1>93391a31c0946cee2c9781caebb84e3512c4a269</sha1></version>
-        <version><name>1.4.13</name><sha1>a721a76ef1fe77d9e3bbbcf011c5625f5068fa1d</sha1></version>
-        <version><name>1.4.12</name><sha1>00c54befdafc79ee095688cda7ad95bb6e781c7c</sha1></version>
-        <version><name>1.3.7</name><sha1>c1302c67741d47b85428b69417fee0163ebe1fec</sha1></version>
-        <version><name>1.2.7</name><sha1>138364c891d418c202ee9c8da99deec59161f19e</sha1></version>
+        <version><name>1.6.5</name><sha1_unused>e0d861ff7b627ace8ee73e6608197642d80dc5f4</sha1_unused></version>
+        <version><name>1.6.4</name><sha1_unused>ad5c6a5e6f1e29d50b5785e79952ee7a6946cdef</sha1_unused></version>
+        <version><name>1.6.3</name><sha1_unused>99454377275dd26aa5548f5d970fbbe1e95f3729</sha1_unused></version>
+        <version><name>1.5.8</name><sha1_unused>ab42548dff0e52e2c9ede7d47502d8e15705774c</sha1_unused></version>
+        <version><name>1.5.7</name><sha1_unused>93391a31c0946cee2c9781caebb84e3512c4a269</sha1_unused></version>
+        <version><name>1.4.13</name><sha1_unused>a721a76ef1fe77d9e3bbbcf011c5625f5068fa1d</sha1_unused></version>
+        <version><name>1.4.12</name><sha1_unused>00c54befdafc79ee095688cda7ad95bb6e781c7c</sha1_unused></version>
+        <version><name>1.3.7</name><sha1_unused>c1302c67741d47b85428b69417fee0163ebe1fec</sha1_unused></version>
+        <version><name>1.2.7</name><sha1_unused>138364c891d418c202ee9c8da99deec59161f19e</sha1_unused></version>
     </other-versions>
 </entry>

@@ -1,6 +1,6 @@
 <entry>
     <version>1.3</version>
-    <sha1>9b7966a64a6ed13aeb9cd8512db04dbd1106daae</sha1>
+    <sha1_unused>9b7966a64a6ed13aeb9cd8512db04dbd1106daae</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Jade.tgz</url>
     <url>http://london.kapeli.com/feeds/Jade.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Jade.tgz</url>
@@ -13,10 +13,10 @@
     <url>http://london3.kapeli.com/feeds/Jade.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Jade.tgz</url>
     <other-versions>
-        <version><name>1.3</name><sha1>9b7966a64a6ed13aeb9cd8512db04dbd1106daae</sha1></version>
-        <version><name>1.2</name><sha1>3fc9c73031978bd9e79ae889a3cab9e480f72394</sha1></version>
-        <version><name>1.1</name><sha1>f9df8f9a1c1d2ab8213122592a924b68216604ab</sha1></version>
-        <version><name>1.0</name><sha1>1260dd9562f4d8a15f8864677ebb97f087c3d4f1</sha1></version>
-        <version><name>0.35</name><sha1>f23908e720f5c426920823e3e9eefbeda50a2c5c</sha1></version>
+        <version><name>1.3</name><sha1_unused>9b7966a64a6ed13aeb9cd8512db04dbd1106daae</sha1_unused></version>
+        <version><name>1.2</name><sha1_unused>3fc9c73031978bd9e79ae889a3cab9e480f72394</sha1_unused></version>
+        <version><name>1.1</name><sha1_unused>f9df8f9a1c1d2ab8213122592a924b68216604ab</sha1_unused></version>
+        <version><name>1.0</name><sha1_unused>1260dd9562f4d8a15f8864677ebb97f087c3d4f1</sha1_unused></version>
+        <version><name>0.35</name><sha1_unused>f23908e720f5c426920823e3e9eefbeda50a2c5c</sha1_unused></version>
     </other-versions>
 </entry>

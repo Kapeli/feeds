@@ -1,6 +1,6 @@
 <entry>
     <version>1.1.3</version>
-    <sha1>d3a63095e0a481ba54e0822a147a62c1b5336f20</sha1>
+    <sha1_unused>d3a63095e0a481ba54e0822a147a62c1b5336f20</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/ZeptoJS.tgz</url>
     <url>http://london.kapeli.com/feeds/ZeptoJS.tgz</url>
     <url>http://dallas.kapeli.com/feeds/ZeptoJS.tgz</url>
@@ -13,9 +13,9 @@
     <url>http://london3.kapeli.com/feeds/ZeptoJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/ZeptoJS.tgz</url>
     <other-versions>
-        <version><name>1.1.3</name><sha1>d3a63095e0a481ba54e0822a147a62c1b5336f20</sha1></version>
-        <version><name>1.1.2</name><sha1>11c4a883df822406cc29236a5685abf8e5fef30e</sha1></version>
-        <version><name>1.1.1</name><sha1>e2fd7716db0ca3e3bd8a061caf0610b5c35ec940</sha1></version>
-        <version><name>1.0.0</name><sha1>2490fa7179bd8dd1206b9f9f37ddeecb575e6b31</sha1></version>
+        <version><name>1.1.3</name><sha1_unused>d3a63095e0a481ba54e0822a147a62c1b5336f20</sha1_unused></version>
+        <version><name>1.1.2</name><sha1_unused>11c4a883df822406cc29236a5685abf8e5fef30e</sha1_unused></version>
+        <version><name>1.1.1</name><sha1_unused>e2fd7716db0ca3e3bd8a061caf0610b5c35ec940</sha1_unused></version>
+        <version><name>1.0.0</name><sha1_unused>2490fa7179bd8dd1206b9f9f37ddeecb575e6b31</sha1_unused></version>
     </other-versions>
 </entry>

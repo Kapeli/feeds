@@ -1,6 +1,6 @@
 <entry>
     <version>1.5.1</version>
-    <sha1>9da41053243491f05b629ebe626e45a91b813286</sha1>
+    <sha1_unused>9da41053243491f05b629ebe626e45a91b813286</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/EmberJS.tgz</url>
     <url>http://london.kapeli.com/feeds/EmberJS.tgz</url>
     <url>http://dallas.kapeli.com/feeds/EmberJS.tgz</url>
@@ -13,14 +13,14 @@
     <url>http://london3.kapeli.com/feeds/EmberJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/EmberJS.tgz</url>
     <other-versions>
-        <version><name>1.5.1</name><sha1>9da41053243491f05b629ebe626e45a91b813286</sha1></version>
-        <version><name>1.4.0</name><sha1>1872b41e36aaf2ff9d769c666c772d406420f341</sha1></version>
-        <version><name>1.3.2</name><sha1>6b738b3b48defb1a821ea8a671c15e33f988dbcc</sha1></version>
-        <version><name>1.3.1</name><sha1>585daa911bdc16289ee12842bd7f26fdd7485c69</sha1></version>
-        <version><name>1.3.0</name><sha1>885c16d9c574a7e6f45816ffc7842957d0d75c61</sha1></version>
-        <version><name>1.2.0</name><sha1>840a06b137befe8841e45ce0a2cfdd0d4894b0b2</sha1></version>
-        <version><name>1.1.2</name><sha1>06d4c13718e35e5256ac9a72a3ef7e573f62874d</sha1></version>
-        <version><name>1.1.0</name><sha1>762ff7f059b7422b4141b43fc579006db2656839</sha1></version>
-        <version><name>1.0.0</name><sha1>b6bcda6e00b4f520440de12942f1b53410cefaa2</sha1></version>
+        <version><name>1.5.1</name><sha1_unused>9da41053243491f05b629ebe626e45a91b813286</sha1_unused></version>
+        <version><name>1.4.0</name><sha1_unused>1872b41e36aaf2ff9d769c666c772d406420f341</sha1_unused></version>
+        <version><name>1.3.2</name><sha1_unused>6b738b3b48defb1a821ea8a671c15e33f988dbcc</sha1_unused></version>
+        <version><name>1.3.1</name><sha1_unused>585daa911bdc16289ee12842bd7f26fdd7485c69</sha1_unused></version>
+        <version><name>1.3.0</name><sha1_unused>885c16d9c574a7e6f45816ffc7842957d0d75c61</sha1_unused></version>
+        <version><name>1.2.0</name><sha1_unused>840a06b137befe8841e45ce0a2cfdd0d4894b0b2</sha1_unused></version>
+        <version><name>1.1.2</name><sha1_unused>06d4c13718e35e5256ac9a72a3ef7e573f62874d</sha1_unused></version>
+        <version><name>1.1.0</name><sha1_unused>762ff7f059b7422b4141b43fc579006db2656839</sha1_unused></version>
+        <version><name>1.0.0</name><sha1_unused>b6bcda6e00b4f520440de12942f1b53410cefaa2</sha1_unused></version>
     </other-versions>
 </entry>

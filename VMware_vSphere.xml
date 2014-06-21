@@ -1,6 +1,6 @@
 <entry>
     <version>5.5</version>
-    <sha1>e85e958e5d36f28108e2e9e842354e23a831faa5</sha1>
+    <sha1_unused>e85e958e5d36f28108e2e9e842354e23a831faa5</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/VMware_vSphere.tgz</url>
     <url>http://london.kapeli.com/feeds/VMware_vSphere.tgz</url>
     <url>http://dallas.kapeli.com/feeds/VMware_vSphere.tgz</url>
@@ -13,8 +13,8 @@
     <url>http://london3.kapeli.com/feeds/VMware_vSphere.tgz</url>
     <url>http://sydney.kapeli.com/feeds/VMware_vSphere.tgz</url>
     <other-versions>
-        <version><name>5.5</name><sha1>e85e958e5d36f28108e2e9e842354e23a831faa5</sha1></version>
-        <version><name>5.1</name><sha1>d9b37be9b7df3986bc0dae8576a18c7a4bfe0185</sha1></version>
-        <version><name>5.0</name><sha1>2d34283088a6fdadd2013cf8fbb44192120d913c</sha1></version>
+        <version><name>5.5</name><sha1_unused>e85e958e5d36f28108e2e9e842354e23a831faa5</sha1_unused></version>
+        <version><name>5.1</name><sha1_unused>d9b37be9b7df3986bc0dae8576a18c7a4bfe0185</sha1_unused></version>
+        <version><name>5.0</name><sha1_unused>2d34283088a6fdadd2013cf8fbb44192120d913c</sha1_unused></version>
     </other-versions>
 </entry>

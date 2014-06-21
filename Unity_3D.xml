@@ -1,6 +1,6 @@
 <entry>
     <version>4.5.1</version>
-    <sha1>207a961d5cd016d8306bf9bb4dbce676fb29bad2</sha1>
+    <sha1_unused>207a961d5cd016d8306bf9bb4dbce676fb29bad2</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Unity_3D.tgz</url>
     <url>http://london.kapeli.com/feeds/Unity_3D.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Unity_3D.tgz</url>
@@ -13,11 +13,11 @@
     <url>http://london3.kapeli.com/feeds/Unity_3D.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Unity_3D.tgz</url>
     <other-versions>
-        <version><name>4.5.1</name><sha1>207a961d5cd016d8306bf9bb4dbce676fb29bad2</sha1></version>
-        <version><name>4.5.0</name><sha1>ad7bd75a728f3837d1f929d7ca713969224c3120</sha1></version>
-        <version><name>4.3.4</name><sha1>4c77ac882e440be958d9a41dfbed4c71e6a91295</sha1></version>
-        <version><name>4.2</name><sha1>fdc0bb46da183593305d0caa02d1bebe5a48bce4</sha1></version>
-        <version><name>4.1</name><sha1>b7843256857bb91dd9e6d6deb8751d7dda7cfc39</sha1></version>
-        <version><name>4.0</name><sha1>f5aae3d8d7c31a44f6e4a5fbea28cc45b0de7469</sha1></version>
+        <version><name>4.5.1</name><sha1_unused>207a961d5cd016d8306bf9bb4dbce676fb29bad2</sha1_unused></version>
+        <version><name>4.5.0</name><sha1_unused>ad7bd75a728f3837d1f929d7ca713969224c3120</sha1_unused></version>
+        <version><name>4.3.4</name><sha1_unused>4c77ac882e440be958d9a41dfbed4c71e6a91295</sha1_unused></version>
+        <version><name>4.2</name><sha1_unused>fdc0bb46da183593305d0caa02d1bebe5a48bce4</sha1_unused></version>
+        <version><name>4.1</name><sha1_unused>b7843256857bb91dd9e6d6deb8751d7dda7cfc39</sha1_unused></version>
+        <version><name>4.0</name><sha1_unused>f5aae3d8d7c31a44f6e4a5fbea28cc45b0de7469</sha1_unused></version>
     </other-versions>
 </entry>

@@ -1,6 +1,6 @@
 <entry>
     <version>3.1</version>
-    <sha1>80d70dc11155768f1940ca2ba09aaef149a3250b</sha1>
+    <sha1_unused>80d70dc11155768f1940ca2ba09aaef149a3250b</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Smarty.tgz</url>
     <url>http://london.kapeli.com/feeds/Smarty.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Smarty.tgz</url>
@@ -13,6 +13,6 @@
     <url>http://london3.kapeli.com/feeds/Smarty.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Smarty.tgz</url>
     <other-versions>
-        <version><name>3.1</name><sha1>80d70dc11155768f1940ca2ba09aaef149a3250b</sha1></version>
+        <version><name>3.1</name><sha1_unused>80d70dc11155768f1940ca2ba09aaef149a3250b</sha1_unused></version>
     </other-versions>
 </entry>

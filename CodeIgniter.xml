@@ -1,6 +1,6 @@
 <entry>
     <version>2.2.0</version>
-    <sha1>cf1f1ad07222369af58f9e2f2a0f650c45b7b72a</sha1>
+    <sha1_unused>cf1f1ad07222369af58f9e2f2a0f650c45b7b72a</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/CodeIgniter.tgz</url>
     <url>http://london.kapeli.com/feeds/CodeIgniter.tgz</url>
     <url>http://dallas.kapeli.com/feeds/CodeIgniter.tgz</url>
@@ -13,8 +13,8 @@
     <url>http://london3.kapeli.com/feeds/CodeIgniter.tgz</url>
     <url>http://sydney.kapeli.com/feeds/CodeIgniter.tgz</url>
     <other-versions>
-        <version><name>2.2.0</name><sha1>cf1f1ad07222369af58f9e2f2a0f650c45b7b72a</sha1></version>
-        <version><name>2.1.4</name><sha1>c0439a4618f9caae1222d7617eebb1570b09f363</sha1></version>
-        <version><name>2.1.3</name><sha1>a4ad0eb8d07915b48a7a91859dcaaeda152745b3</sha1></version>
+        <version><name>2.2.0</name><sha1_unused>cf1f1ad07222369af58f9e2f2a0f650c45b7b72a</sha1_unused></version>
+        <version><name>2.1.4</name><sha1_unused>c0439a4618f9caae1222d7617eebb1570b09f363</sha1_unused></version>
+        <version><name>2.1.3</name><sha1_unused>a4ad0eb8d07915b48a7a91859dcaaeda152745b3</sha1_unused></version>
     </other-versions>
 </entry>

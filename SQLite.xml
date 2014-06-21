@@ -1,6 +1,6 @@
 <entry>
     <version>3.8.5</version>
-    <sha1>e13c2723b43c98b9f6f310150dd4b0d4e8e9bd94</sha1>
+    <sha1_unused>e13c2723b43c98b9f6f310150dd4b0d4e8e9bd94</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://london.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://dallas.kapeli.com/feeds/SQLite.tgz</url>
@@ -13,16 +13,16 @@
     <url>http://london3.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://sydney.kapeli.com/feeds/SQLite.tgz</url>
     <other-versions>
-        <version><name>3.8.5</name><sha1>e13c2723b43c98b9f6f310150dd4b0d4e8e9bd94</sha1></version>
-        <version><name>3.8.4.3</name><sha1>d15e55e39ee1f4678df3b9ce1650cc8dea16f11d</sha1></version>
-        <version><name>3.8.4.2</name><sha1>864c1956e1b6e2d9ef59cc790eaa0235cf3c3563</sha1></version>
-        <version><name>3.8.4</name><sha1>5288f3ab963a4de5906211384df40fd775603211</sha1></version>
-        <version><name>3.8.3</name><sha1>65cf1927ee3ce628003230876cb4a0fa2f561a05</sha1></version>
-        <version><name>3.8.2</name><sha1>a00c8ba7f4e5aca25bdba4ae4ac7a43761cb6dd5</sha1></version>
-        <version><name>3.8.1</name><sha1>7ee7a6f93c00c80274166b94d848a6aefc816122</sha1></version>
-        <version><name>3.8.0</name><sha1>7a323897e04e18adaa1124792cfff5c792f61f87</sha1></version>
-        <version><name>3.7.17</name><sha1>02c24d6509ff01f6e9d167b873d0ed9d9dbec2d4</sha1></version>
-        <version><name>3.7.16</name><sha1>abd9a2afa98e7be69fa66f253db7093bed80e1ec</sha1></version>
-        <version><name>3.7.15</name><sha1>ca287448d1a62d400ed5e15c5118b561e59b3fc3</sha1></version>
+        <version><name>3.8.5</name><sha1_unused>e13c2723b43c98b9f6f310150dd4b0d4e8e9bd94</sha1_unused></version>
+        <version><name>3.8.4.3</name><sha1_unused>d15e55e39ee1f4678df3b9ce1650cc8dea16f11d</sha1_unused></version>
+        <version><name>3.8.4.2</name><sha1_unused>864c1956e1b6e2d9ef59cc790eaa0235cf3c3563</sha1_unused></version>
+        <version><name>3.8.4</name><sha1_unused>5288f3ab963a4de5906211384df40fd775603211</sha1_unused></version>
+        <version><name>3.8.3</name><sha1_unused>65cf1927ee3ce628003230876cb4a0fa2f561a05</sha1_unused></version>
+        <version><name>3.8.2</name><sha1_unused>a00c8ba7f4e5aca25bdba4ae4ac7a43761cb6dd5</sha1_unused></version>
+        <version><name>3.8.1</name><sha1_unused>7ee7a6f93c00c80274166b94d848a6aefc816122</sha1_unused></version>
+        <version><name>3.8.0</name><sha1_unused>7a323897e04e18adaa1124792cfff5c792f61f87</sha1_unused></version>
+        <version><name>3.7.17</name><sha1_unused>02c24d6509ff01f6e9d167b873d0ed9d9dbec2d4</sha1_unused></version>
+        <version><name>3.7.16</name><sha1_unused>abd9a2afa98e7be69fa66f253db7093bed80e1ec</sha1_unused></version>
+        <version><name>3.7.15</name><sha1_unused>ca287448d1a62d400ed5e15c5118b561e59b3fc3</sha1_unused></version>
     </other-versions>
 </entry>

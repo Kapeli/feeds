@@ -1,6 +1,6 @@
 <entry>
     <version>4.4</version>
-    <sha1>04f7ab38a9d31b06b359aa0f134282c5d4a576a0</sha1>
+    <sha1_unused>04f7ab38a9d31b06b359aa0f134282c5d4a576a0</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Express.tgz</url>
     <url>http://london.kapeli.com/feeds/Express.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Express.tgz</url>
@@ -13,12 +13,12 @@
     <url>http://london3.kapeli.com/feeds/Express.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Express.tgz</url>
     <other-versions>
-        <version><name>4.4</name><sha1>04f7ab38a9d31b06b359aa0f134282c5d4a576a0</sha1></version>
-        <version><name>4.3</name><sha1>01f4a2304ef3ed643c20f29fa2c3971496d434dd</sha1></version>
-        <version><name>4.2</name><sha1>57f37be64595df47c2da9b94894929a58393b486</sha1></version>
-        <version><name>4.1</name><sha1>cacfbd5ddd4307ebc489236781f0e444d11bd0f1</sha1></version>
-        <version><name>4.0</name><sha1>91f6611cb223ee9d27e9cca1f77d44bc851eadfd</sha1></version>
-        <version><name>3.5</name><sha1>b407f13679d2a3be36144bed23c9020bcd2d8fc5</sha1></version>
-        <version><name>3.4</name><sha1>ac681fa87613e10bac755709e2b9e28994426c47</sha1></version>
+        <version><name>4.4</name><sha1_unused>04f7ab38a9d31b06b359aa0f134282c5d4a576a0</sha1_unused></version>
+        <version><name>4.3</name><sha1_unused>01f4a2304ef3ed643c20f29fa2c3971496d434dd</sha1_unused></version>
+        <version><name>4.2</name><sha1_unused>57f37be64595df47c2da9b94894929a58393b486</sha1_unused></version>
+        <version><name>4.1</name><sha1_unused>cacfbd5ddd4307ebc489236781f0e444d11bd0f1</sha1_unused></version>
+        <version><name>4.0</name><sha1_unused>91f6611cb223ee9d27e9cca1f77d44bc851eadfd</sha1_unused></version>
+        <version><name>3.5</name><sha1_unused>b407f13679d2a3be36144bed23c9020bcd2d8fc5</sha1_unused></version>
+        <version><name>3.4</name><sha1_unused>ac681fa87613e10bac755709e2b9e28994426c47</sha1_unused></version>
     </other-versions>
 </entry>

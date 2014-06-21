@@ -1,6 +1,6 @@
 <entry>
     <version>1.2.1</version>
-    <sha1>bff5a8023c66974c76ea544049f3fc29ff0acdd8</sha1>
+    <sha1_unused>bff5a8023c66974c76ea544049f3fc29ff0acdd8</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/ElasticSearch.tgz</url>
     <url>http://london.kapeli.com/feeds/ElasticSearch.tgz</url>
     <url>http://dallas.kapeli.com/feeds/ElasticSearch.tgz</url>
@@ -13,9 +13,9 @@
     <url>http://london3.kapeli.com/feeds/ElasticSearch.tgz</url>
     <url>http://sydney.kapeli.com/feeds/ElasticSearch.tgz</url>
     <other-versions>
-        <version><name>1.2.1</name><sha1>bff5a8023c66974c76ea544049f3fc29ff0acdd8</sha1></version>
-        <version><name>1.2.0</name><sha1>0df4f6ff23c0a688a440a6e20cb9fdc7f9926478</sha1></version>
-        <version><name>1.1.2</name><sha1>42c0520350d13a77e3689ec9eaf7f6e5a0f3d6b7</sha1></version>
-        <version><name>1.1.1</name><sha1>884528c115826ec8a9678f332a314fa5cdc2d2c5</sha1></version>
+        <version><name>1.2.1</name><sha1_unused>bff5a8023c66974c76ea544049f3fc29ff0acdd8</sha1_unused></version>
+        <version><name>1.2.0</name><sha1_unused>0df4f6ff23c0a688a440a6e20cb9fdc7f9926478</sha1_unused></version>
+        <version><name>1.1.2</name><sha1_unused>42c0520350d13a77e3689ec9eaf7f6e5a0f3d6b7</sha1_unused></version>
+        <version><name>1.1.1</name><sha1_unused>884528c115826ec8a9678f332a314fa5cdc2d2c5</sha1_unused></version>
     </other-versions>
 </entry>

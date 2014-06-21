@@ -1,6 +1,6 @@
 <entry>
     <version>4.2</version>
-    <sha1>3b1089546eebb58d20b8d5c7d99841f08205b773</sha1>
+    <sha1_unused>3b1089546eebb58d20b8d5c7d99841f08205b773</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Laravel.tgz</url>
     <url>http://london.kapeli.com/feeds/Laravel.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Laravel.tgz</url>
@@ -13,7 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Laravel.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Laravel.tgz</url>
     <other-versions>
-        <version><name>4.2</name><sha1>3b1089546eebb58d20b8d5c7d99841f08205b773</sha1></version>
-        <version><name>4.1</name><sha1>3f398aeec255c06723117532ee7132fbf3023062</sha1></version>
+        <version><name>4.2</name><sha1_unused>3b1089546eebb58d20b8d5c7d99841f08205b773</sha1_unused></version>
+        <version><name>4.1</name><sha1_unused>3f398aeec255c06723117532ee7132fbf3023062</sha1_unused></version>
     </other-versions>
 </entry>

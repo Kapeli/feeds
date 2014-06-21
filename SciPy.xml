@@ -1,6 +1,6 @@
 <entry>
     <version>0.14.0</version>
-    <sha1>a356586a898cf1a0a6f6a554df15378392bb7145</sha1>
+    <sha1_unused>a356586a898cf1a0a6f6a554df15378392bb7145</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/SciPy.tgz</url>
     <url>http://london.kapeli.com/feeds/SciPy.tgz</url>
     <url>http://dallas.kapeli.com/feeds/SciPy.tgz</url>
@@ -13,7 +13,7 @@
     <url>http://london3.kapeli.com/feeds/SciPy.tgz</url>
     <url>http://sydney.kapeli.com/feeds/SciPy.tgz</url>
     <other-versions>
-        <version><name>0.14.0</name><sha1>a356586a898cf1a0a6f6a554df15378392bb7145</sha1></version>
-        <version><name>0.13.0</name><sha1>bf65b0f00a59ff5115c809eb4a0aba99b83e623b</sha1></version>
+        <version><name>0.14.0</name><sha1_unused>a356586a898cf1a0a6f6a554df15378392bb7145</sha1_unused></version>
+        <version><name>0.13.0</name><sha1_unused>bf65b0f00a59ff5115c809eb4a0aba99b83e623b</sha1_unused></version>
     </other-versions>
 </entry>

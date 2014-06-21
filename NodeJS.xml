@@ -1,6 +1,6 @@
 <entry>
     <version>0.10.29</version>
-    <sha1>1b84a9f515db4b1a00e80e59a1b347e20c104d98</sha1>
+    <sha1_unused>1b84a9f515db4b1a00e80e59a1b347e20c104d98</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://london.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://dallas.kapeli.com/feeds/NodeJS.tgz</url>
@@ -13,31 +13,31 @@
     <url>http://london3.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/NodeJS.tgz</url>
     <other-versions>
-        <version><name>0.10.29</name><sha1>1b84a9f515db4b1a00e80e59a1b347e20c104d98</sha1></version>
-        <version><name>0.10.28</name><sha1>af275df6dd526f1a6f422ff614c7fd0d49eb0742</sha1></version>
-        <version><name>0.10.27</name><sha1>1706b5542524a0d7e17a40052882550041b8758b</sha1></version>
-        <version><name>0.10.26</name><sha1>42f313884aee8d91e7d18f84eb65ae3856c592d2</sha1></version>
-        <version><name>0.10.25</name><sha1>ade0ab9e9ef8ad0cf5593bbe8886edc93155a428</sha1></version>
-        <version><name>0.10.24</name><sha1>cfe6a003121c44bda8b8430fa61bb6d57da4a35e</sha1></version>
-        <version><name>0.10.23</name><sha1>3f6117fcf31f05c5c4ca25b64de3fec7d9244861</sha1></version>
-        <version><name>0.10.22</name><sha1>948af67e974bf7fab1fb9f46b44cae5390f7f573</sha1></version>
-        <version><name>0.10.21</name><sha1>364fc0ba37349530b45329ca776fe8dfa79d1788</sha1></version>
-        <version><name>0.10.19</name><sha1>4a8f25e2c0f297101b7b167e4ded26c70b171c8d</sha1></version>
-        <version><name>0.10.18</name><sha1>9f9310d8bbc97d9ac002c73dee6314e9c47b5101</sha1></version>
-        <version><name>0.10.17</name><sha1>f1786f13e18af0068a4433f2bad1644e9b04c0be</sha1></version>
-        <version><name>0.10.16</name><sha1>3dc3db8dd602017ee22b3888d2f39ce8e9d566bc</sha1></version>
-        <version><name>0.10.13</name><sha1>6882c8df15a700c5ccd04b6dd36761738142732b</sha1></version>
-        <version><name>0.10.12</name><sha1>4524ee345ff79fc3bdb06a105e6099e1b574ce20</sha1></version>
-        <version><name>0.10.11</name><sha1>628f8f4c64c0fabc13af3882b8b51c3cc8aa4106</sha1></version>
-        <version><name>0.10.10</name><sha1>90e852e0a5ebefb83b9a771385f3f1c9b6cad671</sha1></version>
-        <version><name>0.10.9</name><sha1>be15f2902e0208b8d756ff1d577e118366d5087b</sha1></version>
-        <version><name>0.10.7</name><sha1>28464bc76ad8b22e4d68e29c24ae4178a1caddb4</sha1></version>
-        <version><name>0.10.5</name><sha1>6f980647194f736bd6e4fb2b5d7fc2391a081b34</sha1></version>
-        <version><name>0.10.4</name><sha1>8a99667e6dfa4c138918614467d0d500cfc1b0c5</sha1></version>
-        <version><name>0.10.3</name><sha1>e5615b5d020a5d5bafc148d3bfb200742aa24b9e</sha1></version>
-        <version><name>0.10.1</name><sha1>fcfef66456c9d7c12168e51b233a9601abd47723</sha1></version>
-        <version><name>0.10.0</name><sha1>fdab6ee6363fe2407fe9cba5c446f7198e867a78</sha1></version>
-        <version><name>0.8.22</name><sha1>3daa428c50f8a36af8891069146fbd3e9ed847e2</sha1></version>
-        <version><name>0.8.21</name><sha1>5966741635a03386df82a2ab24a064c5224e477e</sha1></version>
+        <version><name>0.10.29</name><sha1_unused>1b84a9f515db4b1a00e80e59a1b347e20c104d98</sha1_unused></version>
+        <version><name>0.10.28</name><sha1_unused>af275df6dd526f1a6f422ff614c7fd0d49eb0742</sha1_unused></version>
+        <version><name>0.10.27</name><sha1_unused>1706b5542524a0d7e17a40052882550041b8758b</sha1_unused></version>
+        <version><name>0.10.26</name><sha1_unused>42f313884aee8d91e7d18f84eb65ae3856c592d2</sha1_unused></version>
+        <version><name>0.10.25</name><sha1_unused>ade0ab9e9ef8ad0cf5593bbe8886edc93155a428</sha1_unused></version>
+        <version><name>0.10.24</name><sha1_unused>cfe6a003121c44bda8b8430fa61bb6d57da4a35e</sha1_unused></version>
+        <version><name>0.10.23</name><sha1_unused>3f6117fcf31f05c5c4ca25b64de3fec7d9244861</sha1_unused></version>
+        <version><name>0.10.22</name><sha1_unused>948af67e974bf7fab1fb9f46b44cae5390f7f573</sha1_unused></version>
+        <version><name>0.10.21</name><sha1_unused>364fc0ba37349530b45329ca776fe8dfa79d1788</sha1_unused></version>
+        <version><name>0.10.19</name><sha1_unused>4a8f25e2c0f297101b7b167e4ded26c70b171c8d</sha1_unused></version>
+        <version><name>0.10.18</name><sha1_unused>9f9310d8bbc97d9ac002c73dee6314e9c47b5101</sha1_unused></version>
+        <version><name>0.10.17</name><sha1_unused>f1786f13e18af0068a4433f2bad1644e9b04c0be</sha1_unused></version>
+        <version><name>0.10.16</name><sha1_unused>3dc3db8dd602017ee22b3888d2f39ce8e9d566bc</sha1_unused></version>
+        <version><name>0.10.13</name><sha1_unused>6882c8df15a700c5ccd04b6dd36761738142732b</sha1_unused></version>
+        <version><name>0.10.12</name><sha1_unused>4524ee345ff79fc3bdb06a105e6099e1b574ce20</sha1_unused></version>
+        <version><name>0.10.11</name><sha1_unused>628f8f4c64c0fabc13af3882b8b51c3cc8aa4106</sha1_unused></version>
+        <version><name>0.10.10</name><sha1_unused>90e852e0a5ebefb83b9a771385f3f1c9b6cad671</sha1_unused></version>
+        <version><name>0.10.9</name><sha1_unused>be15f2902e0208b8d756ff1d577e118366d5087b</sha1_unused></version>
+        <version><name>0.10.7</name><sha1_unused>28464bc76ad8b22e4d68e29c24ae4178a1caddb4</sha1_unused></version>
+        <version><name>0.10.5</name><sha1_unused>6f980647194f736bd6e4fb2b5d7fc2391a081b34</sha1_unused></version>
+        <version><name>0.10.4</name><sha1_unused>8a99667e6dfa4c138918614467d0d500cfc1b0c5</sha1_unused></version>
+        <version><name>0.10.3</name><sha1_unused>e5615b5d020a5d5bafc148d3bfb200742aa24b9e</sha1_unused></version>
+        <version><name>0.10.1</name><sha1_unused>fcfef66456c9d7c12168e51b233a9601abd47723</sha1_unused></version>
+        <version><name>0.10.0</name><sha1_unused>fdab6ee6363fe2407fe9cba5c446f7198e867a78</sha1_unused></version>
+        <version><name>0.8.22</name><sha1_unused>3daa428c50f8a36af8891069146fbd3e9ed847e2</sha1_unused></version>
+        <version><name>0.8.21</name><sha1_unused>5966741635a03386df82a2ab24a064c5224e477e</sha1_unused></version>
     </other-versions>
 </entry>

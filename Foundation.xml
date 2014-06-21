@@ -1,6 +1,6 @@
 <entry>
     <version>5.3.0</version>
-    <sha1>c505617fbb1bb47548b14e1a1293a35deefdb699</sha1>
+    <sha1_unused>c505617fbb1bb47548b14e1a1293a35deefdb699</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Foundation.tgz</url>
     <url>http://london.kapeli.com/feeds/Foundation.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Foundation.tgz</url>
@@ -13,12 +13,12 @@
     <url>http://london3.kapeli.com/feeds/Foundation.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Foundation.tgz</url>
     <other-versions>
-        <version><name>5.3.0</name><sha1>c505617fbb1bb47548b14e1a1293a35deefdb699</sha1></version>
-        <version><name>5.2.3</name><sha1>8d86e99f19e6c74b1b0c7007d75685e7bbd51fe2</sha1></version>
-        <version><name>5.2.2</name><sha1>8d86e99f19e6c74b1b0c7007d75685e7bbd51fe2</sha1></version>
-        <version><name>5.1.1</name><sha1>13b5751a95ba22eb348196c6cf574d11ed1bf1ac</sha1></version>
-        <version><name>5.0.3</name><sha1>7f64171b1cfcaedc4a09047ab860d166bb2f9b56</sha1></version>
-        <version><name>4.3.2</name><sha1>e54fd1f4e620d6f8b9a61f6c1ef7e1ae349d1cb7</sha1></version>
-        <version><name>4.2.3</name><sha1>b7a307c067db06b8c0b9acbea50a1f5f7217db6f</sha1></version>
+        <version><name>5.3.0</name><sha1_unused>c505617fbb1bb47548b14e1a1293a35deefdb699</sha1_unused></version>
+        <version><name>5.2.3</name><sha1_unused>8d86e99f19e6c74b1b0c7007d75685e7bbd51fe2</sha1_unused></version>
+        <version><name>5.2.2</name><sha1_unused>8d86e99f19e6c74b1b0c7007d75685e7bbd51fe2</sha1_unused></version>
+        <version><name>5.1.1</name><sha1_unused>13b5751a95ba22eb348196c6cf574d11ed1bf1ac</sha1_unused></version>
+        <version><name>5.0.3</name><sha1_unused>7f64171b1cfcaedc4a09047ab860d166bb2f9b56</sha1_unused></version>
+        <version><name>4.3.2</name><sha1_unused>e54fd1f4e620d6f8b9a61f6c1ef7e1ae349d1cb7</sha1_unused></version>
+        <version><name>4.2.3</name><sha1_unused>b7a307c067db06b8c0b9acbea50a1f5f7217db6f</sha1_unused></version>
     </other-versions>
 </entry>

@@ -1,6 +1,6 @@
 <entry>
     <version>2.3.0</version>
-    <sha1>cf282c12c6d32b941d802edd8769c55bae687e03</sha1>
+    <sha1_unused>cf282c12c6d32b941d802edd8769c55bae687e03</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Play_Scala.tgz</url>
     <url>http://london.kapeli.com/feeds/Play_Scala.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Play_Scala.tgz</url>
@@ -13,15 +13,15 @@
     <url>http://london3.kapeli.com/feeds/Play_Scala.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Play_Scala.tgz</url>
     <other-versions>
-        <version><name>2.3.0</name><sha1>cf282c12c6d32b941d802edd8769c55bae687e03</sha1></version>
-        <version><name>2.2.3</name><sha1>39cc06a6fc26af1125f514198ae647b23b9818b2</sha1></version>
-        <version><name>2.2.2</name><sha1>eac58c143f15d96b7cfa4bdda641236b1dc94e07</sha1></version>
-        <version><name>2.2.1</name><sha1>dd975d4fb5ef1bfd87802c06f764b2c899c9e6f8</sha1></version>
-        <version><name>2.2.0</name><sha1>df08c578d7e7791972da9b819fcc5b9b06ddfcd0</sha1></version>
-        <version><name>2.1.5</name><sha1>d9130e2658360539dec89790c6856183da75c96f</sha1></version>
-        <version><name>2.1.3</name><sha1>22c8520283c8e1359898ec24dac28036448e013c</sha1></version>
-        <version><name>2.1.2</name><sha1>85dc172cd511b289d8d831bdd3dd6fea9dae6644</sha1></version>
-        <version><name>2.1.1</name><sha1>98cf6514b4aeb35cdeebe18843210c168e6becd5</sha1></version>
-        <version><name>2.1.0</name><sha1>1a3efd97cd934bb960af2f1f161c32c2297a40ce</sha1></version>
+        <version><name>2.3.0</name><sha1_unused>cf282c12c6d32b941d802edd8769c55bae687e03</sha1_unused></version>
+        <version><name>2.2.3</name><sha1_unused>39cc06a6fc26af1125f514198ae647b23b9818b2</sha1_unused></version>
+        <version><name>2.2.2</name><sha1_unused>eac58c143f15d96b7cfa4bdda641236b1dc94e07</sha1_unused></version>
+        <version><name>2.2.1</name><sha1_unused>dd975d4fb5ef1bfd87802c06f764b2c899c9e6f8</sha1_unused></version>
+        <version><name>2.2.0</name><sha1_unused>df08c578d7e7791972da9b819fcc5b9b06ddfcd0</sha1_unused></version>
+        <version><name>2.1.5</name><sha1_unused>d9130e2658360539dec89790c6856183da75c96f</sha1_unused></version>
+        <version><name>2.1.3</name><sha1_unused>22c8520283c8e1359898ec24dac28036448e013c</sha1_unused></version>
+        <version><name>2.1.2</name><sha1_unused>85dc172cd511b289d8d831bdd3dd6fea9dae6644</sha1_unused></version>
+        <version><name>2.1.1</name><sha1_unused>98cf6514b4aeb35cdeebe18843210c168e6becd5</sha1_unused></version>
+        <version><name>2.1.0</name><sha1_unused>1a3efd97cd934bb960af2f1f161c32c2297a40ce</sha1_unused></version>
     </other-versions>
 </entry>

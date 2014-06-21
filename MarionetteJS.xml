@@ -1,6 +1,6 @@
 <entry>
     <version>2.0</version>
-    <sha1>3c11057ea96bc91a5906bc0037cd505d126f5c89</sha1>
+    <sha1_unused>3c11057ea96bc91a5906bc0037cd505d126f5c89</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/MarionetteJS.tgz</url>
     <url>http://london.kapeli.com/feeds/MarionetteJS.tgz</url>
     <url>http://dallas.kapeli.com/feeds/MarionetteJS.tgz</url>
@@ -13,20 +13,20 @@
     <url>http://london3.kapeli.com/feeds/MarionetteJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/MarionetteJS.tgz</url>
     <other-versions>
-        <version><name>2.0</name><sha1>3c11057ea96bc91a5906bc0037cd505d126f5c89</sha1></version>
-        <version><name>1.8</name><sha1>15afaa0aa6342798f59d681a7623c150ee784449</sha1></version>
-        <version><name>1.7</name><sha1>1bc9a2dcbef7c49b9354565b1b9d6b6044cf37e0</sha1></version>
-        <version><name>1.6.4</name><sha1>4bef88904e970b5e8348777bbb8484576ef139b3</sha1></version>
-        <version><name>1.6.3</name><sha1>ce4d3c3e758e5eac06c0608e87668fc2aea1a1bb</sha1></version>
-        <version><name>1.6.2</name><sha1>726b449694ed631d996551655447bd83d9836ec9</sha1></version>
-        <version><name>1.6.1</name><sha1>c631ad5d12a9cf76809614a723ba86c0dbcf0166</sha1></version>
-        <version><name>1.6.0</name><sha1>ae35c0dcf743df914bc03bafcea163832e0bb06d</sha1></version>
-        <version><name>1.5.1</name><sha1>89afdf252fc298938f96339c6668b53a76c502dc</sha1></version>
-        <version><name>1.4.1</name><sha1>93743cff1727d9a3af9a86fb340f33d87415a58e</sha1></version>
-        <version><name>1.3.0</name><sha1>bf2824bc397113fdd9b85fada611246358c6913c</sha1></version>
-        <version><name>1.2.3</name><sha1>5ba3f8f21d253042d70725696fcd8bb1d9105476</sha1></version>
-        <version><name>1.2.2</name><sha1>dd4453b381a909fbb96e562754d1b3a42a5ff64c</sha1></version>
-        <version><name>1.2.0</name><sha1>1674947ec4a25cea38e045166430f24305ef3a0b</sha1></version>
-        <version><name>1.1.0</name><sha1>556cf6b59338ab0dbee931a999c503280404377d</sha1></version>
+        <version><name>2.0</name><sha1_unused>3c11057ea96bc91a5906bc0037cd505d126f5c89</sha1_unused></version>
+        <version><name>1.8</name><sha1_unused>15afaa0aa6342798f59d681a7623c150ee784449</sha1_unused></version>
+        <version><name>1.7</name><sha1_unused>1bc9a2dcbef7c49b9354565b1b9d6b6044cf37e0</sha1_unused></version>
+        <version><name>1.6.4</name><sha1_unused>4bef88904e970b5e8348777bbb8484576ef139b3</sha1_unused></version>
+        <version><name>1.6.3</name><sha1_unused>ce4d3c3e758e5eac06c0608e87668fc2aea1a1bb</sha1_unused></version>
+        <version><name>1.6.2</name><sha1_unused>726b449694ed631d996551655447bd83d9836ec9</sha1_unused></version>
+        <version><name>1.6.1</name><sha1_unused>c631ad5d12a9cf76809614a723ba86c0dbcf0166</sha1_unused></version>
+        <version><name>1.6.0</name><sha1_unused>ae35c0dcf743df914bc03bafcea163832e0bb06d</sha1_unused></version>
+        <version><name>1.5.1</name><sha1_unused>89afdf252fc298938f96339c6668b53a76c502dc</sha1_unused></version>
+        <version><name>1.4.1</name><sha1_unused>93743cff1727d9a3af9a86fb340f33d87415a58e</sha1_unused></version>
+        <version><name>1.3.0</name><sha1_unused>bf2824bc397113fdd9b85fada611246358c6913c</sha1_unused></version>
+        <version><name>1.2.3</name><sha1_unused>5ba3f8f21d253042d70725696fcd8bb1d9105476</sha1_unused></version>
+        <version><name>1.2.2</name><sha1_unused>dd4453b381a909fbb96e562754d1b3a42a5ff64c</sha1_unused></version>
+        <version><name>1.2.0</name><sha1_unused>1674947ec4a25cea38e045166430f24305ef3a0b</sha1_unused></version>
+        <version><name>1.1.0</name><sha1_unused>556cf6b59338ab0dbee931a999c503280404377d</sha1_unused></version>
     </other-versions>
 </entry>

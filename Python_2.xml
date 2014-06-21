@@ -1,6 +1,6 @@
 <entry>
     <version>.7.7</version>
-    <sha1>945cef978f9df8d78819e63f0d814b9dd441cb51</sha1>
+    <sha1_unused>945cef978f9df8d78819e63f0d814b9dd441cb51</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Python_2.tgz</url>
     <url>http://london.kapeli.com/feeds/Python_2.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Python_2.tgz</url>
@@ -13,7 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Python_2.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Python_2.tgz</url>
     <other-versions>
-        <version><name>2.7.7</name><sha1>945cef978f9df8d78819e63f0d814b9dd441cb51</sha1></version>
-        <version><name>2.7.6</name><sha1>ef0fb7d4ac1d945769a65e86d7395fcd9833b37a</sha1></version>
+        <version><name>2.7.7</name><sha1_unused>945cef978f9df8d78819e63f0d814b9dd441cb51</sha1_unused></version>
+        <version><name>2.7.6</name><sha1_unused>ef0fb7d4ac1d945769a65e86d7395fcd9833b37a</sha1_unused></version>
     </other-versions>
 </entry>

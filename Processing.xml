@@ -1,6 +1,6 @@
 <entry>
     <version>2.2</version>
-    <sha1>0591ac4fceab9b0cba48e06ff735f3557df5be69</sha1>
+    <sha1_unused>0591ac4fceab9b0cba48e06ff735f3557df5be69</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Processing.tgz</url>
     <url>http://london.kapeli.com/feeds/Processing.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Processing.tgz</url>
@@ -13,8 +13,8 @@
     <url>http://london3.kapeli.com/feeds/Processing.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Processing.tgz</url>
     <other-versions>
-        <version><name>2.2</name><sha1>0591ac4fceab9b0cba48e06ff735f3557df5be69</sha1></version>
-        <version><name>2.1</name><sha1>7e50fc00cdd295c175ab87cab34ba030d5e1f832</sha1></version>
-        <version><name>2.0</name><sha1>96d9960d513543e4b88ee208427cf14eb7c41bbb</sha1></version>
+        <version><name>2.2</name><sha1_unused>0591ac4fceab9b0cba48e06ff735f3557df5be69</sha1_unused></version>
+        <version><name>2.1</name><sha1_unused>7e50fc00cdd295c175ab87cab34ba030d5e1f832</sha1_unused></version>
+        <version><name>2.0</name><sha1_unused>96d9960d513543e4b88ee208427cf14eb7c41bbb</sha1_unused></version>
     </other-versions>
 </entry>

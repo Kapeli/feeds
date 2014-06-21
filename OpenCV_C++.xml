@@ -1,6 +1,6 @@
 <entry>
     <version>2.4.9</version>
-    <sha1>6011bee0e43131c3a9eb5e5d3b45888ed7e469b9</sha1>
+    <sha1_unused>6011bee0e43131c3a9eb5e5d3b45888ed7e469b9</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/OpenCV_C++.tgz</url>
     <url>http://london.kapeli.com/feeds/OpenCV_C++.tgz</url>
     <url>http://dallas.kapeli.com/feeds/OpenCV_C++.tgz</url>
@@ -13,8 +13,8 @@
     <url>http://london3.kapeli.com/feeds/OpenCV_C++.tgz</url>
     <url>http://sydney.kapeli.com/feeds/OpenCV_C++.tgz</url>
     <other-versions>
-        <version><name>2.4.9</name><sha1>6011bee0e43131c3a9eb5e5d3b45888ed7e469b9</sha1></version>
-        <version><name>2.4.8</name><sha1>21b840cca6c247a9b65c28d01114d3f0791bda60</sha1></version>
-        <version><name>2.4.7</name><sha1>2b24a90046ad158b01585fc942a3215bfb5ab1f0</sha1></version>
+        <version><name>2.4.9</name><sha1_unused>6011bee0e43131c3a9eb5e5d3b45888ed7e469b9</sha1_unused></version>
+        <version><name>2.4.8</name><sha1_unused>21b840cca6c247a9b65c28d01114d3f0791bda60</sha1_unused></version>
+        <version><name>2.4.7</name><sha1_unused>2b24a90046ad158b01585fc942a3215bfb5ab1f0</sha1_unused></version>
     </other-versions>
 </entry>
