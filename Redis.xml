@@ -1,6 +1,6 @@
 <entry>
-    <version>2.8.11</version>
-    <sha1_unused>40550da1e46e8f5b73cd3a054a58ddfca62e422d</sha1_unused>
+    <version>2.8.12</version>
+    <sha1_unused>fcdc3bb2e3cd83cf849d748c3174ee48f63ac858</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Redis.tgz</url>
     <url>http://london.kapeli.com/feeds/Redis.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Redis.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Redis.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Redis.tgz</url>
     <other-versions>
+        <version><name>2.8.12</name><sha1_unused>fcdc3bb2e3cd83cf849d748c3174ee48f63ac858</sha1_unused></version>
         <version><name>2.8.11</name><sha1_unused>40550da1e46e8f5b73cd3a054a58ddfca62e422d</sha1_unused></version>
         <version><name>2.8.10</name><sha1_unused>b336d0356c41ef0ee6d5f6821f2d31f223b91230</sha1_unused></version>
         <version><name>2.8.9</name><sha1_unused>06fbde85d330069de0a12f5b6d9d0b4c21f8bf16</sha1_unused></version>
