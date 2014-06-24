@@ -1,6 +1,6 @@
 <entry>
     <version>2.4.1</version>
-    <sha1_unused>7c67e92a6e85725bbff75e3ccc1f71b58d155279</sha1_unused>
+    <sha1_unused>351b77f06280dc1ceb30c350f378c822b17c159f</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Lo-Dash.tgz</url>
     <url>http://london.kapeli.com/feeds/Lo-Dash.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Lo-Dash.tgz</url>
@@ -13,7 +13,7 @@
     <url>http://london3.kapeli.com/feeds/Lo-Dash.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Lo-Dash.tgz</url>
     <other-versions>
-        <version><name>2.4.1</name><sha1_unused>7c67e92a6e85725bbff75e3ccc1f71b58d155279</sha1_unused></version>
+        <version><name>2.4.1</name><sha1_unused>351b77f06280dc1ceb30c350f378c822b17c159f</sha1_unused></version>
         <version><name>2.4.0</name><sha1_unused>c6da7d7cfd65e88659f8cf69241c5821d6f03880</sha1_unused></version>
         <version><name>2.3.0</name><sha1_unused>5cdfd105244a5dae6fb2b9ca2a953d62d5f6c064</sha1_unused></version>
         <version><name>2.2.1</name><sha1_unused>9b5256bd5d16836bb6964be290feab064450c103</sha1_unused></version>
