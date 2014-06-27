@@ -1,6 +1,5 @@
 <entry>
     <version>2.3.3</version>
-    <sha1_unused>b5738f047438911923ea48d0ff914d7fee9a9e4c</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Akka.tgz</url>
     <url>http://london.kapeli.com/feeds/Akka.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Akka.tgz</url>
@@ -13,15 +12,15 @@
     <url>http://london3.kapeli.com/feeds/Akka.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Akka.tgz</url>
     <other-versions>
-        <version><name>2.3.3</name><sha1_unused>b5738f047438911923ea48d0ff914d7fee9a9e4c</sha1_unused></version>
-        <version><name>2.3.2</name><sha1_unused>0fb6b66b1398d202ff07dafe2da20b3c667bcf43</sha1_unused></version>
-        <version><name>2.3.1</name><sha1_unused>b7ca0a08bb8904e7ce571b99ae2068a507fc7ccc</sha1_unused></version>
-        <version><name>2.3.0</name><sha1_unused>741f1ca4a88d87668226b2ec484e7a3ce75a0de5</sha1_unused></version>
-        <version><name>2.2.4</name><sha1_unused>3dfc48db46755117e3b8135992c8d4fc2e991a96</sha1_unused></version>
-        <version><name>2.2.1</name><sha1_unused>671e42a3495cc78f17e863aaa68f464553185c35</sha1_unused></version>
-        <version><name>2.2.0</name><sha1_unused>8e798e3784c9bb8d5bd1260c7285071cb5edbebe</sha1_unused></version>
-        <version><name>2.1.4</name><sha1_unused>9c1fcb081b665e7680e9f0e2eeeffb885cd5e39b</sha1_unused></version>
-        <version><name>2.1.2</name><sha1_unused>53c8950bb264f1613afd3cd5990aceb76aedbf32</sha1_unused></version>
-        <version><name>2.1.0</name><sha1_unused>e019aef07289e039df32575cfe6a76fdcef2713a</sha1_unused></version>
+        <version><name>2.3.3</name></version>
+        <version><name>2.3.2</name></version>
+        <version><name>2.3.1</name></version>
+        <version><name>2.3.0</name></version>
+        <version><name>2.2.4</name></version>
+        <version><name>2.2.1</name></version>
+        <version><name>2.2.0</name></version>
+        <version><name>2.1.4</name></version>
+        <version><name>2.1.2</name></version>
+        <version><name>2.1.0</name></version>
     </other-versions>
 </entry>

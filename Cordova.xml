@@ -1,6 +1,5 @@
 <entry>
     <version>3.5</version>
-    <sha1_unused>24ec9d81593d73f1653bc076b326b6f6729406bf</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Cordova.tgz</url>
     <url>http://london.kapeli.com/feeds/Cordova.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Cordova.tgz</url>
@@ -13,10 +12,10 @@
     <url>http://london3.kapeli.com/feeds/Cordova.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Cordova.tgz</url>
     <other-versions>
-        <version><name>3.5</name><sha1_unused>24ec9d81593d73f1653bc076b326b6f6729406bf</sha1_unused></version>
-        <version><name>3.4</name><sha1_unused>24ec9d81593d73f1653bc076b326b6f6729406bf</sha1_unused></version>
-        <version><name>3.3</name><sha1_unused>290f56cd281fcb51dc8e26da05af7763a22447ca</sha1_unused></version>
-        <version><name>3.2</name><sha1_unused>01ad0e5d069a270185b16ae813cbefc6852b3dfe</sha1_unused></version>
-        <version><name>3.1</name><sha1_unused>7186714f0c7969f2e63b7dae8afa7d81bcc56ee4</sha1_unused></version>
+        <version><name>3.5</name></version>
+        <version><name>3.4</name></version>
+        <version><name>3.3</name></version>
+        <version><name>3.2</name></version>
+        <version><name>3.1</name></version>
     </other-versions>
 </entry>

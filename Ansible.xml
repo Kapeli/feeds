@@ -1,6 +1,5 @@
 <entry>
     <version>1.6.5</version>
-    <sha1_unused>13fd34dcbfd14c0f54d226b651e6ddd51a245f27</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Ansible.tgz</url>
     <url>http://london.kapeli.com/feeds/Ansible.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Ansible.tgz</url>
@@ -13,19 +12,19 @@
     <url>http://london3.kapeli.com/feeds/Ansible.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Ansible.tgz</url>
     <other-versions>
-        <version><name>1.6.5</name><sha1_unused>13fd34dcbfd14c0f54d226b651e6ddd51a245f27</sha1_unused></version>
-        <version><name>1.6.4</name><sha1_unused>69352a3dcc100d44c421e86e9c482fc2422f309d</sha1_unused></version>
-        <version><name>1.6.3</name><sha1_unused>65c8bbadc7bf39072d6aa8860035434b648590f4</sha1_unused></version>
-        <version><name>1.6.2</name><sha1_unused>e00847d764e017327c664cc087f0bfc55c8f05ff</sha1_unused></version>
-        <version><name>1.6.1</name><sha1_unused>fad4f534cab6eabbeed966c78cfeba2132e179c4</sha1_unused></version>
-        <version><name>1.6.0</name><sha1_unused>d49c3bdfd2dd9903d177f2d2de78a6686a017b9e</sha1_unused></version>
-        <version><name>1.5.5</name><sha1_unused>59b17ad823f9604de2fd86e71f8fc7c10eb8ca74</sha1_unused></version>
-        <version><name>1.5.4</name><sha1_unused>20582abb76d9438a3ecc5ab2224e6ad5b138b9e6</sha1_unused></version>
-        <version><name>1.5.3</name><sha1_unused>97747801b776b1ffdb563ebf21c5dd6c32ac3411</sha1_unused></version>
-        <version><name>1.5.2</name><sha1_unused>bf29bb540b608837e5a9e4d0eba5202e07b97f33</sha1_unused></version>
-        <version><name>1.5.1</name><sha1_unused>21a10a50353b91db5e9a41bcadcf24cfccebb7b5</sha1_unused></version>
-        <version><name>1.5.0</name><sha1_unused>44419267b87eae54536d15fb0a1dabd47651dd8b</sha1_unused></version>
-        <version><name>1.4.5</name><sha1_unused>a7271bd922cb2a3c96d09d524118b57aa170bf34</sha1_unused></version>
-        <version><name>1.4.4</name><sha1_unused>0a7e5f82e97b569da543f1f1c6d4832bf3562b1b</sha1_unused></version>
+        <version><name>1.6.5</name></version>
+        <version><name>1.6.4</name></version>
+        <version><name>1.6.3</name></version>
+        <version><name>1.6.2</name></version>
+        <version><name>1.6.1</name></version>
+        <version><name>1.6.0</name></version>
+        <version><name>1.5.5</name></version>
+        <version><name>1.5.4</name></version>
+        <version><name>1.5.3</name></version>
+        <version><name>1.5.2</name></version>
+        <version><name>1.5.1</name></version>
+        <version><name>1.5.0</name></version>
+        <version><name>1.4.5</name></version>
+        <version><name>1.4.4</name></version>
     </other-versions>
 </entry>

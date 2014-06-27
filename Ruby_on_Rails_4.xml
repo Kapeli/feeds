@@ -1,6 +1,5 @@
 <entry>
     <version>.1.1</version>
-    <sha1_unused>f304836e34739fdf937587405dd03fe3f4bb0d93</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Ruby_on_Rails_4.tgz</url>
     <url>http://london.kapeli.com/feeds/Ruby_on_Rails_4.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Ruby_on_Rails_4.tgz</url>
@@ -13,12 +12,12 @@
     <url>http://london3.kapeli.com/feeds/Ruby_on_Rails_4.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Ruby_on_Rails_4.tgz</url>
     <other-versions>
-        <version><name>4.1.1</name><sha1_unused>f304836e34739fdf937587405dd03fe3f4bb0d93</sha1_unused></version>
-        <version><name>4.1.0</name><sha1_unused>441719f4baca7a2d5f1cec550ad9bb40d3e8ab03</sha1_unused></version>
-        <version><name>4.0.4</name><sha1_unused>7d5811d652eb6886ee8a31da22b85855246b33bf</sha1_unused></version>
-        <version><name>4.0.3</name><sha1_unused>56c4a7bf27e5d96249b6bbe6926e26fb57504556</sha1_unused></version>
-        <version><name>4.0.2</name><sha1_unused>499183b0fb284c1dc47cfbd5ab40b32f35e395ae</sha1_unused></version>
-        <version><name>4.0.1</name><sha1_unused>9816a3347f82620d59e4df9b82a75b9ac34f7aa4</sha1_unused></version>
-        <version><name>4.0.0</name><sha1_unused>3cf472f41133182c20ef59da32667185628261c4</sha1_unused></version>
+        <version><name>4.1.1</name></version>
+        <version><name>4.1.0</name></version>
+        <version><name>4.0.4</name></version>
+        <version><name>4.0.3</name></version>
+        <version><name>4.0.2</name></version>
+        <version><name>4.0.1</name></version>
+        <version><name>4.0.0</name></version>
     </other-versions>
 </entry>

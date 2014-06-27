@@ -1,6 +1,5 @@
 <entry>
     <version>7.4</version>
-    <sha1_unused>a322f5de9e2397dabb400f05d916abd2342c8a45</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Vim.tgz</url>
     <url>http://london.kapeli.com/feeds/Vim.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Vim.tgz</url>
@@ -13,7 +12,7 @@
     <url>http://london3.kapeli.com/feeds/Vim.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Vim.tgz</url>
     <other-versions>
-        <version><name>7.4</name><sha1_unused>a322f5de9e2397dabb400f05d916abd2342c8a45</sha1_unused></version>
-        <version><name>7.3</name><sha1_unused>0ba64d6417a9d08693676d088e963abf4c55f15e</sha1_unused></version>
+        <version><name>7.4</name></version>
+        <version><name>7.3</name></version>
     </other-versions>
 </entry>

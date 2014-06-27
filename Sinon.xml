@@ -1,6 +1,5 @@
 <entry>
     <version>1.10.2</version>
-    <sha1_unused>010fd876930cad7264d91a0a22f0ffda26c0c407</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Sinon.tgz</url>
     <url>http://london.kapeli.com/feeds/Sinon.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Sinon.tgz</url>
@@ -13,10 +12,10 @@
     <url>http://london3.kapeli.com/feeds/Sinon.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Sinon.tgz</url>
     <other-versions>
-        <version><name>1.10.2</name><sha1_unused>010fd876930cad7264d91a0a22f0ffda26c0c407</sha1_unused></version>
-        <version><name>1.10.1</name><sha1_unused>77ede1b6f109c6c3532f569d455547152752df4a</sha1_unused></version>
-        <version><name>1.10.0</name><sha1_unused>2f2639bd40d2f27232d83c6cb88d93d2c903a34c</sha1_unused></version>
-        <version><name>1.9.1</name><sha1_unused>89a56c685e147393a3d9fd30db563d9e9fa4445e</sha1_unused></version>
-        <version><name>1.9.0</name><sha1_unused>8cc5b83d96f4c2a9f0b08520c15d7a156a4c3494</sha1_unused></version>
+        <version><name>1.10.2</name></version>
+        <version><name>1.10.1</name></version>
+        <version><name>1.10.0</name></version>
+        <version><name>1.9.1</name></version>
+        <version><name>1.9.0</name></version>
     </other-versions>
 </entry>

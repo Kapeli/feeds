@@ -1,6 +1,5 @@
 <entry>
     <version>3.4.8</version>
-    <sha1_unused>e259ebaa23c5bf4db1bad9cb021a82d29cbcf004</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/D3JS.tgz</url>
     <url>http://london.kapeli.com/feeds/D3JS.tgz</url>
     <url>http://dallas.kapeli.com/feeds/D3JS.tgz</url>
@@ -13,14 +12,14 @@
     <url>http://london3.kapeli.com/feeds/D3JS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/D3JS.tgz</url>
     <other-versions>
-        <version><name>3.4.8</name><sha1_unused>e259ebaa23c5bf4db1bad9cb021a82d29cbcf004</sha1_unused></version>
-        <version><name>3.4.7</name><sha1_unused>e259ebaa23c5bf4db1bad9cb021a82d29cbcf004</sha1_unused></version>
-        <version><name>3.4.6</name><sha1_unused>e259ebaa23c5bf4db1bad9cb021a82d29cbcf004</sha1_unused></version>
-        <version><name>3.4.5</name><sha1_unused>10527a819d46e34adfc2a4f3c3c28700142543b1</sha1_unused></version>
-        <version><name>3.4.4</name><sha1_unused>158da5ae412e78cf596c07d7561a0d5bbc8dfa5f</sha1_unused></version>
-        <version><name>3.4.0</name><sha1_unused>f5f801b5f2a3fa756a842ccc32a89de383ba85da</sha1_unused></version>
-        <version><name>3.3.11</name><sha1_unused>a71c78371364c1c3ddece34777a2032a4af7bc17</sha1_unused></version>
-        <version><name>3.3.10</name><sha1_unused>e9baac383a86e2d6ef164fbe9be8d106678fdaa3</sha1_unused></version>
-        <version><name>3.3.9</name><sha1_unused>7644c150106a4b6b3679f609d945651b04d29306</sha1_unused></version>
+        <version><name>3.4.8</name></version>
+        <version><name>3.4.7</name></version>
+        <version><name>3.4.6</name></version>
+        <version><name>3.4.5</name></version>
+        <version><name>3.4.4</name></version>
+        <version><name>3.4.0</name></version>
+        <version><name>3.3.11</name></version>
+        <version><name>3.3.10</name></version>
+        <version><name>3.3.9</name></version>
     </other-versions>
 </entry>

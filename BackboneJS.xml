@@ -1,6 +1,5 @@
 <entry>
     <version>1.1.2/3</version>
-    <sha1_unused>169c7a4292cab378da8e0fcc5025a18e3ff3af1b</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/BackboneJS.tgz</url>
     <url>http://london.kapeli.com/feeds/BackboneJS.tgz</url>
     <url>http://dallas.kapeli.com/feeds/BackboneJS.tgz</url>
@@ -13,6 +12,6 @@
     <url>http://london3.kapeli.com/feeds/BackboneJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/BackboneJS.tgz</url>
     <other-versions>
-        <version><name>1.1.2</name><sha1_unused>169c7a4292cab378da8e0fcc5025a18e3ff3af1b</sha1_unused></version>
+        <version><name>1.1.2</name></version>
     </other-versions>
 </entry>

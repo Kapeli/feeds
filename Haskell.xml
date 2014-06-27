@@ -1,6 +1,5 @@
 <entry>
     <version>2013.2.0.0/2</version>
-    <sha1_unused>e483dbd4b33b388b1f5463c4ead6cc10498a5033</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Haskell.tgz</url>
     <url>http://london.kapeli.com/feeds/Haskell.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Haskell.tgz</url>
@@ -13,7 +12,7 @@
     <url>http://london3.kapeli.com/feeds/Haskell.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Haskell.tgz</url>
     <other-versions>
-        <version><name>2013.2.0.0</name><sha1_unused>e483dbd4b33b388b1f5463c4ead6cc10498a5033</sha1_unused></version>
-        <version><name>2012.4.0.0</name><sha1_unused>f063eec3089d36ae5fbca9463a8565e2631e873a</sha1_unused></version>
+        <version><name>2013.2.0.0</name></version>
+        <version><name>2012.4.0.0</name></version>
     </other-versions>
 </entry>

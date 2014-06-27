@@ -1,6 +1,5 @@
 <entry>
     <version>2.40</version>
-    <sha1_unused>8cdcd9d957dc6800cf9bdfa26823b812ec5509de</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/GLib.tgz</url>
     <url>http://london.kapeli.com/feeds/GLib.tgz</url>
     <url>http://dallas.kapeli.com/feeds/GLib.tgz</url>
@@ -13,9 +12,9 @@
     <url>http://london3.kapeli.com/feeds/GLib.tgz</url>
     <url>http://sydney.kapeli.com/feeds/GLib.tgz</url>
     <other-versions>
-        <version><name>2.40</name><sha1_unused>8cdcd9d957dc6800cf9bdfa26823b812ec5509de</sha1_unused></version>
-        <version><name>2.38</name><sha1_unused>92eb3d5096657badd991e67ba23b0f2b1398c1d1</sha1_unused></version>
-        <version><name>2.36</name><sha1_unused>4cc25cef7bff6570a2dfb1fa9aea1c68384c361c</sha1_unused></version>
-        <version><name>2.34</name><sha1_unused>acfc50e17b336a6aadd91b5d8dcb5ea3c597c95b</sha1_unused></version>
+        <version><name>2.40</name></version>
+        <version><name>2.38</name></version>
+        <version><name>2.36</name></version>
+        <version><name>2.34</name></version>
     </other-versions>
 </entry>

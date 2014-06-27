@@ -1,6 +1,5 @@
 <entry>
     <version>2.3.3</version>
-    <sha1_unused>f02355d44b957a2e5e8a24ff4f445e5ff051b1cc</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Groovy.tgz</url>
     <url>http://london.kapeli.com/feeds/Groovy.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Groovy.tgz</url>
@@ -13,21 +12,21 @@
     <url>http://london3.kapeli.com/feeds/Groovy.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Groovy.tgz</url>
     <other-versions>
-        <version><name>2.3.3</name><sha1_unused>f02355d44b957a2e5e8a24ff4f445e5ff051b1cc</sha1_unused></version>
-        <version><name>2.3.2</name><sha1_unused>62f65d388568169ecc76d5935e751e3069e05a3b</sha1_unused></version>
-        <version><name>2.3.1</name><sha1_unused>67db7f288278ac935504b36e25cc9fb82fd0c431</sha1_unused></version>
-        <version><name>2.3.0</name><sha1_unused>a44e3b831cf480919c106ce204071ce85dc40a8e</sha1_unused></version>
-        <version><name>2.2.2</name><sha1_unused>29549fc31f072eaf7272dea211b26eea210d86e9</sha1_unused></version>
-        <version><name>2.2.1</name><sha1_unused>c1761705a339166bcefb5025ce0b3a16b7a5f0e9</sha1_unused></version>
-        <version><name>2.2.0</name><sha1_unused>b99796903d5efb8127da6379e418c1ca40a8a7d2</sha1_unused></version>
-        <version><name>2.1.9</name><sha1_unused>b2ec10557cd59993a2d986d3db6819795503ec60</sha1_unused></version>
-        <version><name>2.1.8</name><sha1_unused>f8a43b579a0e7181ab5364e9bd74cf95e3ca6851</sha1_unused></version>
-        <version><name>2.1.7</name><sha1_unused>c8a17b3df9dba2421ecf0e6f016c27bef0d1c4e1</sha1_unused></version>
-        <version><name>2.1.6</name><sha1_unused>0e60b5bf8b899b19054635e4a52f4149d87bcd72</sha1_unused></version>
-        <version><name>2.1.5</name><sha1_unused>48bbc361f971a1f89f9388ebb739ac50b7eeccc1</sha1_unused></version>
-        <version><name>2.1.4</name><sha1_unused>960a91a828be7dc8c2c08d18c564c7cddd98b9d9</sha1_unused></version>
-        <version><name>2.1.3</name><sha1_unused>efebad8f5a9cfb2d6637db30edb2b696d9c33652</sha1_unused></version>
-        <version><name>2.1.2</name><sha1_unused>f2392940cad1d0b92bef4e8f32de8738036756a4</sha1_unused></version>
-        <version><name>2.1.1</name><sha1_unused>5952d4b267ae9496de6008030a034b5a6a25ef85</sha1_unused></version>
+        <version><name>2.3.3</name></version>
+        <version><name>2.3.2</name></version>
+        <version><name>2.3.1</name></version>
+        <version><name>2.3.0</name></version>
+        <version><name>2.2.2</name></version>
+        <version><name>2.2.1</name></version>
+        <version><name>2.2.0</name></version>
+        <version><name>2.1.9</name></version>
+        <version><name>2.1.8</name></version>
+        <version><name>2.1.7</name></version>
+        <version><name>2.1.6</name></version>
+        <version><name>2.1.5</name></version>
+        <version><name>2.1.4</name></version>
+        <version><name>2.1.3</name></version>
+        <version><name>2.1.2</name></version>
+        <version><name>2.1.1</name></version>
     </other-versions>
 </entry>

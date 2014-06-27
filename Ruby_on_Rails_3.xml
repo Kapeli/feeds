@@ -1,6 +1,5 @@
 <entry>
     <version>.2.18</version>
-    <sha1_unused>b67afd9a388edf750180cbfd54988ebd931c254e</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Ruby_on_Rails_3.tgz</url>
     <url>http://london.kapeli.com/feeds/Ruby_on_Rails_3.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Ruby_on_Rails_3.tgz</url>
@@ -13,11 +12,11 @@
     <url>http://london3.kapeli.com/feeds/Ruby_on_Rails_3.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Ruby_on_Rails_3.tgz</url>
     <other-versions>
-        <version><name>3.2.18</name><sha1_unused>b67afd9a388edf750180cbfd54988ebd931c254e</sha1_unused></version>
-        <version><name>3.2.17</name><sha1_unused>418577dd60c1161b1a5389b99c6dc6975208a868</sha1_unused></version>
-        <version><name>3.2.16</name><sha1_unused>db1d7c99cd5301bbadea3f4f0aeec868eb0266df</sha1_unused></version>
-        <version><name>3.2.15</name><sha1_unused>37e7e754c6c5eb0a44eb8b4a0d009a82523ab9f6</sha1_unused></version>
-        <version><name>3.2.14</name><sha1_unused>39446e058cc0f0fdc4cd7c1dcfe7c880325a0372</sha1_unused></version>
-        <version><name>3.0.9</name><sha1_unused>bfbe38a3ffb8b69939ee42f13761a33160276632</sha1_unused></version>
+        <version><name>3.2.18</name></version>
+        <version><name>3.2.17</name></version>
+        <version><name>3.2.16</name></version>
+        <version><name>3.2.15</name></version>
+        <version><name>3.2.14</name></version>
+        <version><name>3.0.9</name></version>
     </other-versions>
 </entry>

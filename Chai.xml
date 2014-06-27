@@ -1,6 +1,5 @@
 <entry>
     <version>1.9.1</version>
-    <sha1_unused>edba3cab9956e571549d80ccd275120acc5bdba2</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Chai.tgz</url>
     <url>http://london.kapeli.com/feeds/Chai.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Chai.tgz</url>
@@ -13,8 +12,8 @@
     <url>http://london3.kapeli.com/feeds/Chai.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Chai.tgz</url>
     <other-versions>
-        <version><name>1.9.1</name><sha1_unused>edba3cab9956e571549d80ccd275120acc5bdba2</sha1_unused></version>
-        <version><name>1.9.0</name><sha1_unused>bde376b3abfc0fc259014fb1ad4337f15186dfb4</sha1_unused></version>
-        <version><name>1.8.1</name><sha1_unused>9139c90e2023cb4a31e210a7e553f06ab10b0f54</sha1_unused></version>
+        <version><name>1.9.1</name></version>
+        <version><name>1.9.0</name></version>
+        <version><name>1.8.1</name></version>
     </other-versions>
 </entry>

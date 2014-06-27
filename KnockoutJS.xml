@@ -1,6 +1,5 @@
 <entry>
     <version>3.1.0</version>
-    <sha1_unused>a7b10b5d0702ba15b4ab00528f5b6101c531cb47</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/KnockoutJS.tgz</url>
     <url>http://london.kapeli.com/feeds/KnockoutJS.tgz</url>
     <url>http://dallas.kapeli.com/feeds/KnockoutJS.tgz</url>
@@ -13,9 +12,9 @@
     <url>http://london3.kapeli.com/feeds/KnockoutJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/KnockoutJS.tgz</url>
     <other-versions>
-        <version><name>3.1.0</name><sha1_unused>a7b10b5d0702ba15b4ab00528f5b6101c531cb47</sha1_unused></version>
-        <version><name>3.0.0</name><sha1_unused>f0247e5e93160f502e4f5e6417f115df2629a3e3</sha1_unused></version>
-        <version><name>2.3.0</name><sha1_unused>97fafbb42c9b85d89b73db8d8cfb92b16b83300a</sha1_unused></version>
-        <version><name>2.2.1</name><sha1_unused>b71698e5643cc7877a643889cae492be0b1b0a3f</sha1_unused></version>
+        <version><name>3.1.0</name></version>
+        <version><name>3.0.0</name></version>
+        <version><name>2.3.0</name></version>
+        <version><name>2.2.1</name></version>
     </other-versions>
 </entry>

@@ -1,6 +1,5 @@
 <entry>
     <version>2.4.1</version>
-    <sha1_unused>01bc9c97c51f4c82a4794c50fb3810420a895af6</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Grails.tgz</url>
     <url>http://london.kapeli.com/feeds/Grails.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Grails.tgz</url>
@@ -13,18 +12,18 @@
     <url>http://london3.kapeli.com/feeds/Grails.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Grails.tgz</url>
     <other-versions>
-        <version><name>2.4.1</name><sha1_unused>01bc9c97c51f4c82a4794c50fb3810420a895af6</sha1_unused></version>
-        <version><name>2.4.0</name><sha1_unused>8aa83632e73dc6f1f49a7fa095cafec7cba0ec92</sha1_unused></version>
-        <version><name>2.3.8</name><sha1_unused>5b0ded7644956025f89b1f167ee6b3abbfd7ccd0</sha1_unused></version>
-        <version><name>2.3.7</name><sha1_unused>b648403339a54fbd48ae3eed22d1a60952d7492f</sha1_unused></version>
-        <version><name>2.3.6</name><sha1_unused>7254eba19388195be383c822e65a4ed141b2467c</sha1_unused></version>
-        <version><name>2.3.5</name><sha1_unused>d4d9f14a98427554da8cd2fc7470029759040538</sha1_unused></version>
-        <version><name>2.3.4</name><sha1_unused>f6dabfbe9909a9b4a47b8c5ce8563020da0a366e</sha1_unused></version>
-        <version><name>2.3.3</name><sha1_unused>6eca026ad4be46cec73bdf1ec5dd712ecd3cb31e</sha1_unused></version>
-        <version><name>2.3.2</name><sha1_unused>81195cc7a4d1ad311613e801d34cf1ee5b0cf0d3</sha1_unused></version>
-        <version><name>2.3.1</name><sha1_unused>849df3e6abdfe486f0b0bd34f9cdbee61154f8bb</sha1_unused></version>
-        <version><name>2.3.0</name><sha1_unused>d5ab9ec8a4aa680b92be2f6defdb3acedd813ede</sha1_unused></version>
-        <version><name>2.2.4</name><sha1_unused>d2bb85117c2730b43f05c730962915e8637c916c</sha1_unused></version>
-        <version><name>2.2.3</name><sha1_unused>4e4c466f277e0f47717bd0bbf20c875ab5d00cfb</sha1_unused></version>
+        <version><name>2.4.1</name></version>
+        <version><name>2.4.0</name></version>
+        <version><name>2.3.8</name></version>
+        <version><name>2.3.7</name></version>
+        <version><name>2.3.6</name></version>
+        <version><name>2.3.5</name></version>
+        <version><name>2.3.4</name></version>
+        <version><name>2.3.3</name></version>
+        <version><name>2.3.2</name></version>
+        <version><name>2.3.1</name></version>
+        <version><name>2.3.0</name></version>
+        <version><name>2.2.4</name></version>
+        <version><name>2.2.3</name></version>
     </other-versions>
 </entry>

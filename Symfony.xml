@@ -1,6 +1,5 @@
 <entry>
     <version>2.5</version>
-    <sha1_unused>8b03649f1ae8ba51fc87b551b80922606157a8b7</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Symfony.tgz</url>
     <url>http://london.kapeli.com/feeds/Symfony.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Symfony.tgz</url>
@@ -13,7 +12,7 @@
     <url>http://london3.kapeli.com/feeds/Symfony.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Symfony.tgz</url>
     <other-versions>
-        <version><name>2.5</name><sha1_unused>8b03649f1ae8ba51fc87b551b80922606157a8b7</sha1_unused></version>
-        <version><name>2.4</name><sha1_unused>002d7a4c3d2470a94c71d471045b979aaeecb4d5</sha1_unused></version>
+        <version><name>2.5</name></version>
+        <version><name>2.4</name></version>
     </other-versions>
 </entry>

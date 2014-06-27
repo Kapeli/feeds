@@ -1,6 +1,5 @@
 <entry>
     <version>3.3.8</version>
-    <sha1_unused>5eec9ee2a33e9b7eec61b70ba18f7a665f3d0bdd</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Sass.tgz</url>
     <url>http://london.kapeli.com/feeds/Sass.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Sass.tgz</url>
@@ -13,20 +12,20 @@
     <url>http://london3.kapeli.com/feeds/Sass.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Sass.tgz</url>
     <other-versions>
-        <version><name>3.3.8</name><sha1_unused>5eec9ee2a33e9b7eec61b70ba18f7a665f3d0bdd</sha1_unused></version>
-        <version><name>3.3.7</name><sha1_unused>ff13ffbc4474494e619215be5edd1576370062c5</sha1_unused></version>
-        <version><name>3.3.6</name><sha1_unused>254df33ec397e9147574285b9cb1bcfdfe9a72b2</sha1_unused></version>
-        <version><name>3.3.4</name><sha1_unused>48da4b2737b3e38a3ad08ca197f74c8b70874ace</sha1_unused></version>
-        <version><name>3.3.3</name><sha1_unused>4291e954a459aac4f7c2fe2aa099f3e5a7cae0e6</sha1_unused></version>
-        <version><name>3.3.2</name><sha1_unused>d85af648ce162eeb4c8545f4658ba6ad1f494c56</sha1_unused></version>
-        <version><name>3.3.1</name><sha1_unused>053c0084cd89329b0fa091ad7b3f8f26862458ba</sha1_unused></version>
-        <version><name>3.3.0</name><sha1_unused>d89a5f8dfb310a24dde2d04a9cae9411b786da70</sha1_unused></version>
-        <version><name>3.2.12</name><sha1_unused>998465227cc91f1053ae031e743f570e0c08932b</sha1_unused></version>
-        <version><name>3.2.11</name><sha1_unused>47e83e3589190a48e9301e410f3484031dfd0fd7</sha1_unused></version>
-        <version><name>3.2.10</name><sha1_unused>5d25fa31bc3a2aaa6d2f5884f318f43eab4a26ac</sha1_unused></version>
-        <version><name>3.2.9</name><sha1_unused>719c5d5c4f1f910111e60777d9b0f48675b5f31d</sha1_unused></version>
-        <version><name>3.2.8</name><sha1_unused>f5c481ee9eab9866307e8dfc161771c492a3b448</sha1_unused></version>
-        <version><name>3.2.7</name><sha1_unused>48bfa99902f43aa04f438477ba4bb766d81e9cd6</sha1_unused></version>
-        <version><name>3.2.5</name><sha1_unused>4258570fe85c0cb1dc82e117f16a7dd68a9f8737</sha1_unused></version>
+        <version><name>3.3.8</name></version>
+        <version><name>3.3.7</name></version>
+        <version><name>3.3.6</name></version>
+        <version><name>3.3.4</name></version>
+        <version><name>3.3.3</name></version>
+        <version><name>3.3.2</name></version>
+        <version><name>3.3.1</name></version>
+        <version><name>3.3.0</name></version>
+        <version><name>3.2.12</name></version>
+        <version><name>3.2.11</name></version>
+        <version><name>3.2.10</name></version>
+        <version><name>3.2.9</name></version>
+        <version><name>3.2.8</name></version>
+        <version><name>3.2.7</name></version>
+        <version><name>3.2.5</name></version>
     </other-versions>
 </entry>

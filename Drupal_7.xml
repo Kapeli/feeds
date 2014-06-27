@@ -1,6 +1,5 @@
 <entry>
     <version>.28</version>
-    <sha1_unused>d8b2b9b852fba486423cbc3bf510cb67462ffdf6</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Drupal_7.tgz</url>
     <url>http://london.kapeli.com/feeds/Drupal_7.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Drupal_7.tgz</url>
@@ -13,13 +12,13 @@
     <url>http://london3.kapeli.com/feeds/Drupal_7.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Drupal_7.tgz</url>
     <other-versions>
-        <version><name>7.28</name><sha1_unused>d8b2b9b852fba486423cbc3bf510cb67462ffdf6</sha1_unused></version>
-        <version><name>7.27</name><sha1_unused>06cfa6214f681cd11a66f28e55f548ccacb9c47a</sha1_unused></version>
-        <version><name>7.26</name><sha1_unused>9edd222b29603ce86295e729355b0de83f2d9066</sha1_unused></version>
-        <version><name>7.25</name><sha1_unused>20c06b5407a67d065d494cc825096727f1afdf38</sha1_unused></version>
-        <version><name>7.24</name><sha1_unused>9a4571315b722ef7e90a4d0e210984099be0c77a</sha1_unused></version>
-        <version><name>7.23</name><sha1_unused>4cfaafff91ad42327fa6441344fd58ad164644cf</sha1_unused></version>
-        <version><name>7.22</name><sha1_unused>259133b7e1e71c438be5faca06739743027b751b</sha1_unused></version>
-        <version><name>7.20</name><sha1_unused>2fdb0fdac8fcf3fef41c2347ef05b4f66fd89287</sha1_unused></version>
+        <version><name>7.28</name></version>
+        <version><name>7.27</name></version>
+        <version><name>7.26</name></version>
+        <version><name>7.25</name></version>
+        <version><name>7.24</name></version>
+        <version><name>7.23</name></version>
+        <version><name>7.22</name></version>
+        <version><name>7.20</name></version>
     </other-versions>
 </entry>

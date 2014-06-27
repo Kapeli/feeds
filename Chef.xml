@@ -1,6 +1,5 @@
 <entry>
     <version>11.12.8</version>
-    <sha1_unused>532a44e957f8d1dce83a1fce8d31ba4da917b961</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Chef.tgz</url>
     <url>http://london.kapeli.com/feeds/Chef.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Chef.tgz</url>
@@ -13,10 +12,10 @@
     <url>http://london3.kapeli.com/feeds/Chef.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Chef.tgz</url>
     <other-versions>
-        <version><name>11.12.8</name><sha1_unused>532a44e957f8d1dce83a1fce8d31ba4da917b961</sha1_unused></version>
-        <version><name>11.12.4</name><sha1_unused>6a3c6efdec931c3b67566729bbc9ee1a94139dc3</sha1_unused></version>
-        <version><name>11.12.2</name><sha1_unused>0ab1b25bcc7da74e5329059acc8dae3a392b5d95</sha1_unused></version>
-        <version><name>11.10</name><sha1_unused>2d8826fcf84a09a6b00283a3e6522047deaca045</sha1_unused></version>
-        <version><name>11.8</name><sha1_unused>c0d8ca7da7ae171ecac7b93e04a78058dcb709b1</sha1_unused></version>
+        <version><name>11.12.8</name></version>
+        <version><name>11.12.4</name></version>
+        <version><name>11.12.2</name></version>
+        <version><name>11.10</name></version>
+        <version><name>11.8</name></version>
     </other-versions>
 </entry>

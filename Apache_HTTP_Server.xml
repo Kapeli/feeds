@@ -1,6 +1,5 @@
 <entry>
     <version>2.4.9</version>
-    <sha1_unused>20f3d9208193d00d50185b942f4ba8416a08f3fa</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
     <url>http://london.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
@@ -13,8 +12,8 @@
     <url>http://london3.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
     <other-versions>
-        <version><name>2.4.9</name><sha1_unused>20f3d9208193d00d50185b942f4ba8416a08f3fa</sha1_unused></version>
-        <version><name>2.2.27</name><sha1_unused>0fa4908724fbc8c7f9c7a19a182291a14de51da4</sha1_unused></version>
-        <version><name>2.0.65</name><sha1_unused>8385d43ed606bd1b980b6c06d11cdcb1f95c12d7</sha1_unused></version>
+        <version><name>2.4.9</name></version>
+        <version><name>2.2.27</name></version>
+        <version><name>2.0.65</name></version>
     </other-versions>
 </entry>

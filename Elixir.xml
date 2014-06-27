@@ -1,6 +1,5 @@
 <entry>
     <version>0.14.1</version>
-    <sha1_unused>1d4c52bfc5352325ed396745ba938d1b24b6b443</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Elixir.tgz</url>
     <url>http://london.kapeli.com/feeds/Elixir.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Elixir.tgz</url>
@@ -13,21 +12,21 @@
     <url>http://london3.kapeli.com/feeds/Elixir.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Elixir.tgz</url>
     <other-versions>
-        <version><name>0.14.1</name><sha1_unused>1d4c52bfc5352325ed396745ba938d1b24b6b443</sha1_unused></version>
-        <version><name>0.14.0</name><sha1_unused>f4bb90c30f165c043480d4cdad31560c7ccc7c72</sha1_unused></version>
-        <version><name>0.13.3</name><sha1_unused>96ae8e6cffad274e637de069cdff20dbd5aa0288</sha1_unused></version>
-        <version><name>0.13.2</name><sha1_unused>d85eece38fe63497e2c94816de3d10dc75159c5c</sha1_unused></version>
-        <version><name>0.13.1</name><sha1_unused>23bef19712e314e66f510fcc39457b58d4cc09ff</sha1_unused></version>
-        <version><name>0.13.0</name><sha1_unused>71da53f17bfb7aaf4680ca1668c90dbfafb43e65</sha1_unused></version>
-        <version><name>0.12.2</name><sha1_unused>2f5fd44aff8d44c44759f645b72be19485b3ef7e</sha1_unused></version>
-        <version><name>0.12.1</name><sha1_unused>44a236322942fe3dddb4f4672e918bd9b41c76aa</sha1_unused></version>
-        <version><name>0.12.0</name><sha1_unused>6cf6693b4260a198a07fcdb1ecc80826afdd14cd</sha1_unused></version>
-        <version><name>0.11.2</name><sha1_unused>972bf90980c4156901b7ee2f52b0875dc7573ac3</sha1_unused></version>
-        <version><name>0.11.1</name><sha1_unused>f12ba3b53b531e044b205b6233d2ec0ffdaeab6c</sha1_unused></version>
-        <version><name>0.11.0</name><sha1_unused>35f3a6c68f6fce6ea9d5a8ea96546dd98a959772</sha1_unused></version>
-        <version><name>0.10.3</name><sha1_unused>004622f6cb277c50f7c461b9128ecfee3347993f</sha1_unused></version>
-        <version><name>0.10.2</name><sha1_unused>bd3349d8ea685b690b436679ae74f17b650dfd3b</sha1_unused></version>
-        <version><name>0.10.1</name><sha1_unused>a6ae94b21a1b8c046a39034cfe98e51ef810049e</sha1_unused></version>
-        <version><name>0.9.3</name><sha1_unused>8269dd827b12a26c8e9db9f9d7fdab90f9901eba</sha1_unused></version>
+        <version><name>0.14.1</name></version>
+        <version><name>0.14.0</name></version>
+        <version><name>0.13.3</name></version>
+        <version><name>0.13.2</name></version>
+        <version><name>0.13.1</name></version>
+        <version><name>0.13.0</name></version>
+        <version><name>0.12.2</name></version>
+        <version><name>0.12.1</name></version>
+        <version><name>0.12.0</name></version>
+        <version><name>0.11.2</name></version>
+        <version><name>0.11.1</name></version>
+        <version><name>0.11.0</name></version>
+        <version><name>0.10.3</name></version>
+        <version><name>0.10.2</name></version>
+        <version><name>0.10.1</name></version>
+        <version><name>0.9.3</name></version>
     </other-versions>
 </entry>

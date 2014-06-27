@@ -1,6 +1,5 @@
 <entry>
     <version>3.1.1</version>
-    <sha1_unused>2fe5a88d342e523dc304f9bd1c7b4ef4cc60d3e2</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Cocos2D-X.tgz</url>
     <url>http://london.kapeli.com/feeds/Cocos2D-X.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Cocos2D-X.tgz</url>
@@ -13,16 +12,16 @@
     <url>http://london3.kapeli.com/feeds/Cocos2D-X.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Cocos2D-X.tgz</url>
     <other-versions>
-        <version><name>3.1.1</name><sha1_unused>2fe5a88d342e523dc304f9bd1c7b4ef4cc60d3e2</sha1_unused></version>
-        <version><name>3.1.0</name><sha1_unused>29dee45e4bd05873dec9c7686a9a188e9f983b53</sha1_unused></version>
-        <version><name>3.0.0</name><sha1_unused>4c948497292ba29a37263db1684bc2c7ac0d51c9</sha1_unused></version>
-        <version><name>2.2.3</name><sha1_unused>7f0f2fb40713a0e8b124a87544f66e533b9e8a9f</sha1_unused></version>
-        <version><name>2.2.2</name><sha1_unused>63bda07b539b4ab93aed02a5c5f8aa6785f990c6</sha1_unused></version>
-        <version><name>2.2.1</name><sha1_unused>1628794c2a81db16e135a2f3cf3f696a2182af8c</sha1_unused></version>
-        <version><name>2.2.0</name><sha1_unused>eb2e2fa9c20b0d3db71ae9f875ee046a190be98d</sha1_unused></version>
-        <version><name>2.1.5</name><sha1_unused>b561fde482674c008b57f29be85c6bacb3ef2097</sha1_unused></version>
-        <version><name>2.1.4</name><sha1_unused>13da416ae92cc235325dd34713afc1b659deda87</sha1_unused></version>
-        <version><name>2.1.1</name><sha1_unused>8325186a64be9bc4e20dd52f6daffdbd4c8fed3f</sha1_unused></version>
-        <version><name>2.0.4</name><sha1_unused>0c5a107d4ff19cea31fcf6a4fd5de00db79e960d</sha1_unused></version>
+        <version><name>3.1.1</name></version>
+        <version><name>3.1.0</name></version>
+        <version><name>3.0.0</name></version>
+        <version><name>2.2.3</name></version>
+        <version><name>2.2.2</name></version>
+        <version><name>2.2.1</name></version>
+        <version><name>2.2.0</name></version>
+        <version><name>2.1.5</name></version>
+        <version><name>2.1.4</name></version>
+        <version><name>2.1.1</name></version>
+        <version><name>2.0.4</name></version>
     </other-versions>
 </entry>

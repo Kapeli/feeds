@@ -1,6 +1,5 @@
 <entry>
     <version>.1.1</version>
-    <sha1_unused>034a6252ad5b3b42c5ef0e860910d0d3052dff0e</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Bootstrap_3.tgz</url>
     <url>http://london.kapeli.com/feeds/Bootstrap_3.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Bootstrap_3.tgz</url>
@@ -13,11 +12,11 @@
     <url>http://london3.kapeli.com/feeds/Bootstrap_3.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Bootstrap_3.tgz</url>
     <other-versions>
-        <version><name>3.1.1</name><sha1_unused>034a6252ad5b3b42c5ef0e860910d0d3052dff0e</sha1_unused></version>
-        <version><name>3.1.0</name><sha1_unused>bc79366eaba34443ed96e9c411ec0a0a9775cb19</sha1_unused></version>
-        <version><name>3.0.3</name><sha1_unused>0dcfafd259cb650e3b7e065df2ba71f841894250</sha1_unused></version>
-        <version><name>3.0.2</name><sha1_unused>dfd12e78665f50ae8fd0ac2e290c731a77df75c6</sha1_unused></version>
-        <version><name>3.0.1</name><sha1_unused>7adc8243dadb4da10f371ad63a995dc41b3b55e2</sha1_unused></version>
-        <version><name>3.0.0</name><sha1_unused>162772b44b72bdf1adf1d0c5d35e6eb4c75a0302</sha1_unused></version>
+        <version><name>3.1.1</name></version>
+        <version><name>3.1.0</name></version>
+        <version><name>3.0.3</name></version>
+        <version><name>3.0.2</name></version>
+        <version><name>3.0.1</name></version>
+        <version><name>3.0.0</name></version>
     </other-versions>
 </entry>

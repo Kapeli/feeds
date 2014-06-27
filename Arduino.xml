@@ -1,6 +1,5 @@
 <entry>
     <version>1.5.6</version>
-    <sha1_unused>6953c13b1907b603ec455731f44bc3f7e27307ed</sha1_unused>
     <url>http://sanfrancisco.kapeli.com/feeds/Arduino.tgz</url>
     <url>http://london.kapeli.com/feeds/Arduino.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Arduino.tgz</url>
@@ -13,10 +12,10 @@
     <url>http://london3.kapeli.com/feeds/Arduino.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Arduino.tgz</url>
     <other-versions>
-        <version><name>1.5.6</name><sha1_unused>6953c13b1907b603ec455731f44bc3f7e27307ed</sha1_unused></version>
-        <version><name>1.5.5</name><sha1_unused>cd3de7e1e30f850dee73406592e22f850b78a756</sha1_unused></version>
-        <version><name>1.5.4</name><sha1_unused>bdb50c5f18e520710e8d43143a53f4ba4e205c43</sha1_unused></version>
-        <version><name>1.5.3</name><sha1_unused>05eb4f32b31b905f77894b31f197d961b04e0a88</sha1_unused></version>
-        <version><name>1.5.0</name><sha1_unused>9495f0b2be07c71652f9373c63eccdd67da52d3e</sha1_unused></version>
+        <version><name>1.5.6</name></version>
+        <version><name>1.5.5</name></version>
+        <version><name>1.5.4</name></version>
+        <version><name>1.5.3</name></version>
+        <version><name>1.5.0</name></version>
     </other-versions>
 </entry>
