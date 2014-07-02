@@ -1,5 +1,5 @@
 <entry>
-    <version>1.1.14</version>
+    <version>1.1.15</version>
     <url>http://sanfrancisco.kapeli.com/feeds/Yii.tgz</url>
     <url>http://london.kapeli.com/feeds/Yii.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Yii.tgz</url>
@@ -12,6 +12,7 @@
     <url>http://london3.kapeli.com/feeds/Yii.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Yii.tgz</url>
     <other-versions>
+        <version><name>1.1.15</name></version>
         <version><name>1.1.14</name></version>
         <version><name>1.1.13</name></version>
     </other-versions>
