@@ -1,5 +1,5 @@
 <entry>
-    <version>0.10/2</version>
+    <version>0.11.0</version>
     <url>http://sanfrancisco.kapeli.com/feeds/Rust.tgz</url>
     <url>http://london.kapeli.com/feeds/Rust.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Rust.tgz</url>
@@ -12,7 +12,8 @@
     <url>http://london3.kapeli.com/feeds/Rust.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Rust.tgz</url>
     <other-versions>
-        <version><name>0.10</name></version>
-        <version><name>0.9</name></version>
+        <version><name>0.11.0</name></version>
+        <version><name>0.10.0</name></version>
+        <version><name>0.9.0</name></version>
     </other-versions>
 </entry>
