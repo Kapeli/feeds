@@ -1,5 +1,5 @@
 <entry>
-    <version>4.0.5</version>
+    <version>4.0.6</version>
     <url>http://sanfrancisco.kapeli.com/feeds/Spring_Framework.tgz</url>
     <url>http://london.kapeli.com/feeds/Spring_Framework.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Spring_Framework.tgz</url>
@@ -12,6 +12,7 @@
     <url>http://london3.kapeli.com/feeds/Spring_Framework.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Spring_Framework.tgz</url>
     <other-versions>
+        <version><name>4.0.6</name></version>
         <version><name>4.0.5</name></version>
         <version><name>4.0.4</name></version>
         <version><name>4.0.3</name></version>
