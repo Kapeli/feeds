@@ -1,5 +1,5 @@
 <entry>
-    <version>.28</version>
+    <version>.29</version>
     <url>http://sanfrancisco.kapeli.com/feeds/Drupal_7.tgz</url>
     <url>http://london.kapeli.com/feeds/Drupal_7.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Drupal_7.tgz</url>
@@ -12,6 +12,7 @@
     <url>http://london3.kapeli.com/feeds/Drupal_7.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Drupal_7.tgz</url>
     <other-versions>
+        <version><name>7.29</name></version>
         <version><name>7.28</name></version>
         <version><name>7.27</name></version>
         <version><name>7.26</name></version>
