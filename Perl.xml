@@ -1,5 +1,5 @@
 <entry>
-    <version>5.18.2</version>
+    <version>5.20.0</version>
     <url>http://sanfrancisco.kapeli.com/feeds/Perl.tgz</url>
     <url>http://london.kapeli.com/feeds/Perl.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Perl.tgz</url>
@@ -12,6 +12,7 @@
     <url>http://london3.kapeli.com/feeds/Perl.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Perl.tgz</url>
     <other-versions>
+        <version><name>5.20.0</name></version>
         <version><name>5.18.2</name></version>
         <version><name>5.18.0</name></version>
     </other-versions>
