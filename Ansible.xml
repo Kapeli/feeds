@@ -1,5 +1,5 @@
 <entry>
-    <version>1.6.6</version>
+    <version>1.6.9</version>
     <url>http://sanfrancisco.kapeli.com/feeds/Ansible.tgz</url>
     <url>http://london.kapeli.com/feeds/Ansible.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Ansible.tgz</url>
@@ -12,6 +12,7 @@
     <url>http://london3.kapeli.com/feeds/Ansible.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Ansible.tgz</url>
     <other-versions>
+        <version><name>1.6.9</name></version>
         <version><name>1.6.6</name></version>
         <version><name>1.6.5</name></version>
         <version><name>1.6.4</name></version>
