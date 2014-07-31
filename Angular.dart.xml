@@ -1,5 +1,5 @@
 <entry>
-    <version>0.12.0</version>
+    <version>0.13.0</version>
     <url>http://sanfrancisco.kapeli.com/feeds/Angular.dart.tgz</url>
     <url>http://london.kapeli.com/feeds/Angular.dart.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Angular.dart.tgz</url>
@@ -12,6 +12,7 @@
     <url>http://london3.kapeli.com/feeds/Angular.dart.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Angular.dart.tgz</url>
     <other-versions>
+        <version><name>0.13.0</name></version>
         <version><name>0.12.0</name></version>
         <version><name>0.11.0</name></version>
     </other-versions>
