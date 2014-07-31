@@ -1,5 +1,5 @@
 <entry>
-    <version>11.14.0</version>
+    <version>11.14.2</version>
     <url>http://sanfrancisco.kapeli.com/feeds/Chef.tgz</url>
     <url>http://london.kapeli.com/feeds/Chef.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Chef.tgz</url>
@@ -12,7 +12,7 @@
     <url>http://london3.kapeli.com/feeds/Chef.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Chef.tgz</url>
     <other-versions>
-        <version><name>11.14.0</name></version>
+        <version><name>11.14.2</name></version>
         <version><name>11.12.8</name></version>
         <version><name>11.12.4</name></version>
         <version><name>11.12.2</name></version>
