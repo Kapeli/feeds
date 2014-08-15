@@ -1,5 +1,5 @@
 <entry>
-    <version>5.0.0</version>
+    <version>5.0</version>
     <url>http://sanfrancisco.kapeli.com/feeds/ExtJS.tgz</url>
     <url>http://london.kapeli.com/feeds/ExtJS.tgz</url>
     <url>http://dallas.kapeli.com/feeds/ExtJS.tgz</url>
@@ -12,9 +12,7 @@
     <url>http://london3.kapeli.com/feeds/ExtJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/ExtJS.tgz</url>
     <other-versions>
-        <version><name>5.0.0</name></version>
-        <version><name>4.2.2</name></version>
-        <version><name>4.2.1</name></version>
-        <version><name>4.2.0</name></version>
+        <version><name>5.0</name></version>
+        <version><name>4.2</name></version>
     </other-versions>
 </entry>
