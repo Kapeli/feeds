@@ -1,5 +1,5 @@
 <entry>
-    <version>3.8.5</version>
+    <version>3.8.6</version>
     <url>http://sanfrancisco.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://london.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://dallas.kapeli.com/feeds/SQLite.tgz</url>
@@ -12,6 +12,7 @@
     <url>http://london3.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://sydney.kapeli.com/feeds/SQLite.tgz</url>
     <other-versions>
+        <version><name>3.8.6</name></version>
         <version><name>3.8.5</name></version>
         <version><name>3.8.4.3</name></version>
         <version><name>3.8.4.2</name></version>
