@@ -1,5 +1,5 @@
 <entry>
-    <version>5.4.0</version>
+    <version>5.4.1</version>
     <url>http://sanfrancisco.kapeli.com/feeds/Foundation.tgz</url>
     <url>http://london.kapeli.com/feeds/Foundation.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Foundation.tgz</url>
@@ -12,6 +12,7 @@
     <url>http://london3.kapeli.com/feeds/Foundation.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Foundation.tgz</url>
     <other-versions>
+        <version><name>5.4.1</name></version>
         <version><name>5.4.0</name></version>
         <version><name>5.3.3</name></version>
         <version><name>5.3.1</name></version>
