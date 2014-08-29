@@ -1,5 +1,5 @@
 <entry>
-    <version>4.01.0</version>
+    <version>4.02.0</version>
     <url>http://sanfrancisco.kapeli.com/feeds/OCaml.tgz</url>
     <url>http://london.kapeli.com/feeds/OCaml.tgz</url>
     <url>http://dallas.kapeli.com/feeds/OCaml.tgz</url>
@@ -12,6 +12,7 @@
     <url>http://london3.kapeli.com/feeds/OCaml.tgz</url>
     <url>http://sydney.kapeli.com/feeds/OCaml.tgz</url>
     <other-versions>
+        <version><name>4.02.0</name></version>
         <version><name>4.01.0</name></version>
     </other-versions>
 </entry>
