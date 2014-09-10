@@ -1,5 +1,5 @@
 <entry>
-    <version>4.8</version>
+    <version>4.9</version>
     <url>http://sanfrancisco.kapeli.com/feeds/Express.tgz</url>
     <url>http://london.kapeli.com/feeds/Express.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Express.tgz</url>
@@ -12,15 +12,7 @@
     <url>http://london3.kapeli.com/feeds/Express.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Express.tgz</url>
     <other-versions>
-        <version><name>4.8</name></version>
-        <version><name>4.7</name></version>
-        <version><name>4.6</name></version>
-        <version><name>4.5</name></version>
-        <version><name>4.4</name></version>
-        <version><name>4.3</name></version>
-        <version><name>4.2</name></version>
-        <version><name>4.1</name></version>
-        <version><name>4.0</name></version>
+        <version><name>4.9</name></version>
         <version><name>3.5</name></version>
         <version><name>3.4</name></version>
     </other-versions>
