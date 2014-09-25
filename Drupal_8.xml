@@ -1,5 +1,5 @@
 <entry>
-    <version>.0-alpha13</version>
+    <version>.0-alpha15</version>
     <url>http://sanfrancisco.kapeli.com/feeds/Drupal_8.tgz</url>
     <url>http://london.kapeli.com/feeds/Drupal_8.tgz</url>
     <url>http://dallas.kapeli.com/feeds/Drupal_8.tgz</url>
@@ -12,6 +12,6 @@
     <url>http://london3.kapeli.com/feeds/Drupal_8.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Drupal_8.tgz</url>
     <other-versions>
-        <version><name>8.0-alpha13</name></version>
+        <version><name>8.0-alpha15</name></version>
     </other-versions>
 </entry>
