@@ -1,4 +1,6 @@
 *.tgz
+*.tgz.tarix
+*.tgz.tarix.source
 latencyTest*txt
 .DS_Store
 zzz
