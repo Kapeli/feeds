@@ -1,5 +1,5 @@
 <entry>
-    <version>R2014b</version>
+    <version>/1</version>
     <url>http://sanfrancisco.kapeli.com/feeds/MATLAB.tgz</url>
     <url>http://london.kapeli.com/feeds/MATLAB.tgz</url>
     <url>http://newyork.kapeli.com/feeds/MATLAB.tgz</url>
@@ -10,7 +10,4 @@
     <url>http://tokyo2.kapeli.com/feeds/MATLAB.tgz</url>
     <url>http://london3.kapeli.com/feeds/MATLAB.tgz</url>
     <url>http://sydney.kapeli.com/feeds/MATLAB.tgz</url>
-    <other-versions>
-        <version><name>R2014b</name></version>
-    </other-versions>
 </entry>
