@@ -1,5 +1,5 @@
 <entry>
-    <version>1.6.0</version>
+    <version>1.7.2</version>
     <url>http://sanfrancisco.kapeli.com/feeds/Dart.tgz</url>
     <url>http://london.kapeli.com/feeds/Dart.tgz</url>
     <url>http://newyork.kapeli.com/feeds/Dart.tgz</url>
@@ -11,6 +11,7 @@
     <url>http://london3.kapeli.com/feeds/Dart.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Dart.tgz</url>
     <other-versions>
+        <version><name>1.7.2</name></version>
         <version><name>1.6.0</name></version>
         <version><name>1.5.3</name></version>
         <version><name>1.5.2</name></version>
