@@ -1,5 +1,5 @@
 <entry>
-    <version>0.9.4</version>
+    <version>1.0.0</version>
     <url>http://sanfrancisco.kapeli.com/feeds/Meteor.tgz</url>
     <url>http://london.kapeli.com/feeds/Meteor.tgz</url>
     <url>http://newyork.kapeli.com/feeds/Meteor.tgz</url>
@@ -11,6 +11,7 @@
     <url>http://london3.kapeli.com/feeds/Meteor.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Meteor.tgz</url>
     <other-versions>
+        <version><name>1.0.0</name></version>
         <version><name>0.9.4</name></version>
         <version><name>0.9.3.1</name></version>
         <version><name>0.9.2.2</name></version>
