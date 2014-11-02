@@ -1,5 +1,5 @@
 <entry>
-    <version>3.1.1</version>
+    <version>3.1.2</version>
     <url>http://sanfrancisco.kapeli.com/feeds/R.tgz</url>
     <url>http://london.kapeli.com/feeds/R.tgz</url>
     <url>http://newyork.kapeli.com/feeds/R.tgz</url>
@@ -11,6 +11,7 @@
     <url>http://london3.kapeli.com/feeds/R.tgz</url>
     <url>http://sydney.kapeli.com/feeds/R.tgz</url>
     <other-versions>
+        <version><name>3.1.2</name></version>
         <version><name>3.1.1</name></version>
         <version><name>3.1.0</name></version>
         <version><name>3.0.3</name></version>
