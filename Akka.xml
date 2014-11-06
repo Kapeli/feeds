@@ -1,5 +1,6 @@
 <entry>
     <version>2.3.6</version>
+    <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Akka.tgz</url>
     <url>http://london.kapeli.com/feeds/Akka.tgz</url>
     <url>http://newyork.kapeli.com/feeds/Akka.tgz</url>

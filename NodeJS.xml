@@ -1,5 +1,6 @@
 <entry>
     <version>0.10.33</version>
+    <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://london.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://newyork.kapeli.com/feeds/NodeJS.tgz</url>

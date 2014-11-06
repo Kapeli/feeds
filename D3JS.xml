@@ -1,5 +1,6 @@
 <entry>
     <version>3.4.13</version>
+    <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/D3JS.tgz</url>
     <url>http://london.kapeli.com/feeds/D3JS.tgz</url>
     <url>http://newyork.kapeli.com/feeds/D3JS.tgz</url>

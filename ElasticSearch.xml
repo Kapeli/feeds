@@ -1,5 +1,6 @@
 <entry>
     <version>1.3.4</version>
+    <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/ElasticSearch.tgz</url>
     <url>http://london.kapeli.com/feeds/ElasticSearch.tgz</url>
     <url>http://newyork.kapeli.com/feeds/ElasticSearch.tgz</url>

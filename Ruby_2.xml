@@ -1,5 +1,6 @@
 <entry>
     <version>.1.4/2</version>
+    <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Ruby_2.tgz</url>
     <url>http://london.kapeli.com/feeds/Ruby_2.tgz</url>
     <url>http://newyork.kapeli.com/feeds/Ruby_2.tgz</url>

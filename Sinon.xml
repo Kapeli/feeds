@@ -1,5 +1,6 @@
 <entry>
     <version>1.11.1</version>
+    <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Sinon.tgz</url>
     <url>http://london.kapeli.com/feeds/Sinon.tgz</url>
     <url>http://newyork.kapeli.com/feeds/Sinon.tgz</url>

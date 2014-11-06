@@ -1,5 +1,6 @@
 <entry>
     <version>3.8.7.1</version>
+    <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://london.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://newyork.kapeli.com/feeds/SQLite.tgz</url>
