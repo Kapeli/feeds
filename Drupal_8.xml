@@ -1,5 +1,5 @@
 <entry>
-    <version>.0.0-beta2</version>
+    <version>.0.0-beta3</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Drupal_8.tgz</url>
     <url>http://london.kapeli.com/feeds/Drupal_8.tgz</url>
@@ -12,6 +12,6 @@
     <url>http://london3.kapeli.com/feeds/Drupal_8.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Drupal_8.tgz</url>
     <other-versions>
-        <version><name>8.0.0-beta2</name></version>
+        <version><name>8.0.0-beta3</name></version>
     </other-versions>
 </entry>
