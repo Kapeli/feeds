@@ -1,5 +1,5 @@
 <entry>
-    <version>2.5</version>
+    <version>2.6</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Symfony.tgz</url>
     <url>http://london.kapeli.com/feeds/Symfony.tgz</url>
@@ -12,6 +12,7 @@
     <url>http://london3.kapeli.com/feeds/Symfony.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Symfony.tgz</url>
     <other-versions>
+        <version><name>2.6</name></version>
         <version><name>2.5</name></version>
         <version><name>2.4</name></version>
     </other-versions>
