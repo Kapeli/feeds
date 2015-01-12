@@ -1,5 +1,5 @@
 <entry>
-    <version>4.1.0</version>
+    <version>4.1.1</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Bourbon.tgz</url>
     <url>http://london.kapeli.com/feeds/Bourbon.tgz</url>
@@ -12,6 +12,7 @@
     <url>http://london3.kapeli.com/feeds/Bourbon.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Bourbon.tgz</url>
     <other-versions>
+        <version><name>4.1.1</name></version>
         <version><name>4.1.0</name></version>
         <version><name>4.0.2</name></version>
     </other-versions>
