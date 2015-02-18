@@ -1,5 +1,5 @@
 <entry>
-    <version>2.1.15</version>
+    <version>2.1.16</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/RequireJS.tgz</url>
     <url>http://london.kapeli.com/feeds/RequireJS.tgz</url>
@@ -12,6 +12,7 @@
     <url>http://london3.kapeli.com/feeds/RequireJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/RequireJS.tgz</url>
     <other-versions>
+        <version><name>2.1.16</name></version>
         <version><name>2.1.15</name></version>
         <version><name>2.1.14</name></version>
         <version><name>2.1.13</name></version>
