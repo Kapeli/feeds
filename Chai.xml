@@ -1,5 +1,5 @@
 <entry>
-    <version>2.1.0</version>
+    <version>2.1.1</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Chai.tgz</url>
     <url>http://london.kapeli.com/feeds/Chai.tgz</url>
@@ -12,6 +12,7 @@
     <url>http://london3.kapeli.com/feeds/Chai.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Chai.tgz</url>
     <other-versions>
+        <version><name>2.1.1</name></version>
         <version><name>2.1.0</name></version>
         <version><name>2.0.0</name></version>
         <version><name>1.10.0</name></version>
