@@ -1,5 +1,5 @@
 <entry>
-    <version>/3</version>
+    <version>1.10.4</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Statamic.tgz</url>
     <url>http://london.kapeli.com/feeds/Statamic.tgz</url>
@@ -11,4 +11,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Statamic.tgz</url>
     <url>http://london3.kapeli.com/feeds/Statamic.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Statamic.tgz</url>
+    <other-versions>
+        <version><name>1.10.4</name></version>
+    </other-versions>
 </entry>
