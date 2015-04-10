@@ -1,5 +1,5 @@
 <entry>
-    <version>8.2</version>
+    <version>8.3</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/iOS.tgz</url>
     <url>http://london.kapeli.com/feeds/iOS.tgz</url>
@@ -12,6 +12,7 @@
     <url>http://london3.kapeli.com/feeds/iOS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/iOS.tgz</url>
     <other-versions>
+        <version><name>8.3</name></version>
         <version><name>8.2</name></version>
     </other-versions>
 </entry>
