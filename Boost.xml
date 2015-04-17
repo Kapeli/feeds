@@ -1,5 +1,5 @@
 <entry>
-    <version>1.57.0/1</version>
+    <version>1.58.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Boost.tgz</url>
     <url>http://london.kapeli.com/feeds/Boost.tgz</url>
@@ -12,6 +12,7 @@
     <url>http://london3.kapeli.com/feeds/Boost.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Boost.tgz</url>
     <other-versions>
+        <version><name>1.58.0</name></version>
         <version><name>1.57.0</name></version>
     </other-versions>
 </entry>
