@@ -1,5 +1,5 @@
 <entry>
-    <version>2014.7.4</version>
+    <version>2014.7.5</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/SaltStack.tgz</url>
     <url>http://london.kapeli.com/feeds/SaltStack.tgz</url>
@@ -12,6 +12,7 @@
     <url>http://london3.kapeli.com/feeds/SaltStack.tgz</url>
     <url>http://sydney.kapeli.com/feeds/SaltStack.tgz</url>
     <other-versions>
+        <version><name>2014.7.5</name></version>
         <version><name>2014.7.4</name></version>
         <version><name>2014.7.2</name></version>
         <version><name>2014.7.1</name></version>
