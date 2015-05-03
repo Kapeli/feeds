@@ -11,6 +11,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Chef.tgz</url>
     <url>http://london3.kapeli.com/feeds/Chef.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Chef.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/Chef.tgz</url>
     <other-versions>
         <version><name>12.3.0</name></version>
         <version><name>12.2.1</name></version>

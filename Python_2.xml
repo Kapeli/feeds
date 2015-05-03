@@ -11,6 +11,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Python_2.tgz</url>
     <url>http://london3.kapeli.com/feeds/Python_2.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Python_2.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/Python_2.tgz</url>
     <other-versions>
         <version><name>2.7.9</name></version>
         <version><name>2.7.8</name></version>

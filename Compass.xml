@@ -11,6 +11,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Compass.tgz</url>
     <url>http://london3.kapeli.com/feeds/Compass.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Compass.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/Compass.tgz</url>
     <other-versions>
         <version><name>1.0.1</name></version>
         <version><name>1.0.0</name></version>

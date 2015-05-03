@@ -11,6 +11,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Symfony.tgz</url>
     <url>http://london3.kapeli.com/feeds/Symfony.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Symfony.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/Symfony.tgz</url>
     <other-versions>
         <version><name>2.6</name></version>
         <version><name>2.5</name></version>

@@ -11,6 +11,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Flask.tgz</url>
     <url>http://london3.kapeli.com/feeds/Flask.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Flask.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/Flask.tgz</url>
     <other-versions>
         <version><name>0.10.1</name></version>
     </other-versions>

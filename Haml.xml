@@ -11,6 +11,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Haml.tgz</url>
     <url>http://london3.kapeli.com/feeds/Haml.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Haml.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/Haml.tgz</url>
     <other-versions>
         <version><name>4.0.6</name></version>
         <version><name>4.0.3</name></version>

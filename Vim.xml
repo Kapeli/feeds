@@ -11,6 +11,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Vim.tgz</url>
     <url>http://london3.kapeli.com/feeds/Vim.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Vim.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/Vim.tgz</url>
     <other-versions>
         <version><name>7.4</name></version>
         <version><name>7.3</name></version>

@@ -11,6 +11,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Cappuccino.tgz</url>
     <url>http://london3.kapeli.com/feeds/Cappuccino.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Cappuccino.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/Cappuccino.tgz</url>
     <other-versions>
         <version><name>0.9.8</name></version>
         <version><name>0.9.7-1</name></version>

@@ -11,6 +11,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Redis.tgz</url>
     <url>http://london3.kapeli.com/feeds/Redis.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Redis.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/Redis.tgz</url>
     <other-versions>
         <version><name>3.0.0</name></version>
         <version><name>2.8.19</name></version>

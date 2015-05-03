@@ -11,6 +11,7 @@
     <url>http://tokyo2.kapeli.com/feeds/PhoneGap.tgz</url>
     <url>http://london3.kapeli.com/feeds/PhoneGap.tgz</url>
     <url>http://sydney.kapeli.com/feeds/PhoneGap.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/PhoneGap.tgz</url>
     <other-versions>
         <version><name>5.0</name></version>
         <version><name>4.2</name></version>

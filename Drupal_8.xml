@@ -11,6 +11,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Drupal_8.tgz</url>
     <url>http://london3.kapeli.com/feeds/Drupal_8.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Drupal_8.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/Drupal_8.tgz</url>
     <other-versions>
         <version><name>8.0.0-beta10</name></version>
     </other-versions>

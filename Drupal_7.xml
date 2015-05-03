@@ -11,6 +11,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Drupal_7.tgz</url>
     <url>http://london3.kapeli.com/feeds/Drupal_7.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Drupal_7.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/Drupal_7.tgz</url>
     <other-versions>
         <version><name>7.36</name></version>
         <version><name>7.35</name></version>

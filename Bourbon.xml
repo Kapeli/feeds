@@ -11,6 +11,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Bourbon.tgz</url>
     <url>http://london3.kapeli.com/feeds/Bourbon.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Bourbon.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/Bourbon.tgz</url>
     <other-versions>
         <version><name>4.2.2</name></version>
         <version><name>4.2.1</name></version>

@@ -11,6 +11,7 @@
     <url>http://tokyo2.kapeli.com/feeds/Groovy.tgz</url>
     <url>http://london3.kapeli.com/feeds/Groovy.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Groovy.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/Groovy.tgz</url>
     <other-versions>
         <version><name>2.4.3</name></version>
         <version><name>2.4.2</name></version>

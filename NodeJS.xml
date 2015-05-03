@@ -11,6 +11,7 @@
     <url>http://tokyo2.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://london3.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/NodeJS.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/NodeJS.tgz</url>
     <other-versions>
         <version><name>0.12.2</name></version>
         <version><name>0.12.1</name></version>
