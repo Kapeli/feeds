@@ -1,5 +1,5 @@
 <entry>
-    <version>1.1.2/4</version>
+    <version>1.2.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/BackboneJS.tgz</url>
     <url>http://london.kapeli.com/feeds/BackboneJS.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://sydney.kapeli.com/feeds/BackboneJS.tgz</url>
     <url>http://singapore.kapeli.com/feeds/BackboneJS.tgz</url>
     <other-versions>
+        <version><name>1.2.0</name></version>
         <version><name>1.1.2</name></version>
         <version><name>0.9.2</name></version>
     </other-versions>
