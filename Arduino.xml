@@ -1,5 +1,5 @@
 <entry>
-    <version>1.5.8</version>
+    <version>1.6.4</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Arduino.tgz</url>
     <url>http://london.kapeli.com/feeds/Arduino.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://sydney.kapeli.com/feeds/Arduino.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Arduino.tgz</url>
     <other-versions>
+        <version><name>1.6.4</name></version>
         <version><name>1.5.8</name></version>
         <version><name>1.5.7</name></version>
         <version><name>1.5.6</name></version>
