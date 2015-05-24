@@ -1,5 +1,5 @@
 <entry>
-    <version>.7.9</version>
+    <version>.7.10</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Python_2.tgz</url>
     <url>http://london.kapeli.com/feeds/Python_2.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://sydney.kapeli.com/feeds/Python_2.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Python_2.tgz</url>
     <other-versions>
+        <version><name>2.7.10</name></version>
         <version><name>2.7.9</name></version>
         <version><name>2.7.8</name></version>
         <version><name>2.7.7</name></version>

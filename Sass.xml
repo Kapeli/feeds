@@ -1,5 +1,5 @@
 <entry>
-    <version>3.4.13</version>
+    <version>3.4.14</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Sass.tgz</url>
     <url>http://london.kapeli.com/feeds/Sass.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://sydney.kapeli.com/feeds/Sass.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Sass.tgz</url>
     <other-versions>
+        <version><name>3.4.14</name></version>
         <version><name>3.4.13</name></version>
         <version><name>3.4.12</name></version>
         <version><name>3.4.10</name></version>
