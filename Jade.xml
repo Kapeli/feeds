@@ -1,5 +1,5 @@
 <entry>
-    <version>1.10</version>
+    <version>1.11</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Jade.tgz</url>
     <url>http://london.kapeli.com/feeds/Jade.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://sydney.kapeli.com/feeds/Jade.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Jade.tgz</url>
     <other-versions>
+        <version><name>1.11</name></version>
         <version><name>1.10</name></version>
         <version><name>1.9</name></version>
         <version><name>1.8</name></version>
