@@ -1,5 +1,5 @@
 <entry>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Rust.tgz</url>
     <url>http://london.kapeli.com/feeds/Rust.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://sydney.kapeli.com/feeds/Rust.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Rust.tgz</url>
     <other-versions>
+        <version><name>1.1.0</name></version>
         <version><name>1.0.0</name></version>
         <version><name>1.0.0-beta</name></version>
         <version><name>1.0.0-alpha.2</name></version>
