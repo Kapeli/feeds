@@ -1,5 +1,5 @@
 <entry>
-    <version>1.6</version>
+    <version>1.7</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Clojure.tgz</url>
     <url>http://london.kapeli.com/feeds/Clojure.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://sydney.kapeli.com/feeds/Clojure.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Clojure.tgz</url>
     <other-versions>
+        <version><name>1.7</name></version>
         <version><name>1.6</name></version>
         <version><name>1.5</name></version>
         <version><name>1.4</name></version>
