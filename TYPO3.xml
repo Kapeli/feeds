@@ -1,5 +1,5 @@
 <entry>
-    <version>6.2/2</version>
+    <version>6.2/3</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/TYPO3.tgz</url>
     <url>http://london.kapeli.com/feeds/TYPO3.tgz</url>
@@ -14,5 +14,10 @@
     <url>http://singapore.kapeli.com/feeds/TYPO3.tgz</url>
     <other-versions>
         <version><name>6.2</name></version>
+        <version><name>6.1</name></version>
+        <version><name>6.0</name></version>
+        <version><name>4.7</name></version>
+        <version><name>4.6</name></version>
+        <version><name>4.5</name></version>
     </other-versions>
 </entry>
