@@ -1,5 +1,5 @@
 <entry>
-    <version>3.0.3</version>
+    <version>3.0.4</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Grails.tgz</url>
     <url>http://london.kapeli.com/feeds/Grails.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://sydney.kapeli.com/feeds/Grails.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Grails.tgz</url>
     <other-versions>
+        <version><name>3.0.4</name></version>
         <version><name>3.0.3</name></version>
         <version><name>3.0.2</name></version>
         <version><name>3.0.1</name></version>
