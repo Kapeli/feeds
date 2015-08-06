@@ -1,5 +1,5 @@
 <entry>
-    <version>3.0.10</version>
+    <version>3.0.11</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/CakePHP.tgz</url>
     <url>http://london.kapeli.com/feeds/CakePHP.tgz</url>
@@ -13,6 +13,7 @@
     <url>http://sydney.kapeli.com/feeds/CakePHP.tgz</url>
     <url>http://singapore.kapeli.com/feeds/CakePHP.tgz</url>
     <other-versions>
+        <version><name>3.0.11</name></version>
         <version><name>3.0.10</name></version>
         <version><name>3.0.9</name></version>
         <version><name>3.0.8</name></version>
