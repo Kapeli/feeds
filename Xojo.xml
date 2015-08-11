@@ -1,5 +1,5 @@
 <entry>
-    <version>2015r2.2</version>
+    <version>2015r2.3</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Xojo.tgz</url>
     <url>http://london.kapeli.com/feeds/Xojo.tgz</url>
@@ -14,6 +14,7 @@
     <url>http://sydney.kapeli.com/feeds/Xojo.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Xojo.tgz</url>
     <other-versions>
+        <version><name>2015r2.3</name></version>
         <version><name>2015r2.2</name></version>
         <version><name>2015r2.1</name></version>
         <version><name>2015r2</name></version>
