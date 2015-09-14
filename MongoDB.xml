@@ -15,21 +15,7 @@
     <url>http://singapore.kapeli.com/feeds/MongoDB.tgz</url>
     <other-versions>
         <version><name>3.0.6</name></version>
-        <version><name>3.0.5</name></version>
-        <version><name>3.0.4</name></version>
-        <version><name>3.0.3</name></version>
-        <version><name>3.0.2</name></version>
-        <version><name>3.0.1</name></version>
-        <version><name>3.0.0</name></version>
         <version><name>2.6.8</name></version>
-        <version><name>2.6.7</name></version>
-        <version><name>2.6.6</name></version>
-        <version><name>2.6.5</name></version>
-        <version><name>2.6.4</name></version>
-        <version><name>2.6.3</name></version>
-        <version><name>2.6.2</name></version>
-        <version><name>2.6.1</name></version>
-        <version><name>2.6.0</name></version>
         <version><name>2.4.10</name></version>
     </other-versions>
 </entry>

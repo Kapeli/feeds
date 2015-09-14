@@ -15,12 +15,6 @@
     <url>http://singapore.kapeli.com/feeds/Scala.tgz</url>
     <other-versions>
         <version><name>2.11.7</name></version>
-        <version><name>2.11.6</name></version>
-        <version><name>2.11.5</name></version>
-        <version><name>2.11.4</name></version>
-        <version><name>2.11.2</name></version>
-        <version><name>2.11.1</name></version>
         <version><name>2.10.3</name></version>
-        <version><name>2.10.0</name></version>
     </other-versions>
 </entry>
