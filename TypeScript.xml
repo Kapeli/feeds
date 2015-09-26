@@ -1,0 +1,19 @@
+<entry>
+    <version>1.6</version>
+    <ios_version>1</ios_version>
+    <url>http://sanfrancisco.kapeli.com/feeds/TypeScript.tgz</url>
+    <url>http://london.kapeli.com/feeds/TypeScript.tgz</url>
+    <url>http://newyork.kapeli.com/feeds/TypeScript.tgz</url>
+    <url>http://london2.kapeli.com/feeds/TypeScript.tgz</url>
+    <url>http://newyork2.kapeli.com/feeds/TypeScript.tgz</url>
+    <url>http://sanfrancisco2.kapeli.com/feeds/TypeScript.tgz</url>
+    <url>http://tokyo.kapeli.com/feeds/TypeScript.tgz</url>
+    <url>http://tokyo2.kapeli.com/feeds/TypeScript.tgz</url>
+    <url>http://frankfurt.kapeli.com/feeds/TypeScript.tgz</url>
+    <url>http://frankfurt2.kapeli.com/feeds/TypeScript.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/TypeScript.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/TypeScript.tgz</url>
+    <other-versions>
+        <version><name>1.6</name></version>
+    </other-versions>
+</entry>
