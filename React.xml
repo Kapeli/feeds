@@ -1,5 +1,5 @@
 <entry>
-    <version>0.13.3</version>
+    <version>0.14.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/React.tgz</url>
     <url>http://london.kapeli.com/feeds/React.tgz</url>
@@ -14,6 +14,7 @@
     <url>http://sydney.kapeli.com/feeds/React.tgz</url>
     <url>http://singapore.kapeli.com/feeds/React.tgz</url>
     <other-versions>
+        <version><name>0.14.0</name></version>
         <version><name>0.13.3</name></version>
     </other-versions>
 </entry>
