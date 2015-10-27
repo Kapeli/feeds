@@ -1,5 +1,5 @@
 <entry>
-    <version>1.9.5</version>
+    <version>1.9.6</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Nginx.tgz</url>
     <url>http://london.kapeli.com/feeds/Nginx.tgz</url>
@@ -14,6 +14,7 @@
     <url>http://sydney.kapeli.com/feeds/Nginx.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Nginx.tgz</url>
     <other-versions>
+        <version><name>1.9.6</name></version>
         <version><name>1.9.5</name></version>
         <version><name>1.9.4</name></version>
         <version><name>1.9.3</name></version>
