@@ -1,5 +1,5 @@
 <entry>
-    <version>.3.5</version>
+    <version>.3.6</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Bootstrap_3.tgz</url>
     <url>http://london.kapeli.com/feeds/Bootstrap_3.tgz</url>
@@ -14,6 +14,7 @@
     <url>http://sydney.kapeli.com/feeds/Bootstrap_3.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Bootstrap_3.tgz</url>
     <other-versions>
+        <version><name>3.3.6</name></version>
         <version><name>3.3.5</name></version>
         <version><name>3.3.4</name></version>
         <version><name>3.3.2</name></version>
