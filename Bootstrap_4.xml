@@ -1,5 +1,5 @@
 <entry>
-    <version>.0.0-alpha1</version>
+    <version>.0.0-alpha2</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Bootstrap_4.tgz</url>
     <url>http://london.kapeli.com/feeds/Bootstrap_4.tgz</url>
@@ -14,6 +14,7 @@
     <url>http://sydney.kapeli.com/feeds/Bootstrap_4.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Bootstrap_4.tgz</url>
     <other-versions>
+        <version><name>4.0.0-alpha2</name></version>
         <version><name>4.0.0-alpha1</name></version>
     </other-versions>
 </entry>
