@@ -1,5 +1,5 @@
 <entry>
-    <version>3.10.1</version>
+    <version>3.10.2</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://london.kapeli.com/feeds/SQLite.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://singapore.kapeli.com/feeds/SQLite.tgz</url>
     <other-versions>
+        <version><name>3.10.2</name></version>
         <version><name>3.10.1</name></version>
         <version><name>3.10.0</name></version>
         <version><name>3.9.2</name></version>
