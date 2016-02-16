@@ -1,5 +1,5 @@
 <entry>
-    <version>11</version>
+    <version>2016</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/ColdFusion.tgz</url>
     <url>http://london.kapeli.com/feeds/ColdFusion.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/ColdFusion.tgz</url>
     <url>http://singapore.kapeli.com/feeds/ColdFusion.tgz</url>
     <other-versions>
+        <version><name>2016</name></version>
         <version><name>11</name></version>
         <version><name>10</name></version>
     </other-versions>
