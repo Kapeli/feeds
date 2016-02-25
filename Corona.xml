@@ -1,5 +1,5 @@
 <entry>
-    <version>2015.2731</version>
+    <version>2016.2830</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Corona.tgz</url>
     <url>http://london.kapeli.com/feeds/Corona.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Corona.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Corona.tgz</url>
     <other-versions>
+        <version><name>2016.2830</name></version>
         <version><name>2015.2731</name></version>
         <version><name>2015.2646</name></version>
         <version><name>2014.2511</name></version>
