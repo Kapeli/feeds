@@ -1,5 +1,5 @@
 <entry>
-    <version>5.2</version>
+    <version>5.3</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/PHPUnit.tgz</url>
     <url>http://london.kapeli.com/feeds/PHPUnit.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/PHPUnit.tgz</url>
     <url>http://singapore.kapeli.com/feeds/PHPUnit.tgz</url>
     <other-versions>
+        <version><name>5.3</name></version>
         <version><name>5.2</name></version>
         <version><name>5.1</name></version>
         <version><name>5.0</name></version>
