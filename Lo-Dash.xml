@@ -1,5 +1,5 @@
 <entry>
-    <version>4.11.0</version>
+    <version>4.11.1</version>
     <ios_version>2</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Lo-Dash.tgz</url>
     <url>http://london.kapeli.com/feeds/Lo-Dash.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Lo-Dash.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Lo-Dash.tgz</url>
     <other-versions>
+        <version><name>4.11.1</name></version>
         <version><name>4.11.0</name></version>
         <version><name>4.10.0</name></version>
         <version><name>4.9.0</name></version>
