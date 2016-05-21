@@ -1,5 +1,5 @@
 <entry>
-    <version>1.12.3 or 2.2.3</version>
+    <version>1.12.4 or 2.2.4</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/jQuery.tgz</url>
     <url>http://london.kapeli.com/feeds/jQuery.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/jQuery.tgz</url>
     <url>http://singapore.kapeli.com/feeds/jQuery.tgz</url>
     <other-versions>
+        <version><name>1.12.4 or 2.2.4</name></version>
         <version><name>1.12.3 or 2.2.3</name></version>
         <version><name>1.12.2 or 2.2.2</name></version>
         <version><name>1.12.1 or 2.2.1</name></version>
