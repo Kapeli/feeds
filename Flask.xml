@@ -1,5 +1,5 @@
 <entry>
-    <version>0.11.0</version>
+    <version>0.11.1</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Flask.tgz</url>
     <url>http://london.kapeli.com/feeds/Flask.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Flask.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Flask.tgz</url>
     <other-versions>
+        <version><name>0.11.1</name></version>
         <version><name>0.11.0</name></version>
         <version><name>0.10.1</name></version>
     </other-versions>
