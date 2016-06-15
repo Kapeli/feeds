@@ -1,5 +1,5 @@
 <entry>
-    <version>2.13.0</version>
+    <version>2.14.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Gradle_User_Guide.tgz</url>
     <url>http://london.kapeli.com/feeds/Gradle_User_Guide.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Gradle_User_Guide.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Gradle_User_Guide.tgz</url>
     <other-versions>
+        <version><name>2.14.0</name></version>
         <version><name>2.13.0</name></version>
         <version><name>2.12.0</name></version>
         <version><name>2.11.0</name></version>
