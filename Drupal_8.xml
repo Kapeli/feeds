@@ -10,18 +10,6 @@
     <url>http://singapore.kapeli.com/feeds/Drupal_8.tgz</url>
     <other-versions>
         <version><name>8.1.9</name></version>
-        <version><name>8.1.8</name></version>
-        <version><name>8.1.7</name></version>
-        <version><name>8.1.6</name></version>
-        <version><name>8.1.5</name></version>
-        <version><name>8.1.3</name></version>
-        <version><name>8.1.2</name></version>
-        <version><name>8.1.1</name></version>
-        <version><name>8.1.0</name></version>
         <version><name>8.0.6</name></version>
-        <version><name>8.0.5</name></version>
-        <version><name>8.0.4</name></version>
-        <version><name>8.0.3</name></version>
-        <version><name>8.0.2</name></version>
     </other-versions>
 </entry>
