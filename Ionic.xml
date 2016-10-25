@@ -1,5 +1,5 @@
 <entry>
-    <version>1.3.1</version>
+    <version>1.3.2</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Ionic.tgz</url>
     <url>http://london.kapeli.com/feeds/Ionic.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Ionic.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Ionic.tgz</url>
     <other-versions>
+        <version><name>1.3.2</name></version>
         <version><name>1.3.1</name></version>
         <version><name>1.3.0</name></version>
         <version><name>1.2.4</name></version>
