@@ -1,5 +1,5 @@
 <entry>
-    <version>0.19.0</version>
+    <version>0.19.1</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Pandas.tgz</url>
     <url>http://london.kapeli.com/feeds/Pandas.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Pandas.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Pandas.tgz</url>
     <other-versions>
+        <version><name>0.19.1</name></version>
         <version><name>0.19.0</name></version>
         <version><name>0.18.1</name></version>
         <version><name>0.18.0</name></version>
