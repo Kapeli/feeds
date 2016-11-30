@@ -1,5 +1,5 @@
 <entry>
-    <version>5.4.3</version>
+    <version>5.5.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Unity_3D.tgz</url>
     <url>http://london.kapeli.com/feeds/Unity_3D.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Unity_3D.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Unity_3D.tgz</url>
     <other-versions>
+        <version><name>5.5.0</name></version>
         <version><name>5.4.3</name></version>
         <version><name>5.4.2</name></version>
         <version><name>5.4.1</name></version>
