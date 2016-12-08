@@ -1,5 +1,5 @@
 <entry>
-    <version>1.20.1</version>
+    <version>1.21.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Dart.tgz</url>
     <url>http://london.kapeli.com/feeds/Dart.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Dart.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Dart.tgz</url>
     <other-versions>
+        <version><name>1.21.0</name></version>
         <version><name>1.20.1</name></version>
         <version><name>1.19.1</name></version>
         <version><name>1.19.0</name></version>
