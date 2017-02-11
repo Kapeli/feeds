@@ -1,5 +1,5 @@
 <entry>
-    <version>1.13.0/2</version>
+    <version>1.13.1</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Docker.tgz</url>
     <url>http://london.kapeli.com/feeds/Docker.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Docker.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Docker.tgz</url>
     <other-versions>
+        <version><name>1.13.1</name></version>
         <version><name>1.13.0</name></version>
         <version><name>1.12.6</name></version>
         <version><name>1.12.5</name></version>
