@@ -1,5 +1,5 @@
 <entry>
-    <version>1.10.6</version>
+    <version>1.11.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Django.tgz</url>
     <url>http://london.kapeli.com/feeds/Django.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Django.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Django.tgz</url>
     <other-versions>
+        <version><name>1.11.0</name></version>
         <version><name>1.10.6</name></version>
         <version><name>1.10.5</name></version>
         <version><name>1.10.4</name></version>
