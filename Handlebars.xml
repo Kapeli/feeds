@@ -1,5 +1,5 @@
 <entry>
-    <version>4.0.8</version>
+    <version>4.0.10</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Handlebars.tgz</url>
     <url>http://london.kapeli.com/feeds/Handlebars.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Handlebars.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Handlebars.tgz</url>
     <other-versions>
+        <version><name>4.0.10</name></version>
         <version><name>4.0.8</name></version>
         <version><name>4.0.7</name></version>
         <version><name>4.0.6</name></version>
