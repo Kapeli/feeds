@@ -1,5 +1,5 @@
 <entry>
-    <version>4.0.7</version>
+    <version>5.0.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Haml.tgz</url>
     <url>http://london.kapeli.com/feeds/Haml.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Haml.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Haml.tgz</url>
     <other-versions>
+        <version><name>5.0.0</name></version>
         <version><name>4.0.7</name></version>
         <version><name>4.0.6</name></version>
         <version><name>4.0.3</name></version>
