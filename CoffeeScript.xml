@@ -1,5 +1,5 @@
 <entry>
-    <version>1.12.6</version>
+    <version>1.12.7</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/CoffeeScript.tgz</url>
     <url>http://london.kapeli.com/feeds/CoffeeScript.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/CoffeeScript.tgz</url>
     <url>http://singapore.kapeli.com/feeds/CoffeeScript.tgz</url>
     <other-versions>
+        <version><name>1.12.7</name></version>
         <version><name>1.12.6</name></version>
         <version><name>1.12.5</name></version>
         <version><name>1.12.4</name></version>
