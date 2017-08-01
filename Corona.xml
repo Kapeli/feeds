@@ -1,5 +1,5 @@
 <entry>
-    <version>2017.3113</version>
+    <version>2017.3115</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Corona.tgz</url>
     <url>http://london.kapeli.com/feeds/Corona.tgz</url>
@@ -9,7 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Corona.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Corona.tgz</url>
     <other-versions>
-        <version><name>2017.3113</name></version>
+        <version><name>2017.3115</name></version>
         <version><name>2017.3111</name></version>
         <version><name>2017.3106</name></version>
         <version><name>2017.3100</name></version>
