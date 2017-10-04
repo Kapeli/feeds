@@ -1,5 +1,5 @@
 <entry>
-    <version>.6.2</version>
+    <version>.6.3</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Python_3.tgz</url>
     <url>http://london.kapeli.com/feeds/Python_3.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Python_3.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Python_3.tgz</url>
     <other-versions>
+        <version><name>3.6.3</name></version>
         <version><name>3.6.2</name></version>
         <version><name>3.6.1</name></version>
         <version><name>3.6.0</name></version>
