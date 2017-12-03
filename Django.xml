@@ -10,6 +10,7 @@
     <url>http://singapore.kapeli.com/feeds/Django.tgz</url>
     <other-versions>
         <version><name>2.0.0</name></version>
+        <version><name>1.11.8</name></version>
         <version><name>1.11.7</name></version>
         <version><name>1.11.6</name></version>
         <version><name>1.11.5</name></version>
