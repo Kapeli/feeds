@@ -10,19 +10,6 @@
     <url>http://singapore.kapeli.com/feeds/Arduino.tgz</url>
     <other-versions>
         <version><name>1.8.5</name></version>
-        <version><name>1.8.4</name></version>
-        <version><name>1.8.3</name></version>
-        <version><name>1.8.2</name></version>
-        <version><name>1.8.1</name></version>
-        <version><name>1.8.0</name></version>
         <version><name>1.6.13</name></version>
-        <version><name>1.6.12</name></version>
-        <version><name>1.6.11</name></version>
-        <version><name>1.6.10</name></version>
-        <version><name>1.6.9</name></version>
-        <version><name>1.6.8</name></version>
-        <version><name>1.6.7</name></version>
-        <version><name>1.6.6</name></version>
-        <version><name>1.6.5</name></version>
     </other-versions>
 </entry>
