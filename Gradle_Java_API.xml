@@ -1,5 +1,5 @@
 <entry>
-    <version>4.4.0</version>
+    <version>4.4.1</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Gradle_Java_API.tgz</url>
     <url>http://london.kapeli.com/feeds/Gradle_Java_API.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Gradle_Java_API.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Gradle_Java_API.tgz</url>
     <other-versions>
+        <version><name>4.4.1</name></version>
         <version><name>4.4.0</name></version>
         <version><name>4.3.1</name></version>
         <version><name>4.3.0</name></version>
