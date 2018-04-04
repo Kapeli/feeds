@@ -1,5 +1,5 @@
 <entry>
-    <version>0.50</version>
+    <version>0.54</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Stylus.tgz</url>
     <url>http://london.kapeli.com/feeds/Stylus.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Stylus.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Stylus.tgz</url>
     <other-versions>
+        <version><name>0.54</name></version>
         <version><name>0.50</name></version>
         <version><name>0.49</name></version>
         <version><name>0.48</name></version>
