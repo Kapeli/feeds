@@ -1,5 +1,5 @@
 <entry>
-    <version>4.06.0</version>
+    <version>4.06</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/OCaml.tgz</url>
     <url>http://london.kapeli.com/feeds/OCaml.tgz</url>
@@ -9,16 +9,11 @@
     <url>http://sydney.kapeli.com/feeds/OCaml.tgz</url>
     <url>http://singapore.kapeli.com/feeds/OCaml.tgz</url>
     <other-versions>
-        <version><name>4.06.0</name></version>
-        <version><name>4.05.0</name></version>
-        <version><name>4.04.2</name></version>
-        <version><name>4.04.1</name></version>
-        <version><name>4.04.0</name></version>
-        <version><name>4.03.0</name></version>
-        <version><name>4.02.3</name></version>
-        <version><name>4.02.2</name></version>
-        <version><name>4.02.1</name></version>
-        <version><name>4.02.0</name></version>
-        <version><name>4.01.0</name></version>
+        <version><name>4.06</name></version>
+        <version><name>4.05</name></version>
+        <version><name>4.04</name></version>
+        <version><name>4.03</name></version>
+        <version><name>4.02</name></version>
+        <version><name>4.01</name></version>
     </other-versions>
 </entry>
