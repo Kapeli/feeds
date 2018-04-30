@@ -1,5 +1,5 @@
 <entry>
-    <version>.58</version>
+    <version>.59</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Drupal_7.tgz</url>
     <url>http://london.kapeli.com/feeds/Drupal_7.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/Drupal_7.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Drupal_7.tgz</url>
     <other-versions>
+        <version><name>7.59</name></version>
         <version><name>7.58</name></version>
         <version><name>7.56</name></version>
         <version><name>7.55</name></version>
