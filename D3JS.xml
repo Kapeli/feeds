@@ -1,5 +1,5 @@
 <entry>
-    <version>5.1.0</version>
+    <version>5.4.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/D3JS.tgz</url>
     <url>http://london.kapeli.com/feeds/D3JS.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://sydney.kapeli.com/feeds/D3JS.tgz</url>
     <url>http://singapore.kapeli.com/feeds/D3JS.tgz</url>
     <other-versions>
+        <version><name>5.4.0</name></version>
         <version><name>5.1.0</name></version>
         <version><name>5.0.0</name></version>
         <version><name>4.12.2</name></version>
