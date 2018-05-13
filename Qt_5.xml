@@ -10,7 +10,6 @@
     <url>http://singapore.kapeli.com/feeds/Qt_5.tgz</url>
     <other-versions>
         <version><name>5.10.1</name></version>
-        <version><name>5.10.0</name></version>
         <version><name>5.9.3</name></version>
         <version><name>5.8.0</name></version>
         <version><name>5.7.1</name></version>
