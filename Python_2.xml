@@ -6,7 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Python_2.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Python_2.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Python_2.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Python_2.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Python_2.tgz</url>
     <other-versions>
         <version><name>2.7.15</name></version>

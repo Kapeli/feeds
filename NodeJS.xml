@@ -6,7 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/NodeJS.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://singapore.kapeli.com/feeds/NodeJS.tgz</url>
     <other-versions>
         <version><name>10.4.0</name></version>

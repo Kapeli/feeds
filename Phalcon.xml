@@ -6,7 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Phalcon.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Phalcon.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Phalcon.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Phalcon.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Phalcon.tgz</url>
     <other-versions>
         <version><name>3.3.2</name></version>

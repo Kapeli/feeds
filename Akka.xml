@@ -6,7 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Akka.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Akka.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Akka.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Akka.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Akka.tgz</url>
     <other-versions>
         <version><name>2.5.11</name></version>

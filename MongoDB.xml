@@ -6,7 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/MongoDB.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/MongoDB.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/MongoDB.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/MongoDB.tgz</url>
     <url>http://singapore.kapeli.com/feeds/MongoDB.tgz</url>
     <other-versions>
         <version><name>3.6.5</name></version>

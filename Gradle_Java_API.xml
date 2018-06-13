@@ -6,7 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Gradle_Java_API.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Gradle_Java_API.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Gradle_Java_API.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Gradle_Java_API.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Gradle_Java_API.tgz</url>
     <other-versions>
         <version><name>4.8.0</name></version>
