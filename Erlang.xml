@@ -1,5 +1,5 @@
 <entry>
-    <version>20.3</version>
+    <version>21.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Erlang.tgz</url>
     <url>http://london.kapeli.com/feeds/Erlang.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Erlang.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Erlang.tgz</url>
     <other-versions>
+        <version><name>21.0</name></version>
         <version><name>20.3</name></version>
         <version><name>20.2</name></version>
         <version><name>20.0</name></version>
