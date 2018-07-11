@@ -1,5 +1,5 @@
 <entry>
-    <version>4.06</version>
+    <version>4.07</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/OCaml.tgz</url>
     <url>http://london.kapeli.com/feeds/OCaml.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/OCaml.tgz</url>
     <url>http://singapore.kapeli.com/feeds/OCaml.tgz</url>
     <other-versions>
+        <version><name>4.07</name></version>
         <version><name>4.06</name></version>
         <version><name>4.05</name></version>
         <version><name>4.04</name></version>
