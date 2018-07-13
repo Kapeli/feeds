@@ -1,5 +1,5 @@
 <entry>
-    <version>6.6</version>
+    <version>6.6 (modern)</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/ExtJS.tgz</url>
     <url>http://london.kapeli.com/feeds/ExtJS.tgz</url>
@@ -8,12 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/ExtJS.tgz</url>
     <url>http://singapore.kapeli.com/feeds/ExtJS.tgz</url>
     <other-versions>
-        <version><name>6.6</name></version>
-        <version><name>6.5</name></version>
-        <version><name>6.2</name></version>
-        <version><name>6.0</name></version>
-        <version><name>5.1</name></version>
-        <version><name>5.0</name></version>
-        <version><name>4.2</name></version>
+        <version><name>6.6 (modern)</name></version>
+        <version><name>6.6 (classic)</name></version>
     </other-versions>
 </entry>
