@@ -1,5 +1,5 @@
 <entry>
-    <version>3.2</version>
+    <version>3.3</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/EmberJS.tgz</url>
     <url>http://london.kapeli.com/feeds/EmberJS.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/EmberJS.tgz</url>
     <url>http://singapore.kapeli.com/feeds/EmberJS.tgz</url>
     <other-versions>
+        <version><name>3.3</name></version>
         <version><name>3.2</name></version>
         <version><name>3.1</name></version>
         <version><name>3.0</name></version>
