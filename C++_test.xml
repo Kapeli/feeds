@@ -1,10 +1,10 @@
 <entry>
-    <version>/54</version>
+    <version>/55</version>
     <ios_version>1</ios_version>
-    <url>http://sanfrancisco.kapeli.com/feeds/C++.tgz</url>
-    <url>http://london.kapeli.com/feeds/C++.tgz</url>
-    <url>http://newyork.kapeli.com/feeds/C++.tgz</url>
-    <url>http://tokyo.kapeli.com/feeds/C++.tgz</url>
-    <url>http://frankfurt.kapeli.com/feeds/C++.tgz</url>
-    <url>http://singapore.kapeli.com/feeds/C++.tgz</url>
+    <url>http://sanfrancisco.kapeli.com/feeds/C++_test.tgz</url>
+    <url>http://london.kapeli.com/feeds/C++_test.tgz</url>
+    <url>http://newyork.kapeli.com/feeds/C++_test.tgz</url>
+    <url>http://tokyo.kapeli.com/feeds/C++_test.tgz</url>
+    <url>http://frankfurt.kapeli.com/feeds/C++_test.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/C++_test.tgz</url>
 </entry>
