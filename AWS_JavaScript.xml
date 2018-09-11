@@ -1,5 +1,5 @@
 <entry>
-    <version>2.310.0</version>
+    <version>2.312.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/AWS_JavaScript.tgz</url>
     <url>http://london.kapeli.com/feeds/AWS_JavaScript.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/AWS_JavaScript.tgz</url>
     <url>http://singapore.kapeli.com/feeds/AWS_JavaScript.tgz</url>
     <other-versions>
+        <version><name>2.312.0</name></version>
         <version><name>2.310.0</name></version>
         <version><name>2.308.0</name></version>
         <version><name>2.307.0</name></version>
