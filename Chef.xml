@@ -1,5 +1,5 @@
 <entry>
-    <version>14.5</version>
+    <version>14.6</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Chef.tgz</url>
     <url>http://london.kapeli.com/feeds/Chef.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Chef.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Chef.tgz</url>
     <other-versions>
+        <version><name>14.6</name></version>
         <version><name>14.5</name></version>
         <version><name>14.4</name></version>
         <version><name>14.3</name></version>
