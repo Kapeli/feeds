@@ -1,5 +1,5 @@
 <entry>
-    <version>5.3.4</version>
+    <version>5.3.7</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Mongoose.tgz</url>
     <url>http://london.kapeli.com/feeds/Mongoose.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Mongoose.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Mongoose.tgz</url>
     <other-versions>
+        <version><name>5.3.7</name></version>
         <version><name>5.3.4</name></version>
         <version><name>5.3.3</name></version>
         <version><name>5.3.2</name></version>
