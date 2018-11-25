@@ -1,5 +1,5 @@
 <entry>
-    <version>6.5.0</version>
+    <version>6.5.1/2</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Foundation.tgz</url>
     <url>http://london.kapeli.com/feeds/Foundation.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Foundation.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Foundation.tgz</url>
     <other-versions>
+        <version><name>6.5.1</name></version>
         <version><name>6.5.0</name></version>
         <version><name>6.4.3</name></version>
         <version><name>6.4.2</name></version>
