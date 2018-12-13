@@ -1,5 +1,5 @@
 <entry>
-    <version>5.6.0</version>
+    <version>5.6.1</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Font_Awesome.tgz</url>
     <url>http://london.kapeli.com/feeds/Font_Awesome.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Font_Awesome.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Font_Awesome.tgz</url>
     <other-versions>
+        <version><name>5.6.1</name></version>
         <version><name>5.6.0</name></version>
         <version><name>5.5.0</name></version>
         <version><name>5.4.2</name></version>

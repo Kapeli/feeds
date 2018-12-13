@@ -1,5 +1,5 @@
 <entry>
-    <version>6.5.2</version>
+    <version>6.5.3</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/ElasticSearch.tgz</url>
     <url>http://london.kapeli.com/feeds/ElasticSearch.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/ElasticSearch.tgz</url>
     <url>http://singapore.kapeli.com/feeds/ElasticSearch.tgz</url>
     <other-versions>
+        <version><name>6.5.3</name></version>
         <version><name>6.5.2</name></version>
         <version><name>6.5.1</name></version>
         <version><name>6.5.0</name></version>
