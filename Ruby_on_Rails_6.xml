@@ -1,0 +1,13 @@
+<entry>
+    <version>.0.0.rc1</version>
+    <ios_version>1</ios_version>
+    <url>http://sanfrancisco.kapeli.com/feeds/Ruby_on_Rails_6.tgz</url>
+    <url>http://london.kapeli.com/feeds/Ruby_on_Rails_6.tgz</url>
+    <url>http://newyork.kapeli.com/feeds/Ruby_on_Rails_6.tgz</url>
+    <url>http://tokyo.kapeli.com/feeds/Ruby_on_Rails_6.tgz</url>
+    <url>http://frankfurt.kapeli.com/feeds/Ruby_on_Rails_6.tgz</url>
+    <url>http://singapore.kapeli.com/feeds/Ruby_on_Rails_6.tgz</url>
+    <other-versions>
+        <version><name>6.0.0.rc1</name></version>
+    </other-versions>
+</entry>
