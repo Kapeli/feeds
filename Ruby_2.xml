@@ -1,5 +1,5 @@
 <entry>
-    <version>.6.3</version>
+    <version>.6.4</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Ruby_2.tgz</url>
     <url>http://london.kapeli.com/feeds/Ruby_2.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Ruby_2.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Ruby_2.tgz</url>
     <other-versions>
+        <version><name>2.6.4</name></version>
         <version><name>2.6.3</name></version>
         <version><name>2.6.2</name></version>
         <version><name>2.6.1</name></version>
