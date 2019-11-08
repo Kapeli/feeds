@@ -1,5 +1,5 @@
 <entry>
-    <version>1.9.2</version>
+    <version>1.9.4</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Elixir.tgz</url>
     <url>http://london.kapeli.com/feeds/Elixir.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Elixir.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Elixir.tgz</url>
     <other-versions>
+        <version><name>1.9.4</name></version>
         <version><name>1.9.2</name></version>
         <version><name>1.9.1</name></version>
         <version><name>1.9.0</name></version>

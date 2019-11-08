@@ -1,5 +1,5 @@
 <entry>
-    <version>.0.0</version>
+    <version>.0.1</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Ruby_on_Rails_6.tgz</url>
     <url>http://london.kapeli.com/feeds/Ruby_on_Rails_6.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Ruby_on_Rails_6.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Ruby_on_Rails_6.tgz</url>
     <other-versions>
+        <version><name>6.0.1</name></version>
         <version><name>6.0.0</name></version>
         <version><name>6.0.0.rc2</name></version>
         <version><name>6.0.0.rc1</name></version>
