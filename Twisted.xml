@@ -1,5 +1,5 @@
 <entry>
-    <version>19.7.0</version>
+    <version>19.10.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Twisted.tgz</url>
     <url>http://london.kapeli.com/feeds/Twisted.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Twisted.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Twisted.tgz</url>
     <other-versions>
+        <version><name>19.10.0</name></version>
         <version><name>19.7.0</name></version>
         <version><name>19.2.1</name></version>
         <version><name>19.2.0</name></version>
