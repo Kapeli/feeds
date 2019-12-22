@@ -1,5 +1,5 @@
 <entry>
-    <version>8.1</version>
+    <version>8.2</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Vim.tgz</url>
     <url>http://london.kapeli.com/feeds/Vim.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Vim.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Vim.tgz</url>
     <other-versions>
+        <version><name>8.2</name></version>
         <version><name>8.1</name></version>
         <version><name>8.0</name></version>
         <version><name>7.4</name></version>
