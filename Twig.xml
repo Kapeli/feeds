@@ -1,5 +1,5 @@
 <entry>
-    <version>3.0.0</version>
+    <version>3.0.1</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Twig.tgz</url>
     <url>http://london.kapeli.com/feeds/Twig.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Twig.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Twig.tgz</url>
     <other-versions>
+        <version><name>3.0.1</name></version>
         <version><name>3.0.0</name></version>
         <version><name>2.12.1</name></version>
         <version><name>2.12.0</name></version>
