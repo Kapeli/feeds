@@ -1,5 +1,5 @@
 <entry>
-    <version>6.1.0</version>
+    <version>6.1.1</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Gradle_User_Guide.tgz</url>
     <url>http://london.kapeli.com/feeds/Gradle_User_Guide.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Gradle_User_Guide.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Gradle_User_Guide.tgz</url>
     <other-versions>
+        <version><name>6.1.1</name></version>
         <version><name>6.1.0</name></version>
         <version><name>6.0.1</name></version>
         <version><name>5.6.4</name></version>
