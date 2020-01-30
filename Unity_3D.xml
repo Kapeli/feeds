@@ -1,5 +1,5 @@
 <entry>
-    <version>2019.2</version>
+    <version>2019.3</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Unity_3D.tgz</url>
     <url>http://london.kapeli.com/feeds/Unity_3D.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Unity_3D.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Unity_3D.tgz</url>
     <other-versions>
+        <version><name>2019.3</name></version>
         <version><name>2019.2</name></version>
         <version><name>2018.3</name></version>
         <version><name>2018.2.19</name></version>
