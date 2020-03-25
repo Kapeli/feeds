@@ -1,5 +1,5 @@
 <entry>
-    <version>5.2.3</version>
+    <version>5.2.5</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Spring_Framework.tgz</url>
     <url>http://london.kapeli.com/feeds/Spring_Framework.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Spring_Framework.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Spring_Framework.tgz</url>
     <other-versions>
+        <version><name>5.2.5</name></version>
         <version><name>5.2.3</name></version>
         <version><name>5.2.1</name></version>
         <version><name>5.1.11</name></version>
