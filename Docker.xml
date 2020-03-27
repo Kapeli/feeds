@@ -9,23 +9,8 @@
     <url>http://singapore.kapeli.com/feeds/Docker.tgz</url>
     <other-versions>
         <version><name>19.03.8</name></version>
-        <version><name>19.03.7</name></version>
-        <version><name>19.03.6</name></version>
-        <version><name>19.03.5</name></version>
-        <version><name>19.03.4</name></version>
-        <version><name>19.03.2</name></version>
-        <version><name>19.03.1</name></version>
-        <version><name>19.03.0</name></version>
         <version><name>18.09.7</name></version>
-        <version><name>18.09.6</name></version>
-        <version><name>18.09.5</name></version>
-        <version><name>18.09.4</name></version>
-        <version><name>18.09.3</name></version>
-        <version><name>18.09.2</name></version>
-        <version><name>18.09.1</name></version>
-        <version><name>18.09.0</name></version>
         <version><name>18.06.1</name></version>
-        <version><name>18.06.0</name></version>
         <version><name>18.05.0</name></version>
         <version><name>18.04.0</name></version>
         <version><name>17.05.0</name></version>
