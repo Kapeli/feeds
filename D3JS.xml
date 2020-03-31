@@ -9,50 +9,7 @@
     <url>http://singapore.kapeli.com/feeds/D3JS.tgz</url>
     <other-versions>
         <version><name>5.15.0</name></version>
-        <version><name>5.14.2</name></version>
-        <version><name>5.12.0</name></version>
-        <version><name>5.11.0</name></version>
-        <version><name>5.10.0</name></version>
-        <version><name>5.9.7</name></version>
-        <version><name>5.9.2</name></version>
-        <version><name>5.9.1</name></version>
-        <version><name>5.9.0</name></version>
-        <version><name>5.8.2</name></version>
-        <version><name>5.8.0</name></version>
-        <version><name>5.7.0</name></version>
-        <version><name>5.6.0</name></version>
-        <version><name>5.5.0</name></version>
-        <version><name>5.4.0</name></version>
-        <version><name>5.1.0</name></version>
-        <version><name>5.0.0</name></version>
         <version><name>4.12.2</name></version>
-        <version><name>4.12.0</name></version>
-        <version><name>4.11.0</name></version>
-        <version><name>4.10.2</name></version>
-        <version><name>4.10.1</name></version>
-        <version><name>4.10.0</name></version>
-        <version><name>4.9.1</name></version>
-        <version><name>4.8.0</name></version>
-        <version><name>4.7.4</name></version>
-        <version><name>4.7.3</name></version>
-        <version><name>4.7.2</name></version>
-        <version><name>4.7.1</name></version>
-        <version><name>4.7.0</name></version>
-        <version><name>4.6.0</name></version>
-        <version><name>4.5.0</name></version>
-        <version><name>4.4.4</name></version>
-        <version><name>4.4.3</name></version>
-        <version><name>4.4.2</name></version>
-        <version><name>4.4.1</name></version>
-        <version><name>4.4.0</name></version>
-        <version><name>4.3.0</name></version>
-        <version><name>4.2.5</name></version>
-        <version><name>4.2.4</name></version>
-        <version><name>4.2.3</name></version>
-        <version><name>4.1.1</name></version>
-        <version><name>4.0.0</name></version>
         <version><name>3.5.17</name></version>
-        <version><name>3.4.13</name></version>
-        <version><name>3.3.11</name></version>
     </other-versions>
 </entry>

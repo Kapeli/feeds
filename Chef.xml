@@ -10,46 +10,5 @@
     <other-versions>
         <version><name>16.0</name></version>
         <version><name>15.7</name></version>
-        <version><name>15.6</name></version>
-        <version><name>15.5</name></version>
-        <version><name>15.4</name></version>
-        <version><name>15.2</name></version>
-        <version><name>15.1</name></version>
-        <version><name>15.0</name></version>
-        <version><name>14.6</name></version>
-        <version><name>14.5</name></version>
-        <version><name>14.4</name></version>
-        <version><name>14.3</name></version>
-        <version><name>14.2</name></version>
-        <version><name>14.1</name></version>
-        <version><name>14.0</name></version>
-        <version><name>13.7</name></version>
-        <version><name>13.6</name></version>
-        <version><name>13.5</name></version>
-        <version><name>13.4</name></version>
-        <version><name>13.3</name></version>
-        <version><name>13.2</name></version>
-        <version><name>13.1</name></version>
-        <version><name>13.0</name></version>
-        <version><name>12.19</name></version>
-        <version><name>12.18</name></version>
-        <version><name>12.17</name></version>
-        <version><name>12.16</name></version>
-        <version><name>12.14</name></version>
-        <version><name>12.13</name></version>
-        <version><name>12.12</name></version>
-        <version><name>12.11</name></version>
-        <version><name>12.10</name></version>
-        <version><name>12.9</name></version>
-        <version><name>12.8</name></version>
-        <version><name>12.7</name></version>
-        <version><name>12.6</name></version>
-        <version><name>12.5</name></version>
-        <version><name>12.4</name></version>
-        <version><name>12.3</name></version>
-        <version><name>12.2</name></version>
-        <version><name>12.1</name></version>
-        <version><name>12.0</name></version>
-        <version><name>11.16</name></version>
     </other-versions>
 </entry>

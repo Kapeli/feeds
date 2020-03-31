@@ -9,50 +9,7 @@
     <url>http://singapore.kapeli.com/feeds/EmberJS.tgz</url>
     <other-versions>
         <version><name>3.17</name></version>
-        <version><name>3.16</name></version>
-        <version><name>3.13</name></version>
-        <version><name>3.12</name></version>
-        <version><name>3.11</name></version>
-        <version><name>3.10</name></version>
-        <version><name>3.9</name></version>
-        <version><name>3.8</name></version>
-        <version><name>3.7</name></version>
-        <version><name>3.6</name></version>
-        <version><name>3.5</name></version>
-        <version><name>3.4</name></version>
-        <version><name>3.3</name></version>
-        <version><name>3.2</name></version>
-        <version><name>3.1</name></version>
-        <version><name>3.0</name></version>
-        <version><name>2.9</name></version>
-        <version><name>2.8</name></version>
-        <version><name>2.7</name></version>
-        <version><name>2.6</name></version>
-        <version><name>2.5</name></version>
-        <version><name>2.4</name></version>
-        <version><name>2.3</name></version>
-        <version><name>2.2</name></version>
         <version><name>2.16</name></version>
-        <version><name>2.15</name></version>
-        <version><name>2.14</name></version>
-        <version><name>2.12</name></version>
-        <version><name>2.11</name></version>
-        <version><name>2.10</name></version>
-        <version><name>2.1</name></version>
-        <version><name>2.0</name></version>
         <version><name>1.9</name></version>
-        <version><name>1.8</name></version>
-        <version><name>1.7</name></version>
-        <version><name>1.6</name></version>
-        <version><name>1.5</name></version>
-        <version><name>1.4</name></version>
-        <version><name>1.3</name></version>
-        <version><name>1.2</name></version>
-        <version><name>1.13</name></version>
-        <version><name>1.12</name></version>
-        <version><name>1.11</name></version>
-        <version><name>1.10</name></version>
-        <version><name>1.1</name></version>
-        <version><name>1.0</name></version>
     </other-versions>
 </entry>

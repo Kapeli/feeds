@@ -9,52 +9,7 @@
     <url>http://singapore.kapeli.com/feeds/MongoDB.tgz</url>
     <other-versions>
         <version><name>4.2.4</name></version>
-        <version><name>4.2.3</name></version>
-        <version><name>4.2.2</name></version>
-        <version><name>4.2.1</name></version>
-        <version><name>4.2.0</name></version>
-        <version><name>4.0.11</name></version>
-        <version><name>4.0.10</name></version>
-        <version><name>4.0.9</name></version>
-        <version><name>4.0.8</name></version>
-        <version><name>4.0.7</name></version>
-        <version><name>4.0.6</name></version>
-        <version><name>4.0.5</name></version>
-        <version><name>4.0.4</name></version>
-        <version><name>4.0.3</name></version>
-        <version><name>4.0.2</name></version>
-        <version><name>4.0.1</name></version>
-        <version><name>4.0.0</name></version>
         <version><name>3.6.5</name></version>
-        <version><name>3.6.4</name></version>
-        <version><name>3.6.3</name></version>
-        <version><name>3.6.2</name></version>
-        <version><name>3.6.1</name></version>
-        <version><name>3.6.0</name></version>
-        <version><name>3.4.10</name></version>
-        <version><name>3.4.9</name></version>
-        <version><name>3.4.7</name></version>
-        <version><name>3.4.6</name></version>
-        <version><name>3.4.5</name></version>
-        <version><name>3.4.4</name></version>
-        <version><name>3.4.3</name></version>
-        <version><name>3.4.2</name></version>
-        <version><name>3.4.1</name></version>
-        <version><name>3.4.0</name></version>
-        <version><name>3.2.11</name></version>
-        <version><name>3.2.10</name></version>
-        <version><name>3.2.9</name></version>
-        <version><name>3.2.8</name></version>
-        <version><name>3.2.7</name></version>
-        <version><name>3.2.6</name></version>
-        <version><name>3.2.5</name></version>
-        <version><name>3.2.4</name></version>
-        <version><name>3.2.3</name></version>
-        <version><name>3.2.1</name></version>
-        <version><name>3.2.0</name></version>
-        <version><name>3.0.7</name></version>
-        <version><name>3.0.6</name></version>
         <version><name>2.6.8</name></version>
-        <version><name>2.4.10</name></version>
     </other-versions>
 </entry>
