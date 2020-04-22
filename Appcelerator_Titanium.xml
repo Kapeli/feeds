@@ -1,5 +1,5 @@
 <entry>
-    <version>9.0.0</version>
+    <version>9.0.1</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
     <url>http://london.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
     <other-versions>
+        <version><name>9.0.1</name></version>
         <version><name>9.0.0</name></version>
         <version><name>8.3.1</name></version>
         <version><name>7.5.1</name></version>
