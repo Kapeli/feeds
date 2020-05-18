@@ -1,5 +1,5 @@
 <entry>
-    <version>6.4.0</version>
+    <version>6.4.1</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Gradle_DSL.tgz</url>
     <url>http://london.kapeli.com/feeds/Gradle_DSL.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Gradle_DSL.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Gradle_DSL.tgz</url>
     <other-versions>
+        <version><name>6.4.1</name></version>
         <version><name>6.4.0</name></version>
         <version><name>6.3.0</name></version>
         <version><name>5.6.4</name></version>
