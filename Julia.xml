@@ -1,5 +1,5 @@
 <entry>
-    <version>1.4.1</version>
+    <version>1.4.2</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Julia.tgz</url>
     <url>http://london.kapeli.com/feeds/Julia.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Julia.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Julia.tgz</url>
     <other-versions>
+        <version><name>1.4.2</name></version>
         <version><name>1.4.1</name></version>
         <version><name>1.4.0</name></version>
         <version><name>1.3.1</name></version>
