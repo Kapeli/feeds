@@ -1,5 +1,5 @@
 <entry>
-    <version>6.0.3</version>
+    <version>6.0.4</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Redis.tgz</url>
     <url>http://london.kapeli.com/feeds/Redis.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Redis.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Redis.tgz</url>
     <other-versions>
+        <version><name>6.0.4</name></version>
         <version><name>6.0.3</name></version>
         <version><name>6.0.1</name></version>
         <version><name>5.0.9</name></version>
