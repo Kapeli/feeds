@@ -1,5 +1,5 @@
 <entry>
-    <version>7.2.0</version>
+    <version>8.0.1</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Mocha.tgz</url>
     <url>http://london.kapeli.com/feeds/Mocha.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Mocha.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Mocha.tgz</url>
     <other-versions>
+        <version><name>8.0.1</name></version>
         <version><name>7.2.0</name></version>
         <version><name>7.1.2</name></version>
         <version><name>7.1.1</name></version>
