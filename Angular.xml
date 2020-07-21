@@ -1,5 +1,5 @@
 <entry>
-    <version>10.0.3</version>
+    <version>10.0.4</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Angular.tgz</url>
     <url>http://london.kapeli.com/feeds/Angular.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Angular.tgz</url>
     <url>http://singapore.kapeli.com/feeds/Angular.tgz</url>
     <other-versions>
+        <version><name>10.0.4</name></version>
         <version><name>10.0.3</name></version>
         <version><name>10.0.2</name></version>
         <version><name>9.1.11</name></version>
