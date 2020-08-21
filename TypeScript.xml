@@ -1,5 +1,5 @@
 <entry>
-    <version>3.9/2</version>
+    <version>4.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/TypeScript.tgz</url>
     <url>http://london.kapeli.com/feeds/TypeScript.tgz</url>
@@ -8,6 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/TypeScript.tgz</url>
     <url>http://singapore.kapeli.com/feeds/TypeScript.tgz</url>
     <other-versions>
+        <version><name>4.0</name></version>
         <version><name>3.9</name></version>
         <version><name>3.8</name></version>
         <version><name>3.7</name></version>
