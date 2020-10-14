@@ -6,7 +6,8 @@
     <url>http://newyork.kapeli.com/feeds/Boost.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Boost.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Boost.tgz</url>
-    <url>http://singapore.kapeli.com/feeds/Boost.tgz</url>
+    <url>http://mumbai.kapeli.com/feeds/Boost.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Boost.tgz</url>
     <other-versions>
         <version><name>1.74.0</name></version>
         <version><name>1.73.0</name></version>

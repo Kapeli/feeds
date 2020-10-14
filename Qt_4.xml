@@ -6,7 +6,8 @@
     <url>http://newyork.kapeli.com/feeds/Qt_4.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Qt_4.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Qt_4.tgz</url>
-    <url>http://singapore.kapeli.com/feeds/Qt_4.tgz</url>
+    <url>http://mumbai.kapeli.com/feeds/Qt_4.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Qt_4.tgz</url>
     <other-versions>
         <version><name>4.8.7</name></version>
         <version><name>4.8.6</name></version>

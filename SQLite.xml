@@ -6,7 +6,8 @@
     <url>http://newyork.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/SQLite.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/SQLite.tgz</url>
-    <url>http://singapore.kapeli.com/feeds/SQLite.tgz</url>
+    <url>http://mumbai.kapeli.com/feeds/SQLite.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/SQLite.tgz</url>
     <other-versions>
         <version><name>3.33.0</name></version>
         <version><name>3.32.3</name></version>

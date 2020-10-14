@@ -6,7 +6,8 @@
     <url>http://newyork.kapeli.com/feeds/Perl.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Perl.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Perl.tgz</url>
-    <url>http://singapore.kapeli.com/feeds/Perl.tgz</url>
+    <url>http://mumbai.kapeli.com/feeds/Perl.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Perl.tgz</url>
     <other-versions>
         <version><name>5.26.1</name></version>
         <version><name>5.26.0</name></version>

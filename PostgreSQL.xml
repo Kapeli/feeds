@@ -6,7 +6,8 @@
     <url>http://newyork.kapeli.com/feeds/PostgreSQL.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/PostgreSQL.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/PostgreSQL.tgz</url>
-    <url>http://singapore.kapeli.com/feeds/PostgreSQL.tgz</url>
+    <url>http://mumbai.kapeli.com/feeds/PostgreSQL.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/PostgreSQL.tgz</url>
     <other-versions>
         <version><name>13.0</name></version>
         <version><name>12.4</name></version>

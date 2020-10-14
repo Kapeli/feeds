@@ -6,7 +6,8 @@
     <url>http://newyork.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
-    <url>http://singapore.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
+    <url>http://mumbai.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
     <other-versions>
         <version><name>2.4.46</name></version>
         <version><name>2.4.43</name></version>

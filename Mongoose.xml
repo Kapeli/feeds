@@ -1,13 +1,15 @@
 <entry>
-    <version>5.10.8</version>
+    <version>5.10.9</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Mongoose.tgz</url>
     <url>http://london.kapeli.com/feeds/Mongoose.tgz</url>
     <url>http://newyork.kapeli.com/feeds/Mongoose.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Mongoose.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Mongoose.tgz</url>
-    <url>http://singapore.kapeli.com/feeds/Mongoose.tgz</url>
+    <url>http://mumbai.kapeli.com/feeds/Mongoose.tgz</url>
+    <url>http://sydney.kapeli.com/feeds/Mongoose.tgz</url>
     <other-versions>
+        <version><name>5.10.9</name></version>
         <version><name>5.10.8</name></version>
         <version><name>5.10.7</name></version>
         <version><name>5.10.6</name></version>
