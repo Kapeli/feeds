@@ -1,5 +1,5 @@
 <entry>
-    <version>15.0.1</version>
+    <version>15.1.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://london.kapeli.com/feeds/NodeJS.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://mumbai.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://sydney.kapeli.com/feeds/NodeJS.tgz</url>
     <other-versions>
+        <version><name>15.1.0</name></version>
         <version><name>15.0.1</name></version>
         <version><name>15.0.0</name></version>
         <version><name>14.14.0</name></version>
