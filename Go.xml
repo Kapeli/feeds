@@ -1,5 +1,5 @@
 <entry>
-    <version>1.15.3</version>
+    <version>1.15.4</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Go.tgz</url>
     <url>http://london.kapeli.com/feeds/Go.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://mumbai.kapeli.com/feeds/Go.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Go.tgz</url>
     <other-versions>
+        <version><name>1.15.4</name></version>
         <version><name>1.15.3</name></version>
         <version><name>1.15.2</name></version>
         <version><name>1.15.0</name></version>
