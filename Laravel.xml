@@ -1,5 +1,5 @@
 <entry>
-    <version>8.4</version>
+    <version>8.5</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Laravel.tgz</url>
     <url>http://london.kapeli.com/feeds/Laravel.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://mumbai.kapeli.com/feeds/Laravel.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Laravel.tgz</url>
     <other-versions>
+        <version><name>8.5</name></version>
         <version><name>8.4</name></version>
         <version><name>8.2</name></version>
         <version><name>8.1</name></version>
