@@ -1,5 +1,5 @@
 <entry>
-    <version>2.6.10</version>
+    <version>2.6.11</version>
     <ios_version>2</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Akka.tgz</url>
     <url>http://london.kapeli.com/feeds/Akka.tgz</url>
@@ -9,7 +9,7 @@
     <url>http://mumbai.kapeli.com/feeds/Akka.tgz</url>
     <url>http://sydney.kapeli.com/feeds/Akka.tgz</url>
     <other-versions>
-        <version><name>2.6.10</name></version>
+        <version><name>2.6.11</name></version>
         <version><name>2.6.4</name></version>
         <version><name>2.5.26</name></version>
     </other-versions>

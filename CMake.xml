@@ -1,5 +1,5 @@
 <entry>
-    <version>3.19.2</version>
+    <version>3.19.3</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/CMake.tgz</url>
     <url>http://london.kapeli.com/feeds/CMake.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://mumbai.kapeli.com/feeds/CMake.tgz</url>
     <url>http://sydney.kapeli.com/feeds/CMake.tgz</url>
     <other-versions>
+        <version><name>3.19.3</name></version>
         <version><name>3.19.2</name></version>
         <version><name>3.19.1</name></version>
         <version><name>3.18.4</name></version>
