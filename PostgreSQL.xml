@@ -1,5 +1,5 @@
 <entry>
-    <version>13.1</version>
+    <version>13.2</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/PostgreSQL.tgz</url>
     <url>http://london.kapeli.com/feeds/PostgreSQL.tgz</url>
@@ -9,6 +9,7 @@
     <url>http://mumbai.kapeli.com/feeds/PostgreSQL.tgz</url>
     <url>http://sydney.kapeli.com/feeds/PostgreSQL.tgz</url>
     <other-versions>
+        <version><name>13.2</name></version>
         <version><name>13.1</name></version>
         <version><name>13.0</name></version>
         <version><name>9.6.6</name></version>
