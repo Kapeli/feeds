@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>3.1.1</version>
     <ios_version>1</ios_version>
@@ -10,14 +11,10 @@
     <url>http://sydney.kapeli.com/feeds/CouchDB.tgz</url>
     <other-versions>
         <version><name>3.1.1</name></version>
-        <version><name>3.1.0</name></version>
         <version><name>3.0.0</name></version>
         <version><name>2.3.1</name></version>
-        <version><name>2.3.0</name></version>
         <version><name>2.2.0</name></version>
         <version><name>2.1.2</name></version>
-        <version><name>2.1.1</name></version>
-        <version><name>2.1.0</name></version>
         <version><name>2.0.0</name></version>
         <version><name>1.6.1</name></version>
     </other-versions>

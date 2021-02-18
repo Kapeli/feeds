@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>.1.2.1</version>
     <ios_version>1</ios_version>
@@ -10,13 +11,6 @@
     <url>http://sydney.kapeli.com/feeds/Ruby_on_Rails_6.tgz</url>
     <other-versions>
         <version><name>6.1.2.1</name></version>
-        <version><name>6.1.1</name></version>
-        <version><name>6.1.0</name></version>
         <version><name>6.0.3</name></version>
-        <version><name>6.0.2</name></version>
-        <version><name>6.0.1</name></version>
-        <version><name>6.0.0</name></version>
-        <version><name>6.0.0.rc2</name></version>
-        <version><name>6.0.0.rc1</name></version>
     </other-versions>
 </entry>

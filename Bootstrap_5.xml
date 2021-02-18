@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>.0.0-beta2</version>
     <ios_version>1</ios_version>
@@ -10,9 +11,5 @@
     <url>http://sydney.kapeli.com/feeds/Bootstrap_5.tgz</url>
     <other-versions>
         <version><name>5.0.0-beta2</name></version>
-        <version><name>5.0.0-beta1</name></version>
-        <version><name>5.0.0-alpha3</name></version>
-        <version><name>5.0.0-alpha2</name></version>
-        <version><name>5.0.0-alpha1</name></version>
     </other-versions>
 </entry>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>1.19.7</version>
     <ios_version>1</ios_version>
@@ -10,105 +11,18 @@
     <url>http://sydney.kapeli.com/feeds/Nginx.tgz</url>
     <other-versions>
         <version><name>1.19.7</name></version>
-        <version><name>1.19.6</name></version>
-        <version><name>1.19.5</name></version>
-        <version><name>1.19.4</name></version>
-        <version><name>1.19.3</name></version>
-        <version><name>1.19.2</name></version>
-        <version><name>1.19.1</name></version>
-        <version><name>1.19.0</name></version>
         <version><name>1.18.0</name></version>
         <version><name>1.17.10</name></version>
-        <version><name>1.17.9</name></version>
-        <version><name>1.17.8</name></version>
-        <version><name>1.17.7</name></version>
-        <version><name>1.17.6</name></version>
-        <version><name>1.17.5</name></version>
-        <version><name>1.17.4</name></version>
-        <version><name>1.17.3</name></version>
-        <version><name>1.17.2</name></version>
-        <version><name>1.17.1</name></version>
-        <version><name>1.17.0</name></version>
         <version><name>1.16.0</name></version>
         <version><name>1.15.12</name></version>
-        <version><name>1.15.11</name></version>
-        <version><name>1.15.10</name></version>
-        <version><name>1.15.9</name></version>
-        <version><name>1.15.8</name></version>
-        <version><name>1.15.7</name></version>
-        <version><name>1.15.6</name></version>
-        <version><name>1.15.5</name></version>
-        <version><name>1.15.4</name></version>
-        <version><name>1.15.3</name></version>
-        <version><name>1.15.2</name></version>
-        <version><name>1.15.1</name></version>
-        <version><name>1.15.0</name></version>
         <version><name>1.14.0</name></version>
         <version><name>1.13.12</name></version>
-        <version><name>1.13.11</name></version>
-        <version><name>1.13.10</name></version>
-        <version><name>1.13.9</name></version>
-        <version><name>1.13.8</name></version>
-        <version><name>1.13.7</name></version>
-        <version><name>1.13.6</name></version>
-        <version><name>1.13.5</name></version>
-        <version><name>1.13.4</name></version>
-        <version><name>1.13.3</name></version>
-        <version><name>1.13.2</name></version>
-        <version><name>1.13.1</name></version>
-        <version><name>1.13.0</name></version>
         <version><name>1.12.0</name></version>
         <version><name>1.11.13</name></version>
-        <version><name>1.11.12</name></version>
-        <version><name>1.11.11</name></version>
-        <version><name>1.11.10</name></version>
-        <version><name>1.11.9</name></version>
-        <version><name>1.11.8</name></version>
-        <version><name>1.11.7</name></version>
-        <version><name>1.11.6</name></version>
-        <version><name>1.11.5</name></version>
-        <version><name>1.11.4</name></version>
-        <version><name>1.11.3</name></version>
-        <version><name>1.11.2</name></version>
-        <version><name>1.11.1</name></version>
-        <version><name>1.11.0</name></version>
         <version><name>1.10.0</name></version>
         <version><name>1.9.15</name></version>
-        <version><name>1.9.14</name></version>
-        <version><name>1.9.13</name></version>
-        <version><name>1.9.12</name></version>
-        <version><name>1.9.11</name></version>
-        <version><name>1.9.10</name></version>
-        <version><name>1.9.9</name></version>
-        <version><name>1.9.8</name></version>
-        <version><name>1.9.7</name></version>
-        <version><name>1.9.6</name></version>
-        <version><name>1.9.5</name></version>
-        <version><name>1.9.4</name></version>
-        <version><name>1.9.3</name></version>
-        <version><name>1.9.2</name></version>
-        <version><name>1.9.1</name></version>
-        <version><name>1.9.0</name></version>
         <version><name>1.8.0</name></version>
         <version><name>1.7.12</name></version>
-        <version><name>1.7.11</name></version>
-        <version><name>1.7.10</name></version>
-        <version><name>1.7.9</name></version>
-        <version><name>1.7.8</name></version>
-        <version><name>1.7.7</name></version>
-        <version><name>1.7.6</name></version>
-        <version><name>1.7.5</name></version>
-        <version><name>1.7.4</name></version>
-        <version><name>1.7.3</name></version>
-        <version><name>1.7.2</name></version>
-        <version><name>1.7.1</name></version>
-        <version><name>1.7.0</name></version>
         <version><name>1.5.13</name></version>
-        <version><name>1.5.12</name></version>
-        <version><name>1.5.11</name></version>
-        <version><name>1.5.10</name></version>
-        <version><name>1.5.9</name></version>
-        <version><name>1.5.8</name></version>
-        <version><name>1.5.7</name></version>
     </other-versions>
 </entry>

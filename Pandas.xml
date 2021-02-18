@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>1.2.2</version>
     <ios_version>1</ios_version>
@@ -10,8 +11,6 @@
     <url>http://sydney.kapeli.com/feeds/Pandas.tgz</url>
     <other-versions>
         <version><name>1.2.2</name></version>
-        <version><name>1.2.1</name></version>
-        <version><name>1.2.0</name></version>
         <version><name>1.1.5</name></version>
         <version><name>1.0.5</name></version>
         <version><name>0.25.3</name></version>

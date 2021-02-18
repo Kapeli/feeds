@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>2.11.3</version>
     <ios_version>1</ios_version>
@@ -10,17 +11,8 @@
     <url>http://sydney.kapeli.com/feeds/Jinja.tgz</url>
     <other-versions>
         <version><name>2.11.3</name></version>
-        <version><name>2.11.2</name></version>
-        <version><name>2.11.1</name></version>
-        <version><name>2.11.0</name></version>
         <version><name>2.10.3</name></version>
-        <version><name>2.10.1</name></version>
-        <version><name>2.10.0</name></version>
         <version><name>2.9.6</name></version>
-        <version><name>2.9.5</name></version>
-        <version><name>2.9.4</name></version>
-        <version><name>2.9.1</name></version>
         <version><name>2.8.1</name></version>
-        <version><name>2.8.0</name></version>
     </other-versions>
 </entry>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>.8.7</version>
     <ios_version>1</ios_version>
@@ -10,6 +11,5 @@
     <url>http://sydney.kapeli.com/feeds/Qt_4.tgz</url>
     <other-versions>
         <version><name>4.8.7</name></version>
-        <version><name>4.8.6</name></version>
     </other-versions>
 </entry>

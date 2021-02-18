@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>4.0.3</version>
     <ios_version>1</ios_version>
@@ -10,28 +11,10 @@
     <url>http://sydney.kapeli.com/feeds/AngularTS.tgz</url>
     <other-versions>
         <version><name>4.0.3</name></version>
-        <version><name>4.0.2</name></version>
-        <version><name>4.0.1</name></version>
-        <version><name>4.0.0</name></version>
         <version><name>2.4.10</name></version>
-        <version><name>2.4.9</name></version>
-        <version><name>2.4.8</name></version>
-        <version><name>2.4.7</name></version>
-        <version><name>2.4.6</name></version>
-        <version><name>2.4.5</name></version>
-        <version><name>2.4.4</name></version>
-        <version><name>2.4.3</name></version>
-        <version><name>2.4.2</name></version>
-        <version><name>2.4.1</name></version>
         <version><name>2.3.1</name></version>
-        <version><name>2.3.0</name></version>
         <version><name>2.2.4</name></version>
-        <version><name>2.2.3</name></version>
-        <version><name>2.2.2</name></version>
-        <version><name>2.2.1</name></version>
-        <version><name>2.2.0</name></version>
         <version><name>2.1.2</name></version>
-        <version><name>2.1.0</name></version>
         <version><name>2.0.0</name></version>
     </other-versions>
 </entry>

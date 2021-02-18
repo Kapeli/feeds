@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>2.0.40</version>
     <ios_version>1</ios_version>
@@ -10,48 +11,6 @@
     <url>http://sydney.kapeli.com/feeds/Yii.tgz</url>
     <other-versions>
         <version><name>2.0.40</name></version>
-        <version><name>2.0.39</name></version>
-        <version><name>2.0.38</name></version>
-        <version><name>2.0.37</name></version>
-        <version><name>2.0.36</name></version>
-        <version><name>2.0.35</name></version>
-        <version><name>2.0.34</name></version>
-        <version><name>2.0.33</name></version>
-        <version><name>2.0.32</name></version>
-        <version><name>2.0.31</name></version>
-        <version><name>2.0.30</name></version>
-        <version><name>2.0.29</name></version>
-        <version><name>2.0.28</name></version>
-        <version><name>2.0.27</name></version>
-        <version><name>2.0.26</name></version>
-        <version><name>2.0.25</name></version>
-        <version><name>2.0.24</name></version>
-        <version><name>2.0.23</name></version>
-        <version><name>2.0.22</name></version>
-        <version><name>2.0.21</name></version>
-        <version><name>2.0.20</name></version>
-        <version><name>2.0.19</name></version>
-        <version><name>2.0.18</name></version>
-        <version><name>2.0.17</name></version>
-        <version><name>2.0.16</name></version>
-        <version><name>2.0.15</name></version>
-        <version><name>2.0.14</name></version>
-        <version><name>2.0.13</name></version>
-        <version><name>2.0.12</name></version>
-        <version><name>2.0.11</name></version>
-        <version><name>2.0.10</name></version>
-        <version><name>2.0.9</name></version>
-        <version><name>2.0.8</name></version>
-        <version><name>2.0.7</name></version>
-        <version><name>2.0.6</name></version>
-        <version><name>2.0.5</name></version>
-        <version><name>2.0.4</name></version>
-        <version><name>2.0.3</name></version>
-        <version><name>2.0.2</name></version>
-        <version><name>2.0.1</name></version>
-        <version><name>2.0.0</name></version>
         <version><name>1.1.15</name></version>
-        <version><name>1.1.14</name></version>
-        <version><name>1.1.13</name></version>
     </other-versions>
 </entry>

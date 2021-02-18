@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>19.03.15</version>
     <ios_version>1</ios_version>
@@ -10,11 +11,6 @@
     <url>http://sydney.kapeli.com/feeds/Docker.tgz</url>
     <other-versions>
         <version><name>19.03.15</name></version>
-        <version><name>19.03.13</name></version>
-        <version><name>19.03.12</name></version>
-        <version><name>19.03.11</name></version>
-        <version><name>19.03.9</name></version>
-        <version><name>19.03.8</name></version>
         <version><name>18.09.7</name></version>
         <version><name>17.05.0</name></version>
         <version><name>1.13.1</name></version>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>2.10.5</version>
     <ios_version>1</ios_version>
@@ -10,19 +11,8 @@
     <url>http://sydney.kapeli.com/feeds/Dart.tgz</url>
     <other-versions>
         <version><name>2.10.5</name></version>
-        <version><name>2.10.4</name></version>
-        <version><name>2.10.3</name></version>
-        <version><name>2.10.2</name></version>
-        <version><name>2.10.1</name></version>
-        <version><name>2.10.0</name></version>
         <version><name>2.9.3</name></version>
-        <version><name>2.9.2</name></version>
-        <version><name>2.9.1</name></version>
-        <version><name>2.9.0</name></version>
         <version><name>2.8.4</name></version>
-        <version><name>2.8.3</name></version>
-        <version><name>2.8.2</name></version>
-        <version><name>2.8.1</name></version>
         <version><name>2.7.2</name></version>
         <version><name>1.24.3</name></version>
     </other-versions>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>4.4.4</version>
     <ios_version>1</ios_version>
@@ -10,15 +11,7 @@
     <url>http://sydney.kapeli.com/feeds/MongoDB.tgz</url>
     <other-versions>
         <version><name>4.4.4</name></version>
-        <version><name>4.4.3</name></version>
-        <version><name>4.4.2</name></version>
-        <version><name>4.4.1</name></version>
-        <version><name>4.4.0</name></version>
         <version><name>4.2.8</name></version>
-        <version><name>4.2.7</name></version>
-        <version><name>4.2.6</name></version>
-        <version><name>4.2.5</name></version>
-        <version><name>4.2.4</name></version>
         <version><name>3.6.5</name></version>
         <version><name>2.6.8</name></version>
     </other-versions>

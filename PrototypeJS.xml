@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>1.7.3</version>
     <ios_version>1</ios_version>
@@ -10,6 +11,5 @@
     <url>http://sydney.kapeli.com/feeds/PrototypeJS.tgz</url>
     <other-versions>
         <version><name>1.7.3</name></version>
-        <version><name>1.7.1</name></version>
     </other-versions>
 </entry>

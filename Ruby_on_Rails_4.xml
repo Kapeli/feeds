@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>.2.11.3</version>
     <ios_version>1</ios_version>
@@ -10,35 +11,7 @@
     <url>http://sydney.kapeli.com/feeds/Ruby_on_Rails_4.tgz</url>
     <other-versions>
         <version><name>4.2.11.3</name></version>
-        <version><name>4.2.11.1</name></version>
-        <version><name>4.2.11</name></version>
-        <version><name>4.2.10</name></version>
-        <version><name>4.2.7.1</name></version>
-        <version><name>4.2.7</name></version>
-        <version><name>4.2.6</name></version>
-        <version><name>4.2.5.2</name></version>
-        <version><name>4.2.5.1</name></version>
-        <version><name>4.2.5</name></version>
-        <version><name>4.2.4</name></version>
-        <version><name>4.2.3</name></version>
-        <version><name>4.2.2</name></version>
-        <version><name>4.2.1</name></version>
-        <version><name>4.2.0</name></version>
         <version><name>4.1.16</name></version>
-        <version><name>4.1.10</name></version>
-        <version><name>4.1.9</name></version>
-        <version><name>4.1.8</name></version>
-        <version><name>4.1.7</name></version>
-        <version><name>4.1.6</name></version>
-        <version><name>4.1.5</name></version>
-        <version><name>4.1.4</name></version>
-        <version><name>4.1.2</name></version>
-        <version><name>4.1.1</name></version>
-        <version><name>4.1.0</name></version>
         <version><name>4.0.4</name></version>
-        <version><name>4.0.3</name></version>
-        <version><name>4.0.2</name></version>
-        <version><name>4.0.1</name></version>
-        <version><name>4.0.0</name></version>
     </other-versions>
 </entry>

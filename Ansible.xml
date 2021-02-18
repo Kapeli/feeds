@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>2.10.5</version>
     <ios_version>1</ios_version>
@@ -10,16 +11,7 @@
     <url>http://sydney.kapeli.com/feeds/Ansible.tgz</url>
     <other-versions>
         <version><name>2.10.5</name></version>
-        <version><name>2.10.3</name></version>
-        <version><name>2.10.2</name></version>
-        <version><name>2.10.1</name></version>
-        <version><name>2.10.0</name></version>
         <version><name>2.9.12</name></version>
-        <version><name>2.9.11</name></version>
-        <version><name>2.9.10</name></version>
-        <version><name>2.9.9</name></version>
-        <version><name>2.9.7</name></version>
-        <version><name>2.9.6</name></version>
         <version><name>1.9.4</name></version>
     </other-versions>
 </entry>

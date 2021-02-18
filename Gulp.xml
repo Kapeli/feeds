@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>4.0.2</version>
     <ios_version>1</ios_version>
@@ -10,9 +11,6 @@
     <url>http://sydney.kapeli.com/feeds/Gulp.tgz</url>
     <other-versions>
         <version><name>4.0.2</name></version>
-        <version><name>4.0.1</name></version>
-        <version><name>4.0.0</name></version>
         <version><name>3.9.1</name></version>
-        <version><name>3.9.0</name></version>
     </other-versions>
 </entry>

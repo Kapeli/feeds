@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>1.0.1</version>
     <ios_version>1</ios_version>
@@ -10,7 +11,6 @@
     <url>http://sydney.kapeli.com/feeds/Compass.tgz</url>
     <other-versions>
         <version><name>1.0.1</name></version>
-        <version><name>1.0.0</name></version>
         <version><name>0.12.2</name></version>
     </other-versions>
 </entry>

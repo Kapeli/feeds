@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>.2.22.5</version>
     <ios_version>1</ios_version>
@@ -10,16 +11,6 @@
     <url>http://sydney.kapeli.com/feeds/Ruby_on_Rails_3.tgz</url>
     <other-versions>
         <version><name>3.2.22.5</name></version>
-        <version><name>3.2.22.1</name></version>
-        <version><name>3.2.22</name></version>
-        <version><name>3.2.21</name></version>
-        <version><name>3.2.20</name></version>
-        <version><name>3.2.19</name></version>
-        <version><name>3.2.18</name></version>
-        <version><name>3.2.17</name></version>
-        <version><name>3.2.16</name></version>
-        <version><name>3.2.15</name></version>
-        <version><name>3.2.14</name></version>
         <version><name>3.0.9</name></version>
     </other-versions>
 </entry>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>8.6.6</version>
     <ios_version>1</ios_version>
@@ -10,7 +11,6 @@
     <url>http://sydney.kapeli.com/feeds/Tcl.tgz</url>
     <other-versions>
         <version><name>8.6.6</name></version>
-        <version><name>8.6.0</name></version>
         <version><name>8.5.13</name></version>
         <version><name>8.4.19</name></version>
     </other-versions>

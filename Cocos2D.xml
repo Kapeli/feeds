@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>3.5.0</version>
     <ios_version>1</ios_version>
@@ -13,7 +14,6 @@
         <version><name>3.4.0</name></version>
         <version><name>3.3.0</name></version>
         <version><name>3.1.2</name></version>
-        <version><name>3.1.1</name></version>
         <version><name>3.0.0</name></version>
         <version><name>2.1.0</name></version>
         <version><name>2.0.0</name></version>

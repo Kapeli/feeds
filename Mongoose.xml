@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>5.11.16</version>
     <ios_version>1</ios_version>
@@ -10,44 +11,8 @@
     <url>http://sydney.kapeli.com/feeds/Mongoose.tgz</url>
     <other-versions>
         <version><name>5.11.16</name></version>
-        <version><name>5.11.14</name></version>
-        <version><name>5.11.13</name></version>
-        <version><name>5.11.9</name></version>
-        <version><name>5.11.8</name></version>
-        <version><name>5.11.6</name></version>
-        <version><name>5.11.3</name></version>
-        <version><name>5.11.0</name></version>
         <version><name>5.10.16</name></version>
-        <version><name>5.10.14</name></version>
-        <version><name>5.10.13</name></version>
-        <version><name>5.10.12</name></version>
-        <version><name>5.10.11</name></version>
-        <version><name>5.10.9</name></version>
-        <version><name>5.10.8</name></version>
-        <version><name>5.10.7</name></version>
-        <version><name>5.10.6</name></version>
-        <version><name>5.10.5</name></version>
-        <version><name>5.10.1</name></version>
-        <version><name>5.10.0</name></version>
         <version><name>5.9.28</name></version>
-        <version><name>5.9.27</name></version>
-        <version><name>5.9.26</name></version>
-        <version><name>5.9.25</name></version>
-        <version><name>5.9.24</name></version>
-        <version><name>5.9.20</name></version>
-        <version><name>5.9.19</name></version>
-        <version><name>5.9.18</name></version>
-        <version><name>5.9.17</name></version>
-        <version><name>5.9.16</name></version>
-        <version><name>5.9.15</name></version>
-        <version><name>5.9.14</name></version>
-        <version><name>5.9.13</name></version>
-        <version><name>5.9.12</name></version>
-        <version><name>5.9.10</name></version>
-        <version><name>5.9.9</name></version>
-        <version><name>5.9.8</name></version>
-        <version><name>5.9.7</name></version>
-        <version><name>5.9.6</name></version>
         <version><name>4.13.7</name></version>
         <version><name>3.8.25</name></version>
     </other-versions>

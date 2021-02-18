@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>1.10.2</version>
     <ios_version>1</ios_version>
@@ -10,7 +11,6 @@
     <url>http://sydney.kapeli.com/feeds/Clojure.tgz</url>
     <other-versions>
         <version><name>1.10.2</name></version>
-        <version><name>1.10.1</name></version>
         <version><name>1.10</name></version>
         <version><name>1.9</name></version>
         <version><name>1.8</name></version>

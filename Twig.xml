@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>3.3.0</version>
     <ios_version>1</ios_version>
@@ -12,32 +13,16 @@
         <version><name>3.3.0</name></version>
         <version><name>3.2.1</name></version>
         <version><name>3.1.1</name></version>
-        <version><name>3.1.0</name></version>
         <version><name>3.0.5</name></version>
-        <version><name>3.0.4</name></version>
-        <version><name>3.0.3</name></version>
-        <version><name>3.0.1</name></version>
-        <version><name>3.0.0</name></version>
         <version><name>2.12.1</name></version>
-        <version><name>2.12.0</name></version>
         <version><name>2.11.3</name></version>
         <version><name>2.9.0</name></version>
         <version><name>2.8.1</name></version>
         <version><name>2.7.4</name></version>
-        <version><name>2.7.2</name></version>
         <version><name>2.6.2</name></version>
-        <version><name>2.6.0</name></version>
         <version><name>2.5.0</name></version>
         <version><name>2.4.8</name></version>
-        <version><name>2.4.7</name></version>
-        <version><name>2.4.6</name></version>
-        <version><name>2.4.4</name></version>
-        <version><name>2.4.3</name></version>
-        <version><name>2.4.1</name></version>
-        <version><name>2.4.0</name></version>
         <version><name>2.3.2</name></version>
-        <version><name>2.3.1</name></version>
-        <version><name>2.3.0</name></version>
         <version><name>2.2.0</name></version>
         <version><name>2.1.0</name></version>
         <version><name>2.0.0</name></version>
@@ -45,26 +30,15 @@
         <version><name>1.28.0</name></version>
         <version><name>1.27.0</name></version>
         <version><name>1.24.1</name></version>
-        <version><name>1.24.0</name></version>
         <version><name>1.23.3</name></version>
-        <version><name>1.23.1</name></version>
-        <version><name>1.23.0</name></version>
         <version><name>1.22.3</name></version>
-        <version><name>1.22.1</name></version>
         <version><name>1.21.1</name></version>
-        <version><name>1.21.0</name></version>
         <version><name>1.20.0</name></version>
         <version><name>1.19.0</name></version>
         <version><name>1.18.2</name></version>
-        <version><name>1.18.1</name></version>
-        <version><name>1.18.0</name></version>
         <version><name>1.17.0</name></version>
         <version><name>1.16.3</name></version>
-        <version><name>1.16.2</name></version>
-        <version><name>1.16.1</name></version>
-        <version><name>1.16.0</name></version>
         <version><name>1.15.1</name></version>
-        <version><name>1.15.0</name></version>
         <version><name>1.14.2</name></version>
     </other-versions>
 </entry>

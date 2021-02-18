@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>4.0.0</version>
     <ios_version>1</ios_version>
@@ -11,33 +12,21 @@
     <other-versions>
         <version><name>4.0.0</name></version>
         <version><name>3.12.2</name></version>
-        <version><name>3.12.0</name></version>
         <version><name>3.11.3</name></version>
-        <version><name>3.11.2</name></version>
-        <version><name>3.11.1</name></version>
         <version><name>3.9.0</name></version>
         <version><name>3.8.1</name></version>
-        <version><name>3.8.0</name></version>
         <version><name>3.7.1</name></version>
         <version><name>3.6.0</name></version>
         <version><name>3.5.3</name></version>
         <version><name>3.0.4</name></version>
-        <version><name>3.0.2</name></version>
-        <version><name>3.0.0</name></version>
         <version><name>2.7.2</name></version>
-        <version><name>2.7.1</name></version>
         <version><name>2.6.1</name></version>
         <version><name>2.5.3</name></version>
-        <version><name>2.5.1</name></version>
-        <version><name>2.5.0</name></version>
         <version><name>2.3.1</name></version>
         <version><name>2.2.0</name></version>
         <version><name>2.1.0</name></version>
         <version><name>2.0.0</name></version>
         <version><name>1.7.5</name></version>
-        <version><name>1.7.4</name></version>
-        <version><name>1.7.0</name></version>
         <version><name>1.6.3</name></version>
-        <version><name>1.6.2</name></version>
     </other-versions>
 </entry>

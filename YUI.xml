@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entry>
     <version>3.18.1</version>
     <ios_version>1</ios_version>
@@ -10,19 +11,14 @@
     <url>http://sydney.kapeli.com/feeds/YUI.tgz</url>
     <other-versions>
         <version><name>3.18.1</name></version>
-        <version><name>3.18.0</name></version>
         <version><name>3.17.2</name></version>
-        <version><name>3.17.1</name></version>
         <version><name>3.16.0</name></version>
         <version><name>3.15.0</name></version>
         <version><name>3.14.1</name></version>
-        <version><name>3.14.0</name></version>
         <version><name>3.13.0</name></version>
         <version><name>3.12.0</name></version>
         <version><name>3.11.0</name></version>
         <version><name>3.10.3</name></version>
-        <version><name>3.10.1</name></version>
-        <version><name>3.10.0</name></version>
         <version><name>3.9.0</name></version>
         <version><name>3.8.1</name></version>
     </other-versions>
