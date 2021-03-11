@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/ZeptoJS.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/ZeptoJS.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/ZeptoJS.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/ZeptoJS.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/ZeptoJS.tgz</url>
     <other-versions>
         <version><name>1.2.0</name></version>
         <version><name>1.1.6</name></version>

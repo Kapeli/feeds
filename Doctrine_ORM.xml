@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Doctrine_ORM.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Doctrine_ORM.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Doctrine_ORM.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/Doctrine_ORM.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Doctrine_ORM.tgz</url>
     <other-versions>
         <version><name>2.6.2</name></version>
         <version><name>2.5.14</name></version>

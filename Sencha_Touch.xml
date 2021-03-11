@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Sencha_Touch.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Sencha_Touch.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Sencha_Touch.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/Sencha_Touch.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Sencha_Touch.tgz</url>
     <other-versions>
         <version><name>2.4</name></version>
         <version><name>2.3</name></version>

@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Jekyll.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Jekyll.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Jekyll.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/Jekyll.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Jekyll.tgz</url>
     <other-versions>
         <version><name>4.2.0</name></version>
         <version><name>4.1.1</name></version>

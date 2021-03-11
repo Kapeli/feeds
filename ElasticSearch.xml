@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/ElasticSearch.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/ElasticSearch.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/ElasticSearch.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/ElasticSearch.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/ElasticSearch.tgz</url>
     <other-versions>
         <version><name>7.11.1</name></version>
         <version><name>7.11.0</name></version>

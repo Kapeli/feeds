@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Twisted.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Twisted.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Twisted.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/Twisted.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Twisted.tgz</url>
     <other-versions>
         <version><name>20.3.0</name></version>
         <version><name>19.10.0</name></version>

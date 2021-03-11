@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Grails.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Grails.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Grails.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/Grails.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Grails.tgz</url>
     <other-versions>
         <version><name>4.0.6</name></version>
         <version><name>3.3.10</name></version>

@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/PHPUnit.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/PHPUnit.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/PHPUnit.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/PHPUnit.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/PHPUnit.tgz</url>
     <other-versions>
         <version><name>7.1</name></version>
         <version><name>6.5</name></version>

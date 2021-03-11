@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Corona.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Corona.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Corona.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/Corona.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Corona.tgz</url>
     <other-versions>
         <version><name>2019.3525</name></version>
         <version><name>2019.3490</name></version>

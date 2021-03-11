@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Jasmine.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Jasmine.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Jasmine.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/Jasmine.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Jasmine.tgz</url>
     <other-versions>
         <version><name>3.6.0</name></version>
         <version><name>3.5.0</name></version>

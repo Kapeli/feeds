@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/MarionetteJS.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/MarionetteJS.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/MarionetteJS.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/MarionetteJS.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/MarionetteJS.tgz</url>
     <other-versions>
         <version><name>4.1.2</name></version>
         <version><name>4.0.0</name></version>

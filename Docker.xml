@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Docker.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Docker.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Docker.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/Docker.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Docker.tgz</url>
     <other-versions>
         <version><name>19.03.15</name></version>
         <version><name>18.09.7</name></version>

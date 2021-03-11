@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Angular.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Angular.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Angular.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/Angular.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Angular.tgz</url>
     <other-versions>
         <version><name>11.2.4</name></version>
         <version><name>11.2.3</name></version>

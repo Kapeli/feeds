@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Appcelerator_Titanium.tgz</url>
     <other-versions>
         <version><name>9.1.0</name></version>
         <version><name>9.0.3</name></version>

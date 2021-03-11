@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/NumPy.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/NumPy.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/NumPy.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/NumPy.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/NumPy.tgz</url>
     <other-versions>
         <version><name>1.20.0</name></version>
         <version><name>1.19.0</name></version>

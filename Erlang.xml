@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Erlang.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Erlang.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Erlang.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/Erlang.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Erlang.tgz</url>
     <other-versions>
         <version><name>23.2</name></version>
         <version><name>23.1</name></version>

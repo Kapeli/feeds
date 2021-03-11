@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Julia.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Julia.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Julia.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/Julia.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Julia.tgz</url>
     <other-versions>
         <version><name>1.5.3</name></version>
         <version><name>1.4.2</name></version>

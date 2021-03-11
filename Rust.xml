@@ -6,8 +6,6 @@
     <url>http://newyork.kapeli.com/feeds/Rust.tgz</url>
     <url>http://tokyo.kapeli.com/feeds/Rust.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Rust.tgz</url>
-    <url>http://mumbai.kapeli.com/feeds/Rust.tgz</url>
-    <url>http://sydney.kapeli.com/feeds/Rust.tgz</url>
     <other-versions>
         <version><name>1.50.0</name></version>
         <version><name>1.49.0</name></version>
