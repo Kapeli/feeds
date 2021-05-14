@@ -12,6 +12,8 @@
         <version><name>13.1</name></version>
         <version><name>13.0</name></version>
         <version><name>12.7</name></version>
+        <version><name>11.12</name></version>
+        <version><name>10.17</name></version>
         <version><name>9.6.6</name></version>
         <version><name>9.5.4</name></version>
         <version><name>9.4.5</name></version>
