@@ -1,5 +1,5 @@
 <entry>
-    <version>10.0.1</version>
+    <version>11.0.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Sinon.tgz</url>
     <url>http://london.kapeli.com/feeds/Sinon.tgz</url>
@@ -7,6 +7,7 @@
     <url>http://tokyo.kapeli.com/feeds/Sinon.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Sinon.tgz</url>
     <other-versions>
+        <version><name>11.0.0</name></version>
         <version><name>10.0.1</name></version>
         <version><name>10.0.0</name></version>
         <version><name>9.2.4</name></version>
