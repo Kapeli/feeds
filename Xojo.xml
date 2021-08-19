@@ -1,5 +1,5 @@
 <entry>
-    <version>2021r2</version>
+    <version>2021r2.1</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Xojo.tgz</url>
     <url>http://london.kapeli.com/feeds/Xojo.tgz</url>
@@ -7,6 +7,7 @@
     <url>http://tokyo.kapeli.com/feeds/Xojo.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Xojo.tgz</url>
     <other-versions>
+        <version><name>2021r2.1</name></version>
         <version><name>2021r2</name></version>
         <version><name>2021r1.1</name></version>
         <version><name>2021r1</name></version>
