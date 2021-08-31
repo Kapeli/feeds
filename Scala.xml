@@ -8,8 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/Scala.tgz</url>
     <other-versions>
         <version><name>2.13.6</name></version>
-        <version><name>2.13.5</name></version>
-        <version><name>2.13.4</name></version>
         <version><name>2.12.8</name></version>
         <version><name>2.11.8</name></version>
         <version><name>2.10.3</name></version>

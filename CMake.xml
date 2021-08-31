@@ -8,13 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/CMake.tgz</url>
     <other-versions>
         <version><name>3.21.1</name></version>
-        <version><name>3.21.0</name></version>
         <version><name>3.20.5</name></version>
-        <version><name>3.20.4</name></version>
-        <version><name>3.20.3</name></version>
-        <version><name>3.20.2</name></version>
-        <version><name>3.20.1</name></version>
-        <version><name>3.20.0</name></version>
         <version><name>3.19.5</name></version>
         <version><name>3.18.4</name></version>
         <version><name>3.17.3</name></version>

@@ -8,7 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/Ruby_on_Rails_5.tgz</url>
     <other-versions>
         <version><name>5.2.5</name></version>
-        <version><name>5.2.4</name></version>
         <version><name>5.1.6</name></version>
         <version><name>5.0.2</name></version>
     </other-versions>
