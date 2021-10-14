@@ -8,8 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/Ansible.tgz</url>
     <other-versions>
         <version><name>2.11.6</name></version>
-        <version><name>2.11.5</name></version>
-        <version><name>2.11.4</name></version>
         <version><name>2.10.8</name></version>
         <version><name>2.9.12</name></version>
         <version><name>1.9.4</name></version>
