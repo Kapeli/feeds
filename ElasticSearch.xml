@@ -8,7 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/ElasticSearch.tgz</url>
     <other-versions>
         <version><name>7.15.1</name></version>
-        <version><name>7.15.0</name></version>
         <version><name>7.14.1</name></version>
         <version><name>7.13.4</name></version>
         <version><name>7.12.1</name></version>
