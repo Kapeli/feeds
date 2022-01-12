@@ -8,9 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Django.tgz</url>
     <other-versions>
         <version><name>4.0.1</name></version>
-        <version><name>4.0.0</name></version>
         <version><name>3.2.10</name></version>
-        <version><name>3.2.8</name></version>
         <version><name>3.1.8</name></version>
         <version><name>3.0.9</name></version>
         <version><name>2.2.7</name></version>
