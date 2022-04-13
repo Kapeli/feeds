@@ -1,5 +1,5 @@
 <entry>
-    <version>.2.22.5</version>
+    <version>.2.22</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Ruby_on_Rails_3.tgz</url>
     <url>http://london.kapeli.com/feeds/Ruby_on_Rails_3.tgz</url>
@@ -7,7 +7,7 @@
     <url>http://tokyo.kapeli.com/feeds/Ruby_on_Rails_3.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Ruby_on_Rails_3.tgz</url>
     <other-versions>
-        <version><name>3.2.22.5</name></version>
+        <version><name>3.2.22</name></version>
         <version><name>3.0.9</name></version>
     </other-versions>
 </entry>
