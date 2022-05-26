@@ -1,5 +1,5 @@
 <entry>
-    <version>3.2.33</version>
+    <version>3.2.36</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/VueJS.tgz</url>
     <url>http://london.kapeli.com/feeds/VueJS.tgz</url>
@@ -7,6 +7,7 @@
     <url>http://tokyo.kapeli.com/feeds/VueJS.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/VueJS.tgz</url>
     <other-versions>
+        <version><name>3.2.36</name></version>
         <version><name>3.2.33</name></version>
         <version><name>3.2.32</name></version>
         <version><name>3.2.31</name></version>
