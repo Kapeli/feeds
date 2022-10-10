@@ -1,5 +1,5 @@
 <entry>
-    <version>2.4.2</version>
+    <version>2.5.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Semantic_UI.tgz</url>
     <url>http://london.kapeli.com/feeds/Semantic_UI.tgz</url>
@@ -7,6 +7,7 @@
     <url>http://tokyo.kapeli.com/feeds/Semantic_UI.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Semantic_UI.tgz</url>
     <other-versions>
+        <version><name>2.5.0</name></version>
         <version><name>2.4.2</name></version>
         <version><name>2.3.3</name></version>
         <version><name>2.2.14</name></version>
