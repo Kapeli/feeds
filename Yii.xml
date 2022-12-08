@@ -1,5 +1,5 @@
 <entry>
-    <version>2.0.46</version>
+    <version>2.0.47</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Yii.tgz</url>
     <url>http://london.kapeli.com/feeds/Yii.tgz</url>
@@ -7,6 +7,7 @@
     <url>http://tokyo.kapeli.com/feeds/Yii.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Yii.tgz</url>
     <other-versions>
+        <version><name>2.0.47</name></version>
         <version><name>2.0.46</name></version>
         <version><name>2.0.45</name></version>
         <version><name>1.1.15</name></version>
