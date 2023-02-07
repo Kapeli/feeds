@@ -1,5 +1,5 @@
 <entry>
-    <version>2.8.18</version>
+    <version>2.8.19</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Play_Scala.tgz</url>
     <url>http://london.kapeli.com/feeds/Play_Scala.tgz</url>
@@ -7,6 +7,7 @@
     <url>http://tokyo.kapeli.com/feeds/Play_Scala.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Play_Scala.tgz</url>
     <other-versions>
+        <version><name>2.8.19</name></version>
         <version><name>2.8.18</name></version>
         <version><name>2.8.17</name></version>
         <version><name>2.8.16</name></version>
