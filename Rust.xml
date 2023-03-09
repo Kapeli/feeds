@@ -8,13 +8,11 @@
     <url>http://frankfurt.kapeli.com/feeds/Rust.tgz</url>
     <other-versions>
         <version><name>1.67.1</name></version>
-        <version><name>1.67.0</name></version>
         <version><name>1.66.1</name></version>
         <version><name>1.65.0</name></version>
         <version><name>1.64.0</name></version>
         <version><name>1.63.0</name></version>
         <version><name>1.62.1</name></version>
-        <version><name>1.62.0</name></version>
         <version><name>1.61.0</name></version>
         <version><name>1.60.0</name></version>
         <version><name>1.59.0</name></version>

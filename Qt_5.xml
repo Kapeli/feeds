@@ -8,12 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/Qt_5.tgz</url>
     <other-versions>
         <version><name>5.15.8</name></version>
-        <version><name>5.15.7</name></version>
-        <version><name>5.15.6</name></version>
-        <version><name>5.15.5</name></version>
-        <version><name>5.15.4</name></version>
-        <version><name>5.15.3</name></version>
-        <version><name>5.15.2</name></version>
         <version><name>5.14.2</name></version>
         <version><name>5.13.2</name></version>
         <version><name>5.12.4</name></version>

@@ -8,14 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/Groovy_JDK.tgz</url>
     <other-versions>
         <version><name>4.0.8</name></version>
-        <version><name>4.0.7</name></version>
-        <version><name>4.0.6</name></version>
-        <version><name>4.0.5</name></version>
-        <version><name>4.0.4</name></version>
-        <version><name>4.0.3</name></version>
-        <version><name>4.0.2</name></version>
-        <version><name>4.0.1</name></version>
-        <version><name>4.0.0</name></version>
         <version><name>3.0.9</name></version>
         <version><name>2.5.9</name></version>
         <version><name>2.4.3</name></version>
