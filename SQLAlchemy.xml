@@ -1,5 +1,5 @@
 <entry>
-    <version>2.0.9</version>
+    <version>2.0.10</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/SQLAlchemy.tgz</url>
     <url>http://london.kapeli.com/feeds/SQLAlchemy.tgz</url>
@@ -7,6 +7,7 @@
     <url>http://tokyo.kapeli.com/feeds/SQLAlchemy.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/SQLAlchemy.tgz</url>
     <other-versions>
+        <version><name>2.0.10</name></version>
         <version><name>2.0.9</name></version>
         <version><name>2.0.7</name></version>
         <version><name>2.0.6</name></version>
