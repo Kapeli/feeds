@@ -8,9 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/ElasticSearch.tgz</url>
     <other-versions>
         <version><name>8.8.2</name></version>
-        <version><name>8.8.1</name></version>
         <version><name>8.7.1</name></version>
-        <version><name>8.7.0</name></version>
         <version><name>8.6.2</name></version>
         <version><name>8.5.3</name></version>
         <version><name>8.4.3</name></version>

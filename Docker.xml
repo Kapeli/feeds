@@ -8,11 +8,7 @@
     <url>http://frankfurt.kapeli.com/feeds/Docker.tgz</url>
     <other-versions>
         <version><name>24.0.5</name></version>
-        <version><name>24.0.2</name></version>
-        <version><name>24.0.0</name></version>
         <version><name>23.0.4</name></version>
-        <version><name>23.0.2</name></version>
-        <version><name>23.0.1</name></version>
         <version><name>20.10.22</name></version>
         <version><name>19.03.15</name></version>
         <version><name>18.09.7</name></version>
