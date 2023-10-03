@@ -1,5 +1,5 @@
 <entry>
-    <version>20.7.0</version>
+    <version>20.8.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://london.kapeli.com/feeds/NodeJS.tgz</url>
@@ -7,6 +7,7 @@
     <url>http://tokyo.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/NodeJS.tgz</url>
     <other-versions>
+        <version><name>20.8.0</name></version>
         <version><name>20.7.0</name></version>
         <version><name>20.6.1</name></version>
         <version><name>20.5.1</name></version>
