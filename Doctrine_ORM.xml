@@ -8,8 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/Doctrine_ORM.tgz</url>
     <other-versions>
         <version><name>2.16.2</name></version>
-        <version><name>2.16.1</name></version>
-        <version><name>2.16.0</name></version>
         <version><name>2.15.4</name></version>
         <version><name>2.14.3</name></version>
         <version><name>2.13.4</name></version>
