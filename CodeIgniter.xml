@@ -1,5 +1,5 @@
 <entry>
-    <version>4.4.2</version>
+    <version>4.4.3</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/CodeIgniter.tgz</url>
     <url>http://london.kapeli.com/feeds/CodeIgniter.tgz</url>
@@ -7,8 +7,7 @@
     <url>http://tokyo.kapeli.com/feeds/CodeIgniter.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/CodeIgniter.tgz</url>
     <other-versions>
-        <version><name>4.4.2</name></version>
-        <version><name>4.4.1</name></version>
+        <version><name>4.4.3</name></version>
         <version><name>4.3.7</name></version>
         <version><name>4.2.11</name></version>
         <version><name>4.1.9</name></version>
