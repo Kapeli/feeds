@@ -8,7 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/Redis.tgz</url>
     <other-versions>
         <version><name>7.2.3</name></version>
-        <version><name>7.2.2</name></version>
         <version><name>7.0.12</name></version>
         <version><name>6.2.6</name></version>
         <version><name>6.0.10</name></version>
