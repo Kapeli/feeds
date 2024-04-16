@@ -8,8 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/SQLite.tgz</url>
     <other-versions>
         <version><name>3.45.2</name></version>
-        <version><name>3.45.1</name></version>
-        <version><name>3.45.0</name></version>
         <version><name>3.44.2</name></version>
         <version><name>3.43.2</name></version>
         <version><name>3.42.0</name></version>
