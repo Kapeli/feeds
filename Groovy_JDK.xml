@@ -1,5 +1,5 @@
 <entry>
-    <version>4.0.21</version>
+    <version>4.0.22</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Groovy_JDK.tgz</url>
     <url>http://london.kapeli.com/feeds/Groovy_JDK.tgz</url>
@@ -7,7 +7,7 @@
     <url>http://tokyo.kapeli.com/feeds/Groovy_JDK.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Groovy_JDK.tgz</url>
     <other-versions>
-        <version><name>4.0.21</name></version>
+        <version><name>4.0.22</name></version>
         <version><name>3.0.9</name></version>
         <version><name>2.5.9</name></version>
         <version><name>2.4.3</name></version>
