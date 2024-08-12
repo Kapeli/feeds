@@ -1,5 +1,5 @@
 <entry>
-    <version>7.0.12</version>
+    <version>7.0.13</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/MongoDB.tgz</url>
     <url>http://london.kapeli.com/feeds/MongoDB.tgz</url>
@@ -7,6 +7,7 @@
     <url>http://tokyo.kapeli.com/feeds/MongoDB.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/MongoDB.tgz</url>
     <other-versions>
+        <version><name>7.0.13</name></version>
         <version><name>7.0.12</name></version>
         <version><name>6.0.8</name></version>
         <version><name>5.0.6</name></version>
