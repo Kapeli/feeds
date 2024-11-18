@@ -8,8 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/Akka.tgz</url>
     <other-versions>
         <version><name>2.9.7</name></version>
-        <version><name>2.9.5</name></version>
-        <version><name>2.9.4</name></version>
         <version><name>2.8.5</name></version>
         <version><name>2.7.0</name></version>
         <version><name>2.6.20</name></version>

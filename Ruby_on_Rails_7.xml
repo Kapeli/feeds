@@ -8,8 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/Ruby_on_Rails_7.tgz</url>
     <other-versions>
         <version><name>7.2.2</name></version>
-        <version><name>7.2.1</name></version>
-        <version><name>7.2.0</name></version>
         <version><name>7.1.3</name></version>
         <version><name>7.0.8</name></version>
     </other-versions>
