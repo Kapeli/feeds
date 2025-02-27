@@ -8,8 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/MongoDB.tgz</url>
     <other-versions>
         <version><name>8.0.5</name></version>
-        <version><name>8.0.4</name></version>
-        <version><name>8.0.1</name></version>
         <version><name>7.0.14</name></version>
         <version><name>6.0.8</name></version>
         <version><name>5.0.6</name></version>
