@@ -1,5 +1,5 @@
 <entry>
-    <version>2.4.64</version>
+    <version>2.4.65</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
     <url>http://london.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
@@ -7,6 +7,7 @@
     <url>http://tokyo.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
     <other-versions>
+        <version><name>2.4.65</name></version>
         <version><name>2.4.64</name></version>
         <version><name>2.2.27</name></version>
         <version><name>2.0.65</name></version>
