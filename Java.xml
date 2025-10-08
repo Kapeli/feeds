@@ -1,5 +1,5 @@
 <entry>
-    <version>SE24</version>
+    <version>SE25</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Java.tgz</url>
     <url>http://london.kapeli.com/feeds/Java.tgz</url>
@@ -7,6 +7,7 @@
     <url>http://tokyo.kapeli.com/feeds/Java.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Java.tgz</url>
     <other-versions>
+        <version><name>SE25</name></version>
         <version><name>SE24</name></version>
         <version><name>SE23</name></version>
         <version><name>SE22</name></version>
