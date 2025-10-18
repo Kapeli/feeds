@@ -8,7 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/Apache_HTTP_Server.tgz</url>
     <other-versions>
         <version><name>2.4.65</name></version>
-        <version><name>2.4.64</name></version>
         <version><name>2.2.27</name></version>
         <version><name>2.0.65</name></version>
     </other-versions>

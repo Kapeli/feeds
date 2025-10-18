@@ -8,7 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/Clojure.tgz</url>
     <other-versions>
         <version><name>1.12.3</name></version>
-        <version><name>1.12.1</name></version>
         <version><name>1.12</name></version>
         <version><name>1.11</name></version>
         <version><name>1.10</name></version>

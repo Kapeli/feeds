@@ -8,8 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/Nginx.tgz</url>
     <other-versions>
         <version><name>1.29.2</name></version>
-        <version><name>1.29.1</name></version>
-        <version><name>1.29.0</name></version>
         <version><name>1.28.0</name></version>
         <version><name>1.27.5</name></version>
         <version><name>1.26.0</name></version>
