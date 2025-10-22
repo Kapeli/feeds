@@ -10,23 +10,9 @@
         <version><name>9.0</name></version>
         <version><name>8.0</name></version>
         <version><name>7.1</name></version>
-        <version><name>7.0</name></version>
         <version><name>6.5</name></version>
-        <version><name>6.4</name></version>
-        <version><name>6.3</name></version>
-        <version><name>6.2</name></version>
-        <version><name>6.1</name></version>
-        <version><name>6.0</name></version>
         <version><name>5.4</name></version>
-        <version><name>5.1</name></version>
-        <version><name>5.0</name></version>
         <version><name>4.3</name></version>
-        <version><name>4.0</name></version>
         <version><name>3.6</name></version>
-        <version><name>3.5</name></version>
-        <version><name>3.4</name></version>
-        <version><name>3.3</name></version>
-        <version><name>3.2</name></version>
-        <version><name>3.1</name></version>
     </other-versions>
 </entry>

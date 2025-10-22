@@ -27,27 +27,7 @@
         <version><name>9.5</name></version>
         <version><name>7.1</name></version>
         <version><name>6.5</name></version>
-        <version><name>6.4</name></version>
-        <version><name>6.3</name></version>
-        <version><name>6.2</name></version>
-        <version><name>6.1</name></version>
-        <version><name>6.0</name></version>
         <version><name>5.7</name></version>
-        <version><name>5.6</name></version>
-        <version><name>5.5</name></version>
-        <version><name>5.4</name></version>
-        <version><name>5.3</name></version>
-        <version><name>5.2</name></version>
-        <version><name>5.1</name></version>
-        <version><name>5.0</name></version>
         <version><name>4.8</name></version>
-        <version><name>4.7</name></version>
-        <version><name>4.6</name></version>
-        <version><name>4.5</name></version>
-        <version><name>4.4</name></version>
-        <version><name>4.3</name></version>
-        <version><name>4.2</name></version>
-        <version><name>4.1</name></version>
-        <version><name>4.0</name></version>
     </other-versions>
 </entry>

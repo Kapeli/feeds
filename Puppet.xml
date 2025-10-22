@@ -8,37 +8,8 @@
     <url>http://frankfurt.kapeli.com/feeds/Puppet.tgz</url>
     <other-versions>
         <version><name>6.10.1</name></version>
-        <version><name>6.9.0</name></version>
-        <version><name>6.8.1</name></version>
-        <version><name>6.7.2</name></version>
-        <version><name>6.6.0</name></version>
-        <version><name>6.5.0</name></version>
-        <version><name>6.4.2</name></version>
-        <version><name>6.3.0</name></version>
-        <version><name>6.2.0</name></version>
-        <version><name>6.0.4</name></version>
         <version><name>5.5.6</name></version>
-        <version><name>5.4.0</name></version>
-        <version><name>5.3.4</name></version>
-        <version><name>5.2.0</name></version>
-        <version><name>5.1.0</name></version>
-        <version><name>5.0.1</name></version>
         <version><name>4.10.4</name></version>
-        <version><name>4.9.4</name></version>
-        <version><name>4.8.2</name></version>
-        <version><name>4.7.0</name></version>
-        <version><name>4.6.2</name></version>
-        <version><name>4.5.3</name></version>
-        <version><name>4.4.2</name></version>
-        <version><name>4.3.2</name></version>
-        <version><name>4.2.0</name></version>
-        <version><name>4.1.0</name></version>
-        <version><name>4.0.0</name></version>
         <version><name>3.8.6</name></version>
-        <version><name>3.7.5</name></version>
-        <version><name>3.6.2</name></version>
-        <version><name>3.5.1</name></version>
-        <version><name>3.4.3</name></version>
-        <version><name>3.3.2</name></version>
     </other-versions>
 </entry>

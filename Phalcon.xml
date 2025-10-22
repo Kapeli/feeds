@@ -8,9 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/Phalcon.tgz</url>
     <other-versions>
         <version><name>3.3.2</name></version>
-        <version><name>3.2.4</name></version>
-        <version><name>3.1.1</name></version>
-        <version><name>3.0.4</name></version>
         <version><name>2.0.13</name></version>
     </other-versions>
 </entry>

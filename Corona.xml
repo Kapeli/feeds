@@ -8,48 +8,10 @@
     <url>http://frankfurt.kapeli.com/feeds/Corona.tgz</url>
     <other-versions>
         <version><name>2019.3525</name></version>
-        <version><name>2019.3490</name></version>
-        <version><name>2019.3480</name></version>
-        <version><name>2019.3460</name></version>
         <version><name>2018.3443</name></version>
-        <version><name>2018.3392</name></version>
-        <version><name>2018.3366</name></version>
-        <version><name>2018.3319</name></version>
-        <version><name>2018.3304</name></version>
-        <version><name>2018.3286</name></version>
-        <version><name>2018.3265</name></version>
-        <version><name>2018.3224</name></version>
-        <version><name>2018.3204</name></version>
         <version><name>2017.3189</name></version>
-        <version><name>2017.3184</name></version>
-        <version><name>2017.3179</name></version>
-        <version><name>2017.3178</name></version>
-        <version><name>2017.3169</name></version>
-        <version><name>2017.3160</name></version>
-        <version><name>2017.3156</name></version>
-        <version><name>2017.3141</name></version>
-        <version><name>2017.3135</name></version>
-        <version><name>2017.3128</name></version>
-        <version><name>2017.3122</name></version>
-        <version><name>2017.3118</name></version>
-        <version><name>2017.3115</name></version>
-        <version><name>2017.3111</name></version>
-        <version><name>2017.3106</name></version>
-        <version><name>2017.3100</name></version>
-        <version><name>2017.3085</name></version>
-        <version><name>2017.3083</name></version>
-        <version><name>2017.3082</name></version>
-        <version><name>2017.3081</name></version>
-        <version><name>2017.3080</name></version>
-        <version><name>2017.3077</name></version>
-        <version><name>2017.3074</name></version>
-        <version><name>2017.3068</name></version>
         <version><name>2016.2992</name></version>
-        <version><name>2016.2949</name></version>
-        <version><name>2016.2906</name></version>
-        <version><name>2016.2830</name></version>
         <version><name>2015.2731</name></version>
-        <version><name>2015.2646</name></version>
         <version><name>2014.2511</name></version>
     </other-versions>
 </entry>

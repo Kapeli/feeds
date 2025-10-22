@@ -15,15 +15,6 @@
         <version><name>7.x</name></version>
         <version><name>6.x</name></version>
         <version><name>5.8</name></version>
-        <version><name>5.7</name></version>
-        <version><name>5.6</name></version>
-        <version><name>5.5</name></version>
-        <version><name>5.4</name></version>
-        <version><name>5.3</name></version>
-        <version><name>5.2</name></version>
-        <version><name>5.1</name></version>
-        <version><name>5.0</name></version>
         <version><name>4.2</name></version>
-        <version><name>4.1</name></version>
     </other-versions>
 </entry>

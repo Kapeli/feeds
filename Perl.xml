@@ -8,10 +8,5 @@
     <url>http://frankfurt.kapeli.com/feeds/Perl.tgz</url>
     <other-versions>
         <version><name>5.26.1</name></version>
-        <version><name>5.24.0</name></version>
-        <version><name>5.22.0</name></version>
-        <version><name>5.20.1</name></version>
-        <version><name>5.18.2</name></version>
-        <version><name>5.8.9</name></version>
     </other-versions>
 </entry>

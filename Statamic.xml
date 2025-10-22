@@ -8,15 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/Statamic.tgz</url>
     <other-versions>
         <version><name>2.11.20</name></version>
-        <version><name>2.10.7</name></version>
-        <version><name>2.9.8</name></version>
-        <version><name>2.8.12</name></version>
-        <version><name>2.7.2</name></version>
-        <version><name>2.6.9</name></version>
-        <version><name>2.5.11</name></version>
-        <version><name>2.1.19</name></version>
-        <version><name>2.0.11</name></version>
         <version><name>1.11.2</name></version>
-        <version><name>1.10.6</name></version>
     </other-versions>
 </entry>

@@ -8,17 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/Jade.tgz</url>
     <other-versions>
         <version><name>1.11</name></version>
-        <version><name>1.10</name></version>
-        <version><name>1.9</name></version>
-        <version><name>1.8</name></version>
-        <version><name>1.7</name></version>
-        <version><name>1.6</name></version>
-        <version><name>1.5</name></version>
-        <version><name>1.4</name></version>
-        <version><name>1.3</name></version>
-        <version><name>1.2</name></version>
-        <version><name>1.1</name></version>
-        <version><name>1.0</name></version>
         <version><name>0.35</name></version>
     </other-versions>
 </entry>

@@ -10,19 +10,7 @@
         <version><name>6.9.0</name></version>
         <version><name>6.8.1</name></version>
         <version><name>6.7.5</name></version>
-        <version><name>6.5.3</name></version>
-        <version><name>6.4.3</name></version>
-        <version><name>6.3.1</name></version>
-        <version><name>6.2.4</name></version>
-        <version><name>6.1.2</name></version>
-        <version><name>6.0.6</name></version>
         <version><name>5.5.2</name></version>
-        <version><name>5.4.7</name></version>
-        <version><name>5.3.3</name></version>
-        <version><name>5.2.3</name></version>
-        <version><name>5.1.1</name></version>
-        <version><name>5.0.3</name></version>
         <version><name>4.3.2</name></version>
-        <version><name>4.2.3</name></version>
     </other-versions>
 </entry>

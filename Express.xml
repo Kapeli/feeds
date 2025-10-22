@@ -11,16 +11,6 @@
         <version><name>5.0</name></version>
         <version><name>4.19</name></version>
         <version><name>4.18</name></version>
-        <version><name>4.17</name></version>
-        <version><name>4.16</name></version>
-        <version><name>4.15</name></version>
-        <version><name>4.14</name></version>
-        <version><name>4.13</name></version>
-        <version><name>4.12</name></version>
-        <version><name>4.11</name></version>
-        <version><name>4.10</name></version>
-        <version><name>4.9</name></version>
         <version><name>3.5</name></version>
-        <version><name>3.4</name></version>
     </other-versions>
 </entry>

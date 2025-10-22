@@ -101,136 +101,16 @@
         <version><name>15.1.0</name></version>
         <version><name>15.0.1</name></version>
         <version><name>14.14.0</name></version>
-        <version><name>14.13.1</name></version>
-        <version><name>14.12.0</name></version>
-        <version><name>14.11.0</name></version>
-        <version><name>14.10.1</name></version>
-        <version><name>14.8.0</name></version>
-        <version><name>14.7.0</name></version>
-        <version><name>14.6.0</name></version>
-        <version><name>14.5.0</name></version>
-        <version><name>14.4.0</name></version>
-        <version><name>14.3.0</name></version>
-        <version><name>14.2.0</name></version>
-        <version><name>14.1.0</name></version>
-        <version><name>14.0.0</name></version>
         <version><name>13.13.0</name></version>
-        <version><name>13.12.0</name></version>
-        <version><name>13.11.0</name></version>
-        <version><name>13.10.1</name></version>
-        <version><name>13.9.0</name></version>
-        <version><name>13.8.0</name></version>
-        <version><name>13.7.0</name></version>
-        <version><name>13.5.0</name></version>
-        <version><name>13.3.0</name></version>
-        <version><name>13.2.0</name></version>
-        <version><name>13.1.0</name></version>
-        <version><name>13.0.1</name></version>
         <version><name>12.12.0</name></version>
-        <version><name>12.11.1</name></version>
-        <version><name>12.10.0</name></version>
-        <version><name>12.9.1</name></version>
-        <version><name>12.8.1</name></version>
-        <version><name>12.7.0</name></version>
-        <version><name>12.6.0</name></version>
-        <version><name>12.5.0</name></version>
-        <version><name>12.4.0</name></version>
-        <version><name>12.3.1</name></version>
-        <version><name>12.2.0</name></version>
-        <version><name>12.1.0</name></version>
         <version><name>11.14.0</name></version>
-        <version><name>11.13.0</name></version>
-        <version><name>11.12.0</name></version>
-        <version><name>11.11.0</name></version>
-        <version><name>11.10.1</name></version>
-        <version><name>11.9.0</name></version>
-        <version><name>11.8.0</name></version>
-        <version><name>11.7.0</name></version>
-        <version><name>11.6.0</name></version>
-        <version><name>11.5.0</name></version>
-        <version><name>11.4.0</name></version>
-        <version><name>11.3.0</name></version>
-        <version><name>11.2.0</name></version>
-        <version><name>11.1.0</name></version>
-        <version><name>11.0.0</name></version>
         <version><name>10.12.0</name></version>
-        <version><name>10.11.0</name></version>
-        <version><name>10.10.0</name></version>
-        <version><name>10.9.0</name></version>
-        <version><name>10.8.0</name></version>
-        <version><name>10.7.0</name></version>
-        <version><name>10.6.0</name></version>
-        <version><name>10.5.0</name></version>
-        <version><name>10.4.1</name></version>
-        <version><name>10.3.0</name></version>
-        <version><name>10.2.1</name></version>
-        <version><name>10.1.0</name></version>
-        <version><name>10.0.0</name></version>
         <version><name>9.11.1</name></version>
-        <version><name>9.10.1</name></version>
-        <version><name>9.9.0</name></version>
-        <version><name>9.7.1</name></version>
-        <version><name>9.6.1</name></version>
-        <version><name>9.5.0</name></version>
-        <version><name>9.4.0</name></version>
-        <version><name>9.3.0</name></version>
-        <version><name>9.2.1</name></version>
-        <version><name>9.1.0</name></version>
-        <version><name>9.0.0</name></version>
         <version><name>8.10.0</name></version>
-        <version><name>8.9.1</name></version>
-        <version><name>8.8.1</name></version>
-        <version><name>8.7.0</name></version>
-        <version><name>8.6.0</name></version>
-        <version><name>8.5.0</name></version>
-        <version><name>8.4.0</name></version>
-        <version><name>8.3.0</name></version>
-        <version><name>8.2.1</name></version>
-        <version><name>8.1.4</name></version>
-        <version><name>8.0.0</name></version>
         <version><name>7.10.0</name></version>
-        <version><name>7.9.0</name></version>
-        <version><name>7.8.0</name></version>
-        <version><name>7.7.4</name></version>
-        <version><name>7.6.0</name></version>
-        <version><name>7.5.0</name></version>
-        <version><name>7.4.0</name></version>
-        <version><name>7.3.0</name></version>
-        <version><name>7.2.1</name></version>
-        <version><name>7.1.0</name></version>
-        <version><name>7.0.0</name></version>
         <version><name>6.11.3</name></version>
-        <version><name>6.10.3</name></version>
-        <version><name>6.9.1</name></version>
-        <version><name>6.8.1</name></version>
-        <version><name>6.7.0</name></version>
-        <version><name>6.6.0</name></version>
-        <version><name>6.5.0</name></version>
-        <version><name>6.4.0</name></version>
-        <version><name>6.3.1</name></version>
-        <version><name>6.2.2</name></version>
-        <version><name>6.1.0</name></version>
-        <version><name>6.0.0</name></version>
         <version><name>5.12.0</name></version>
-        <version><name>5.11.0</name></version>
-        <version><name>5.10.1</name></version>
-        <version><name>5.9.1</name></version>
-        <version><name>5.8.0</name></version>
-        <version><name>5.7.1</name></version>
-        <version><name>5.6.0</name></version>
-        <version><name>5.5.0</name></version>
-        <version><name>5.4.1</name></version>
-        <version><name>5.3.0</name></version>
-        <version><name>5.2.0</name></version>
-        <version><name>5.1.1</name></version>
-        <version><name>5.0.0</name></version>
         <version><name>4.6.0</name></version>
-        <version><name>4.4.5</name></version>
-        <version><name>4.2.1</name></version>
-        <version><name>4.1.2</name></version>
-        <version><name>4.0.0</name></version>
         <version><name>0.12.7</name></version>
-        <version><name>0.10.35</name></version>
-        <version><name>0.8.22</name></version>
     </other-versions>
 </entry>

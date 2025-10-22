@@ -17,31 +17,12 @@
         <version><name>22.8.0</name></version>
         <version><name>20.3.0</name></version>
         <version><name>19.10.0</name></version>
-        <version><name>19.7.0</name></version>
-        <version><name>19.2.1</name></version>
         <version><name>18.9.0</name></version>
-        <version><name>18.7.0</name></version>
-        <version><name>18.4.0</name></version>
         <version><name>17.9.0</name></version>
-        <version><name>17.5.0</name></version>
-        <version><name>17.1.0</name></version>
         <version><name>16.6.0</name></version>
-        <version><name>16.5.0</name></version>
-        <version><name>16.4.1</name></version>
-        <version><name>16.3.2</name></version>
-        <version><name>16.2.0</name></version>
-        <version><name>16.1.1</name></version>
-        <version><name>16.0.0</name></version>
         <version><name>15.5.0</name></version>
-        <version><name>15.4.0</name></version>
-        <version><name>15.3.0</name></version>
-        <version><name>15.2.1</name></version>
-        <version><name>15.1.0</name></version>
-        <version><name>15.0.0</name></version>
         <version><name>14.0.2</name></version>
         <version><name>13.2.0</name></version>
-        <version><name>13.1.0</name></version>
-        <version><name>13.0.0</name></version>
         <version><name>12.3.0</name></version>
     </other-versions>
 </entry>

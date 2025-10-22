@@ -35,17 +35,12 @@
         <version><name>3001.1</name></version>
         <version><name>3001</name></version>
         <version><name>3000.3</name></version>
-        <version><name>3000.2</name></version>
-        <version><name>3000.1</name></version>
         <version><name>3000</name></version>
         <version><name>2019.2.3</name></version>
         <version><name>2018.3.3</name></version>
         <version><name>2017.7.4</name></version>
         <version><name>2016.11.9</name></version>
-        <version><name>2016.3.4</name></version>
         <version><name>2015.8.10</name></version>
-        <version><name>2015.5.5</name></version>
         <version><name>2014.7.5</name></version>
-        <version><name>2014.1.13</name></version>
     </other-versions>
 </entry>

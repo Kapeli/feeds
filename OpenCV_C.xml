@@ -8,7 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/OpenCV_C.tgz</url>
     <other-versions>
         <version><name>3.1.0</name></version>
-        <version><name>3.0.0</name></version>
         <version><name>2.4.11</name></version>
     </other-versions>
 </entry>
