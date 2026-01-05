@@ -1,5 +1,5 @@
 <entry>
-    <version>5.4</version>
+    <version>5.5</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/Lua.tgz</url>
     <url>http://london.kapeli.com/feeds/Lua.tgz</url>
@@ -7,6 +7,7 @@
     <url>http://tokyo.kapeli.com/feeds/Lua.tgz</url>
     <url>http://frankfurt.kapeli.com/feeds/Lua.tgz</url>
     <other-versions>
+        <version><name>5.5</name></version>
         <version><name>5.4</name></version>
         <version><name>5.3</name></version>
         <version><name>5.2</name></version>
