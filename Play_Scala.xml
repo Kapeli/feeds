@@ -8,9 +8,6 @@
     <url>http://frankfurt.kapeli.com/feeds/Play_Scala.tgz</url>
     <other-versions>
         <version><name>3.0.12</name></version>
-        <version><name>3.0.11</name></version>
-        <version><name>3.0.10</name></version>
-        <version><name>3.0.9</name></version>
         <version><name>2.8.20</name></version>
     </other-versions>
 </entry>
